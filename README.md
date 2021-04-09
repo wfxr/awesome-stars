@@ -1526,6 +1526,7 @@
 
 ## Vim script 
 
+- [Xuyuanp/viz-nr2char](https://github.com/Xuyuanp/viz-nr2char) - Visualize vim nr2char
 - [gelguy/wilder.nvim](https://github.com/gelguy/wilder.nvim) - A more adventurous wildmenu
 - [iqxd/vim-mine-sweeping](https://github.com/iqxd/vim-mine-sweeping) - mine sweeping game in vim and neovim
 - [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator 10+ languages 📚 Generate proper code documentation skeletons with a single keypress. ⚡️🔥
