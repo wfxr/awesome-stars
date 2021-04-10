@@ -692,7 +692,7 @@
 - [streetturtle/awesome-wm-widgets](https://github.com/streetturtle/awesome-wm-widgets) - Widgets for Awesome Window Manager
 - [Seancheey/FactorioBlueprinter](https://github.com/Seancheey/FactorioBlueprinter) - This factorio mod helps you create crafting blueprints easily by selecting inputs and outputs
 - [Seancheey/FactorioBeltRouter](https://github.com/Seancheey/FactorioBeltRouter) - This Factorio mod allows you to route belts/pipes automatically using A-star/Dijkstra algorithms. (Algorithms will be eventually migrated to MiscLib repo)
-- [Xuyuanp/yanil](https://github.com/Xuyuanp/yanil) - Yet Another Nerdtree In Lua [wip]
+- [Xuyuanp/yanil](https://github.com/Xuyuanp/yanil) - Yet Another Nerdtree In Lua
 - [Xuyuanp/scrollbar.nvim](https://github.com/Xuyuanp/scrollbar.nvim) - scrollbar for neovim
 - [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - The fastest Neovim colorizer.
 - [gepandz/tree-cleaner](https://github.com/gepandz/tree-cleaner) - Factorio mod, written in LUA, that marks dead trees for deconstruction
@@ -1000,6 +1000,8 @@
 
 ## Rust 
 
+- [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) - Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 Minimalist CLI email client, written in Rust.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - The best open source remote desktop software
 - [stateright/stateright](https://github.com/stateright/stateright) - A model checker for implementing distributed systems.
@@ -1482,6 +1484,7 @@
 
 ## TypeScript 
 
+- [weirongxu/coc-explorer](https://github.com/weirongxu/coc-explorer) - 📁 Explorer for coc.nvim
 - [neoclide/coc-pairs](https://github.com/neoclide/coc-pairs) - Basic auto pairs extension of coc.nvim
 - [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [actions-rs/cargo](https://github.com/actions-rs/cargo) - 📦 GitHub Action for Rust `cargo` command
