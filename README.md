@@ -295,6 +295,7 @@
 
 ## Go 
 
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [cch123/golang-notes](https://github.com/cch123/golang-notes) - Go source code analysis(zh-cn)
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
@@ -453,6 +454,7 @@
 - [gradle/gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all
 - [patrikerdes/gradle-use-latest-versions-plugin](https://github.com/patrikerdes/gradle-use-latest-versions-plugin) - 
 - [ben-manes/gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin) - Gradle plugin to discover dependency updates
+- [melix/jmh-gradle-plugin](https://github.com/melix/jmh-gradle-plugin) - Integrates the JMH benchmarking framework with Gradle
 
 ## HTML 
 
@@ -512,7 +514,6 @@
 - [topobyte/jsi](https://github.com/topobyte/jsi) - Java Spatial Index
 - [davidmoten/rtree](https://github.com/davidmoten/rtree) - Immutable in-memory R-tree and R*-tree implementations in Java with reactive api
 - [jitpack/gradle-simple](https://github.com/jitpack/gradle-simple) - Simple gradle example project
-- [melix/jmh-gradle-plugin](https://github.com/melix/jmh-gradle-plugin) - Integrates the JMH benchmarking framework with Gradle
 - [kungfoo/geohash-java](https://github.com/kungfoo/geohash-java) - Implementation of GeoHashes in java. We try to be/stay compliant to the spec, as far as possible.
 - [sromku/polygon-contains-point](https://github.com/sromku/polygon-contains-point) - Point in polygon - Check if the point inside the polygon
 - [locationtech/jts](https://github.com/locationtech/jts) - The JTS Topology Suite is a Java library for creating and manipulating vector geometry.
@@ -637,6 +638,7 @@
 
 ## Jupyter Notebook 
 
+- [EvgSkv/logica](https://github.com/EvgSkv/logica) - Logica is a logic programming language that compiles to StandardSQL and runs on Google BigQuery.
 - [MLEveryday/100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) - 100-Days-Of-ML-Code中文版
 - [lijin-THU/notes-python](https://github.com/lijin-THU/notes-python) - 中文 Python 笔记
 
