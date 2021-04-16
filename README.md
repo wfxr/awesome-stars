@@ -1141,7 +1141,7 @@
 - [turnage/valora](https://github.com/turnage/valora) - painting by functions
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
-- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [rust-cli/confy](https://github.com/rust-cli/confy) - 🛋 Zero-boilerplate configuration management in Rust
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [lpxxn/rust-design-pattern](https://github.com/lpxxn/rust-design-pattern) - rust design patterns
