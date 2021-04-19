@@ -1010,6 +1010,7 @@
 
 ## Rust 
 
+- [PolyMeilex/rfd](https://github.com/PolyMeilex/rfd) - Rusty File Dialog
 - [chinedufn/dipa](https://github.com/chinedufn/dipa) - dipa makes it easy to efficiently delta encode large Rust data structures.
 - [dtolnay/typetag](https://github.com/dtolnay/typetag) - Serde serializable and deserializable trait objects
 - [tokio-rs/loom](https://github.com/tokio-rs/loom) - Concurrency permutation testing tool for Rust.
@@ -1026,7 +1027,7 @@
 - [sassman/t-rec-rs](https://github.com/sassman/t-rec-rs) - Blazingly fast terminal recorder that generates animated gif images for the web written in rust
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
-- [greyblake/whatlang-rs](https://github.com/greyblake/whatlang-rs) - Natural language detection library for Rust. Try demo online: https://www.greyblake.com/whatlang/
+- [greyblake/whatlang-rs](https://github.com/greyblake/whatlang-rs) - Natural language detection library for Rust. Try demo online: https://whatlang.org/
 - [djkoloski/rkyv](https://github.com/djkoloski/rkyv) - Zero-copy deserialization framework for Rust
 - [djkoloski/rust_serialization_benchmark](https://github.com/djkoloski/rust_serialization_benchmark) - Benchmarks for rust serialization frameworks
 - [benhoyt/countwords](https://github.com/benhoyt/countwords) - Playing with counting word frequencies (and performance) in various languages.
