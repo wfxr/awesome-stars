@@ -102,7 +102,6 @@
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 - [sickill/stderred](https://github.com/sickill/stderred) - stderr in red
 - [universal-ctags/ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
-- [flok99/multitail](https://github.com/flok99/multitail) - MultiTail allows you to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge. http://vanheusden.com/multitail/
 - [jordansissel/keynav](https://github.com/jordansissel/keynav) - retire your mouse.
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [tgraf/bmon](https://github.com/tgraf/bmon) - bandwidth monitor and rate estimator
