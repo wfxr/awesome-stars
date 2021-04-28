@@ -192,7 +192,7 @@
 - [microsoft/GSL](https://github.com/microsoft/GSL) - Guidelines Support Library
 - [chriskohlhoff/asio](https://github.com/chriskohlhoff/asio) - Asio C++ Library
 - [google/benchmark](https://github.com/google/benchmark) - A microbenchmark support library
-- [google/googletest](https://github.com/google/googletest) - Googletest - Google Testing and Mocking Framework
+- [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
 - [CppCon/CppCon2015](https://github.com/CppCon/CppCon2015) - Presentation Materials from CppCon 2015
 - [CppCon/CppCon2014](https://github.com/CppCon/CppCon2014) - Speaker materials from CppCon 2014
 
@@ -1016,7 +1016,7 @@
 - [tokio-rs/loom](https://github.com/tokio-rs/loom) - Concurrency permutation testing tool for Rust.
 - [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) - Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
-- [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 The CLI email client.
+- [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 CLI email client
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - The best open source remote desktop software
 - [stateright/stateright](https://github.com/stateright/stateright) - A model checker for implementing distributed systems.
 - [tidwall/gjson.rs](https://github.com/tidwall/gjson.rs) - Get JSON values quickly - JSON parser for Rust
