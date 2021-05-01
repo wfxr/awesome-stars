@@ -133,7 +133,7 @@
 - [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) - 一款开源免费的输入法词库转换程序
 - [MediaBrowser/Emby](https://github.com/MediaBrowser/Emby) - Emby Server is a personal media server with apps on just about every device.
 - [Radarr/Radarr](https://github.com/Radarr/Radarr) - A fork of Sonarr to work with movies à la Couchpotato.
-- [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - If you want to keep a secret, you must also hide it from yourself.
+- [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - Moved to https://github.com/Shadowsocks-NET/Shadowsocks.NET
 - [guoboism/mixup](https://github.com/guoboism/mixup) - 
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
 - [microsoft/Mobius](https://github.com/microsoft/Mobius) - C# and F# language binding and extensions to Apache Spark
