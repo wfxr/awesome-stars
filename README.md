@@ -463,7 +463,6 @@
 - [zzy/this-week-in-rust-zh-cn](https://github.com/zzy/this-week-in-rust-zh-cn) - Rust 官方周报（简体中文版）
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [AlternativeFFFF/Alt-F4](https://github.com/AlternativeFFFF/Alt-F4) - Alternative Factorio Friday Fan Facts, also known as Alt-F4
-- [eoli3n/dotfiles](https://github.com/eoli3n/dotfiles) - Sway acid dark
 - [xizhibei/blog](https://github.com/xizhibei/blog) - 个人博客，(Node.js/Golang/Backend/DevOps)，欢迎 Star, Watch 订阅以及评论
 - [aspd199/surprising-facility-blackbox](https://github.com/aspd199/surprising-facility-blackbox) - mini factory
 - [deniszholob/factorio-cheat-sheet](https://github.com/deniszholob/factorio-cheat-sheet) - Cheat Sheet for Factorio
@@ -631,6 +630,7 @@
 
 ## Jinja 
 
+- [eoli3n/dotfiles](https://github.com/eoli3n/dotfiles) - Sway acid dark
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [easzlab/kubeasz](https://github.com/easzlab/kubeasz) - 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
 
@@ -1211,7 +1211,7 @@
 - [jesusprubio/leg](https://github.com/jesusprubio/leg) - 🔈 Elegant print for lazy devs
 - [whitfin/limber](https://github.com/whitfin/limber) - A simple (but quick) tool for backing up Elasticsearch documents
 - [stepchowfun/toast](https://github.com/stepchowfun/toast) - Containerize your development and continuous integration environments. 🥂
-- [hoodie/notify-rust](https://github.com/hoodie/notify-rust) - ☝️Send Desktop Notifications on linux and bsd
+- [hoodie/notify-rust](https://github.com/hoodie/notify-rust) - ☝️send desktop notifications from you rust app.
 - [matthiaskrgr/cargo-cache](https://github.com/matthiaskrgr/cargo-cache) - manage cargo cache (${CARGO_HOME}, ~/.cargo/), print sizes of dirs and remove dirs selectively
 - [fanzeyi/cargo-play](https://github.com/fanzeyi/cargo-play) - A local Rust playground
 - [jaemk/self_update](https://github.com/jaemk/self_update) - Self updates for rust executables
