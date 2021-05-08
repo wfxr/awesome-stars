@@ -825,7 +825,7 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [oskarkrawczyk/honukai-iterm-zsh](https://github.com/oskarkrawczyk/honukai-iterm-zsh) - Honukai theme and colors for Oh My ZSH and iTerm
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language. Join Kotlin release event: https://kotl.in/15-event
 - [panxl6/kotlin-in-action](https://github.com/panxl6/kotlin-in-action) - 《kotlin实战》翻译
 - [EZLippi/practical-programming-books](https://github.com/EZLippi/practical-programming-books) - 这里收录比较实用的计算机相关技术书籍，可以在短期之内入门的简单实用教程、一些技术网站以及一些写的比较好的博文，欢迎Fork，你也可以通过Pull Request参与编辑。
 - [geeeeeeeeek/git-recipes](https://github.com/geeeeeeeeek/git-recipes) - 🥡 Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程.
