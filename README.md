@@ -755,7 +755,7 @@
 - [rust-random/book](https://github.com/rust-random/book) - The Rust Rand Book
 - [blanboom/awesome-home-networking-cn](https://github.com/blanboom/awesome-home-networking-cn) - 家庭网络知识整理
 - [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译
-- [zvizvi/Github-Web-IDE](https://github.com/zvizvi/Github-Web-IDE) - ⚡ Open Github repositories in online web IDE
+- [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE) - ⚡ Open GitHub repositories in online web IDE
 - [rustcc/RustChinaConf2020](https://github.com/rustcc/RustChinaConf2020) - All pdf slides in RustChinaConf2020
 - [nnethercote/perf-book](https://github.com/nnethercote/perf-book) - The Rust Performance Book
 - [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing
@@ -1009,6 +1009,7 @@
 
 ## Rust 
 
+- [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [PolyMeilex/rfd](https://github.com/PolyMeilex/rfd) - Rusty File Dialog
 - [chinedufn/dipa](https://github.com/chinedufn/dipa) - dipa makes it easy to efficiently delta encode large Rust data structures.
 - [dtolnay/typetag](https://github.com/dtolnay/typetag) - Serde serializable and deserializable trait objects
@@ -1675,6 +1676,7 @@
 
 ## Vue 
 
+- [xieyuheng/luoxu-search](https://github.com/xieyuheng/luoxu-search) - 
 - [Rocket1184/electron-netease-cloud-music](https://github.com/Rocket1184/electron-netease-cloud-music) - UNOFFICIAL client for music.163.com. Powered by Electron and Vue
 - [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail) - UI Email Signature Generator - Make easy to create your email signature
