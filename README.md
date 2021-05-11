@@ -133,7 +133,7 @@
 - [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) - 一款开源免费的输入法词库转换程序
 - [MediaBrowser/Emby](https://github.com/MediaBrowser/Emby) - Emby Server is a personal media server with apps on just about every device.
 - [Radarr/Radarr](https://github.com/Radarr/Radarr) - A fork of Sonarr to work with movies à la Couchpotato.
-- [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - Moved to https://github.com/Shadowsocks-NET/Shadowsocks.NET
+- [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 - [guoboism/mixup](https://github.com/guoboism/mixup) - 
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
 - [microsoft/Mobius](https://github.com/microsoft/Mobius) - C# and F# language binding and extensions to Apache Spark
@@ -1009,6 +1009,7 @@
 
 ## Rust 
 
+- [sharkdp/bugreport](https://github.com/sharkdp/bugreport) - Rust library to collect system and environment information for bug reports
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [PolyMeilex/rfd](https://github.com/PolyMeilex/rfd) - Rusty File Dialog
 - [chinedufn/dipa](https://github.com/chinedufn/dipa) - dipa makes it easy to efficiently delta encode large Rust data structures.
@@ -1086,7 +1087,7 @@
 - [jnetterf/aoc](https://github.com/jnetterf/aoc) - Advent of Code Solutions
 - [wfxr/advent-of-code-2020](https://github.com/wfxr/advent-of-code-2020) - 🦀 Rust solutions to AoC 2020
 - [sfackler/rust-phf](https://github.com/sfackler/rust-phf) - Compile time static maps for Rust
-- [AxlLind/AdventOfCode2020](https://github.com/AxlLind/AdventOfCode2020) - Solutions to all 25 AoC 2020 problems in Rust! :christmas_tree:
+- [AxlLind/AdventOfCode2020](https://github.com/AxlLind/AdventOfCode2020) - Solutions to all 25 AoC 2020 problems in Rust :christmas_tree: With relatively high global leaderboard placements!
 - [orhun/menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️
 - [servo/rust-fnv](https://github.com/servo/rust-fnv) - Fowler–Noll–Vo hash function
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
