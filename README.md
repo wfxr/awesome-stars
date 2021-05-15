@@ -663,7 +663,7 @@
 - [bennyhuo/TieGuanYin](https://github.com/bennyhuo/TieGuanYin) - Activity Builder.
 - [bennyhuo/Apt-Tutorials](https://github.com/bennyhuo/Apt-Tutorials) - 注解处理器教程，使用 Kotlin 编写
 - [square/kotlinpoet](https://github.com/square/kotlinpoet) - A Kotlin API for generating .kt source files.
-- [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin
+- [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [wfxr/elastic-tunnel](https://github.com/wfxr/elastic-tunnel) - Tools for downloading data from elasticsearch
 - [Kotlin/kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) - Kotlin multiplatform / multi-format serialization
 - [gildor/kotlin-coroutines-retrofit](https://github.com/gildor/kotlin-coroutines-retrofit) - Kotlin Coroutines await() extension for Retrofit Call
@@ -1009,6 +1009,7 @@
 
 ## Rust 
 
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [sidkshatriya/rd](https://github.com/sidkshatriya/rd) - rd is a record/replay debugger written in rust
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in pure Rust
 - [sharkdp/bugreport](https://github.com/sharkdp/bugreport) - Rust library to collect system and environment information for bug reports
