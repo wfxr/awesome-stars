@@ -1413,7 +1413,7 @@
 - [factoriotools/factorio-docker](https://github.com/factoriotools/factorio-docker) - Factorio headless server in a Docker container
 - [japaric/trust](https://github.com/japaric/trust) - Travis CI and AppVeyor template to test your Rust crate on 5 architectures and publish binary releases of it for Linux, macOS and Windows
 - [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) - Registry index for crates.io
-- [changyuheng/fz](https://github.com/changyuheng/fz) - Cli shell plugin, the missing fuzzy tab completion feature of z jump around command.
+- [changyuheng/fz](https://github.com/changyuheng/fz) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
 - [japaric/rust-cross](https://github.com/japaric/rust-cross) - Everything you need to know about cross compiling Rust programs!
 - [petervanderdoes/gitflow-avh](https://github.com/petervanderdoes/gitflow-avh) - AVH Edition of the git extensions to provide high-level repository operations for Vincent Driessen's branching model
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
@@ -1502,6 +1502,7 @@
 
 ## TypeScript 
 
+- [ant-design/ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [weirongxu/coc-explorer](https://github.com/weirongxu/coc-explorer) - 📁 Explorer for coc.nvim
