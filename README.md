@@ -18,6 +18,7 @@
   - [Dockerfile](#dockerfile)
   - [Emacs Lisp](#emacs-lisp)
   - [F#](#f#)
+  - [FreeMarker](#freemarker)
   - [GLSL](#glsl)
   - [Go](#go)
   - [Groovy](#groovy)
@@ -291,6 +292,10 @@
 
 - [fsprojects/Paket](https://github.com/fsprojects/Paket) - A dependency manager for .NET with support for NuGet packages and Git repositories.
 
+## FreeMarker 
+
+- [mozilla/send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
+
 ## GLSL 
 
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
@@ -561,7 +566,6 @@
 - [JensForstmann/Factorio-Blueprint-To-Combinator](https://github.com/JensForstmann/Factorio-Blueprint-To-Combinator) - Puts entities and items from bp string into constant combinator signals.
 - [sindresorhus/file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer/Uint8Array/ArrayBuffer
 - [npm/node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses)
-- [mozilla/send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
 - [huhu/rust-search-extension](https://github.com/huhu/rust-search-extension) - 🦀 The ultimate search extension for Rust
 - [EliverLara/terminator-themes](https://github.com/EliverLara/terminator-themes) - :metal: The biggest collection of Terminator themes.
 - [neoclide/coc-sources](https://github.com/neoclide/coc-sources) - Additional common sources of coc.nvim
@@ -1009,6 +1013,7 @@
 
 ## Rust 
 
+- [larksuite/rsmpeg](https://github.com/larksuite/rsmpeg) - A Rust crate that exposes FFmpeg's power as much as possible.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [sidkshatriya/rd](https://github.com/sidkshatriya/rd) - rd is a record/replay debugger written in rust
