@@ -89,6 +89,7 @@
 - [tryone144/compton](https://github.com/tryone144/compton) - A compositor for X11.
 - [fcitx/fcitx](https://github.com/fcitx/fcitx) - A Flexible Input Method Framework
 - [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
+- [koute/memory-profiler](https://github.com/koute/memory-profiler) - 
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features
 - [intel/nemu](https://github.com/intel/nemu) - ARCHIVED: Modern Hypervisor for the Cloud. See https://github.com/cloud-hypervisor/cloud-hypervisor instead
 - [imp/dnsmasq](https://github.com/imp/dnsmasq) - Mirror of the upstream dnsmasq repository
@@ -830,7 +831,7 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [oskarkrawczyk/honukai-iterm-zsh](https://github.com/oskarkrawczyk/honukai-iterm-zsh) - Honukai theme and colors for Oh My ZSH and iTerm
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language. Join Kotlin release event: https://kotl.in/15-event
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [panxl6/kotlin-in-action](https://github.com/panxl6/kotlin-in-action) - 《kotlin实战》翻译
 - [EZLippi/practical-programming-books](https://github.com/EZLippi/practical-programming-books) - 这里收录比较实用的计算机相关技术书籍，可以在短期之内入门的简单实用教程、一些技术网站以及一些写的比较好的博文，欢迎Fork，你也可以通过Pull Request参与编辑。
 - [geeeeeeeeek/git-recipes](https://github.com/geeeeeeeeek/git-recipes) - 🥡 Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程.
@@ -1230,7 +1231,6 @@
 - [alexcrichton/curl-rust](https://github.com/alexcrichton/curl-rust) - Rust bindings to libcurl
 - [alexcrichton/tar-rs](https://github.com/alexcrichton/tar-rs) - Tar file reading/writing for Rust
 - [wfxr/estunnel](https://github.com/wfxr/estunnel) - :articulated_lorry: Tool for downloading data from elasticsearch cluster.
-- [koute/memory-profiler](https://github.com/koute/memory-profiler) - 
 - [JoshMcguigan/shell_completion](https://github.com/JoshMcguigan/shell_completion) - Write shell completion scripts in pure Rust
 - [KenSuenobu/rust-pushrod](https://github.com/KenSuenobu/rust-pushrod) - Cross Platform GUI Library for Rust
 - [ecumene/rust-sloth](https://github.com/ecumene/rust-sloth) - A 3D software rasterizer... for the terminal!
