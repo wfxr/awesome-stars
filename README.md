@@ -701,7 +701,7 @@
 
 ## Lua 
 
-- [tversteeg/registers.nvim](https://github.com/tversteeg/registers.nvim) - ®️ NeoVim plugin to preview the contents of the registers
+- [tversteeg/registers.nvim](https://github.com/tversteeg/registers.nvim) - 📑 NeoVim plugin to preview the contents of the registers
 - [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server) - Lua Language Server coded by Lua
 - [streetturtle/awesome-wm-widgets](https://github.com/streetturtle/awesome-wm-widgets) - Widgets for Awesome Window Manager
 - [Seancheey/FactorioBlueprinter](https://github.com/Seancheey/FactorioBlueprinter) - This factorio mod helps you create crafting blueprints easily by selecting inputs and outputs
@@ -1029,7 +1029,7 @@
 - [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) - Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 CLI email client
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - The best open source remote desktop client software
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open source remote desktop client software
 - [stateright/stateright](https://github.com/stateright/stateright) - A model checker for implementing distributed systems.
 - [tidwall/gjson.rs](https://github.com/tidwall/gjson.rs) - Get JSON values quickly - JSON parser for Rust
 - [BurntSushi/quickcheck](https://github.com/BurntSushi/quickcheck) - Automated property based testing for Rust (with shrinking).
