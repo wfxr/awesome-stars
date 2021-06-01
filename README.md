@@ -1013,6 +1013,9 @@
 
 ## Rust 
 
+- [PaddiM8/kalk](https://github.com/PaddiM8/kalk) - A calculator/expression evaluator written in rust that supports variables and functions.
+- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
+- [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
 - [gyscos/cursive](https://github.com/gyscos/cursive) - A Text User Interface library for the Rust programming language
 - [larksuite/rsmpeg](https://github.com/larksuite/rsmpeg) - A Rust crate that exposes FFmpeg's power as much as possible.
@@ -1294,7 +1297,7 @@
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [ZhangHanDong/tao-of-rust-codes](https://github.com/ZhangHanDong/tao-of-rust-codes) - 《Rust编程之道》随书源码
 - [saschagrunert/webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust. 🌍
-- [ps1dr3x/easy_reader](https://github.com/ps1dr3x/easy_reader) - ⏮ ⏯ ⏭ A Rust library to easily read forwards, backwards or randomly through the lines of huge files.
+- [ps1dr3x/easy_reader](https://github.com/ps1dr3x/easy_reader) - ⏮ ⏯ ⏭ A Rust library for easily navigating forward, backward or randomly through the lines of huge files.
 - [phynalle/getver](https://github.com/phynalle/getver) - A simple command line tool for capturing the latest version of crates
 - [rust-lang-nursery/failure](https://github.com/rust-lang-nursery/failure) - Error management
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
