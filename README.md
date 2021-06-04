@@ -1013,6 +1013,9 @@
 
 ## Rust 
 
+- [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo) - A fast bump allocation arena for Rust
+- [dtolnay/automod](https://github.com/dtolnay/automod) - Pull in every source file in a directory as a module
+- [pksunkara/cargo-workspaces](https://github.com/pksunkara/cargo-workspaces) - A tool for managing cargo workspaces and their crates, inspired by lerna
 - [PaddiM8/kalker](https://github.com/PaddiM8/kalker) - Kalker/kalk is a calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
