@@ -603,7 +603,6 @@
 - [sw-jung/kibana_notification_center](https://github.com/sw-jung/kibana_notification_center) - This plugin helps you to use kibana's notifications more usefully.
 - [sw-jung/kibana_markdown_doc_view](https://github.com/sw-jung/kibana_markdown_doc_view) - A plugin for custom doc view using markdown+handlebars template.
 - [datasweet/kibana-datasweet-formula](https://github.com/datasweet/kibana-datasweet-formula) - This Kibana plugin allows calculated metrics on any standard kibana visualizations.
-- [danielhauck/terminalCV](https://github.com/danielhauck/terminalCV) - A command line CV for sysadmins
 - [overcache/VRouter](https://github.com/overcache/VRouter) - 一个基于 VirtualBox 和 openwrt 构建的项目, 旨在实现 macOS / Windows 平台的透明代理.
 - [algolia/github-awesome-autocomplete](https://github.com/algolia/github-awesome-autocomplete) - :octocat: Add instant search capabilities to GitHub's search bar
 - [softvar/enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Browser extension to display size of each file, download link and copy file contents directly to the clipboard
@@ -1011,6 +1010,7 @@
 
 ## Rust 
 
+- [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - A modern, extensible GitHub API Client for Rust.
 - [dtolnay/semver](https://github.com/dtolnay/semver) - Parser and evaluator for Cargo's flavor of Semantic Versioning
 - [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo) - A fast bump allocation arena for Rust
 - [dtolnay/automod](https://github.com/dtolnay/automod) - Pull in every source file in a directory as a module
