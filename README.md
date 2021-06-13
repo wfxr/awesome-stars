@@ -1105,7 +1105,7 @@
 - [rust-github/template](https://github.com/rust-github/template) - GitHub Template for a generic rust project
 - [jnetterf/aoc](https://github.com/jnetterf/aoc) - Advent of Code Solutions
 - [wfxr/advent-of-code-2020](https://github.com/wfxr/advent-of-code-2020) - 🦀 Rust solutions to AoC 2020
-- [sfackler/rust-phf](https://github.com/sfackler/rust-phf) - Compile time static maps for Rust
+- [rust-phf/rust-phf](https://github.com/rust-phf/rust-phf) - Compile time static maps for Rust
 - [AxlLind/AdventOfCode2020](https://github.com/AxlLind/AdventOfCode2020) - Solutions to all 25 AoC 2020 problems in Rust :christmas_tree: With relatively high global leaderboard placements!
 - [orhun/menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️
 - [servo/rust-fnv](https://github.com/servo/rust-fnv) - Fowler–Noll–Vo hash function
