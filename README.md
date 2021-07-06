@@ -1244,7 +1244,6 @@
 - [alexcrichton/tar-rs](https://github.com/alexcrichton/tar-rs) - Tar file reading/writing for Rust
 - [wfxr/estunnel](https://github.com/wfxr/estunnel) - :articulated_lorry: Tool for downloading data from elasticsearch cluster.
 - [JoshMcguigan/shell_completion](https://github.com/JoshMcguigan/shell_completion) - Write shell completion scripts in pure Rust
-- [KenSuenobu/rust-pushrod](https://github.com/KenSuenobu/rust-pushrod) - Cross Platform GUI Library for Rust
 - [ecumene/rust-sloth](https://github.com/ecumene/rust-sloth) - A 3D software rasterizer... for the terminal!
 - [wraithan/cargo-bump](https://github.com/wraithan/cargo-bump) - 
 - [sunng87/cargo-release](https://github.com/sunng87/cargo-release) - Cargo subcommand "release": everything about releasing a rust crate.
@@ -1405,7 +1404,7 @@
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish shell.
 - [xamut/tmux-network-bandwidth](https://github.com/xamut/tmux-network-bandwidth) - 📊 Network bandwidth plugin for tmux
-- [icy/pacapt](https://github.com/icy/pacapt) - An ArchLinux's pacman-like wrapper for many package managers
+- [icy/pacapt](https://github.com/icy/pacapt) - An ArchLinux's pacman-like 56KB shell wrapper for many package managers.
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 - [markchalloner/git-semver](https://github.com/markchalloner/git-semver) - Git plugin for Semantic Versioning
