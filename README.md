@@ -698,6 +698,7 @@
 
 ## Lua 
 
+- [vhyrro/neorg](https://github.com/vhyrro/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
 - [tversteeg/registers.nvim](https://github.com/tversteeg/registers.nvim) - 📑 NeoVim plugin to preview the contents of the registers
 - [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server) - Lua Language Server coded by Lua
@@ -900,7 +901,7 @@
 - [Yelp/elastalert](https://github.com/Yelp/elastalert) - Easy & Flexible Alerting With ElasticSearch
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [JerrySheep/Automatic-generate-API-usage-pattern-from-natural-language-query](https://github.com/JerrySheep/Automatic-generate-API-usage-pattern-from-natural-language-query) - This is a project which help the developers to automatic generate API  usage pattern from natural language query.
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - A list of cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [ncm2/ncm2](https://github.com/ncm2/ncm2) - :heart: Slim, Fast and Hackable Completion Framework for Neovim
