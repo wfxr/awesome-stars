@@ -675,7 +675,7 @@
 - [kizitonwose/Time](https://github.com/kizitonwose/Time) - Type-safe time calculations in Kotlin, powered by generics.
 - [ReactiveX/RxKotlin](https://github.com/ReactiveX/RxKotlin) - RxJava bindings for Kotlin
 - [kittinunf/Forge](https://github.com/kittinunf/Forge) - Functional style JSON parsing in Kotlin
-- [kittinunf/Result](https://github.com/kittinunf/Result) - The modelling for success/failure of operations in Kotlin
+- [kittinunf/Result](https://github.com/kittinunf/Result) - The modelling for success/failure of operations in Kotlin and Kotlin Multiplatform Mobile
 - [kittinunf/fuel](https://github.com/kittinunf/fuel) - The easiest HTTP networking library for Kotlin/Android
 - [JetBrains/kotlin-native](https://github.com/JetBrains/kotlin-native) - Kotlin/Native infrastructure
 - [tipsy/javalin](https://github.com/tipsy/javalin) - A simple and modern Java and Kotlin web framework
@@ -773,7 +773,7 @@
 - [thapabishwa/HiDPI](https://github.com/thapabishwa/HiDPI) - A HiDPI fix for awesome wm [Arch-Linux] [MBP 11.x]
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [wahyd4/aria2-ariang-x-docker-compose](https://github.com/wahyd4/aria2-ariang-x-docker-compose) - Docker compose files for Aria2+ AriaNg+ filerun/ Nextcloud/ h5ai + Plex.  图形化BT，磁力，离线下载，文件管理，播放，投屏
-- [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！⭐++
+- [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 - [syncthing/relaysrv](https://github.com/syncthing/relaysrv) - The Syncthing relay server
 - [alswl/Rime](https://github.com/alswl/Rime) - Rime configuration for Squirrel (macOS) & fcitx-rime (Linux)
 - [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins, & resources for Fish. 🐚
@@ -1015,6 +1015,7 @@
 
 ## Rust 
 
+- [zesterer/ariadne](https://github.com/zesterer/ariadne) - A fancy diagnostics & error reporting crate
 - [michaelb/sniprun](https://github.com/michaelb/sniprun) - A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
 - [ruslashev/elfcat](https://github.com/ruslashev/elfcat) - An in-development ELF visualizer. Generates HTML files from ELF binaries.
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - Branchless workflow for Git
