@@ -754,7 +754,7 @@
 ## Others 
 
 - [hosxy/Fcitx5-Material-Color](https://github.com/hosxy/Fcitx5-Material-Color) - 一款使用Material Design 配色的 fcitx5 皮肤，喜欢的话给个 star 吧   ヾ(≧へ≦)〃 😉
-- [thep0y/fcitx5-themes](https://github.com/thep0y/fcitx5-themes) - fcitx5的简约风格皮肤
+- [thep0y/fcitx5-themes](https://github.com/thep0y/fcitx5-themes) - fcitx5的简约风格皮肤——四季
 - [brson/my-rust-lists](https://github.com/brson/my-rust-lists) - Lightly organized personal notes about Rust
 - [rust-random/book](https://github.com/rust-random/book) - The Rust Rand Book
 - [blanboom/awesome-home-networking-cn](https://github.com/blanboom/awesome-home-networking-cn) - 家庭网络知识整理
