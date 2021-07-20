@@ -802,6 +802,7 @@
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [jitpack/jitpack.io](https://github.com/jitpack/jitpack.io) - Documentation and issues of https://jitpack.io
 - [tuvtran/project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
+- [rust-cli/team](https://github.com/rust-cli/team) - CLI working group
 - [ohmyarch/fontconfig-zh-cn](https://github.com/ohmyarch/fontconfig-zh-cn) - 
 - [Kotlin/coroutines-examples](https://github.com/Kotlin/coroutines-examples) - Examples for coroutines design in Kotlin
 - [bbatsov/clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
@@ -1328,7 +1329,6 @@
 - [iron/router](https://github.com/iron/router) - Router middleware for the Iron web framework.
 - [hyperium/mime](https://github.com/hyperium/mime) - MIMEs in Rust
 - [time-rs/time](https://github.com/time-rs/time) - Simple time handling in Rust
-- [rust-cli/meta](https://github.com/rust-cli/meta) - CLI working group
 - [benashford/rs-es](https://github.com/benashford/rs-es) - A Rust client for the ElasticSearch REST API
 - [elastic-rs/elastic](https://github.com/elastic-rs/elastic) - An Elasticsearch REST API client for Rust
 - [skade/hyper-server](https://github.com/skade/hyper-server) - 
