@@ -732,6 +732,7 @@
 ## Makefile 
 
 - [azer/go-makefile-example](https://github.com/azer/go-makefile-example) - Example Makefile for Go projects
+- [alswl/Rime](https://github.com/alswl/Rime) - Rime configuration for Squirrel (macOS) & fcitx-rime (Linux)
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [bitemyapp/learnhaskell](https://github.com/bitemyapp/learnhaskell) - Learn Haskell
 - [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
@@ -777,7 +778,6 @@
 - [wahyd4/aria2-ariang-x-docker-compose](https://github.com/wahyd4/aria2-ariang-x-docker-compose) - Docker compose files for Aria2+ AriaNg+ filerun/ Nextcloud/ h5ai + Plex.  图形化BT，磁力，离线下载，文件管理，播放，投屏
 - [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 - [syncthing/relaysrv](https://github.com/syncthing/relaysrv) - The Syncthing relay server
-- [alswl/Rime](https://github.com/alswl/Rime) - Rime configuration for Squirrel (macOS) & fcitx-rime (Linux)
 - [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other resources for Fish. 🐚
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 源ノ明朝 | 본명조
@@ -1018,6 +1018,7 @@
 
 ## Rust 
 
+- [apognu/tuigreet](https://github.com/apognu/tuigreet) - Graphical console greeter for greetd
 - [wfxr/csview](https://github.com/wfxr/csview) - 📠 A high performance csv viewer with cjk/emoji support.
 - [zesterer/ariadne](https://github.com/zesterer/ariadne) - A fancy diagnostics & error reporting crate
 - [michaelb/sniprun](https://github.com/michaelb/sniprun) - A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
@@ -1314,7 +1315,7 @@
 - [saschagrunert/webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust. 🌍
 - [ps1dr3x/easy_reader](https://github.com/ps1dr3x/easy_reader) - ⏮ ⏯ ⏭ A Rust library for easily navigating forward, backward or randomly through the lines of huge files.
 - [phynalle/getver](https://github.com/phynalle/getver) - A simple command line tool for capturing the latest version of crates
-- [rust-lang-nursery/failure](https://github.com/rust-lang-nursery/failure) - Error management
+- [rust-lang-deprecated/failure](https://github.com/rust-lang-deprecated/failure) - Error management
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
