@@ -86,7 +86,7 @@
 - [tryone144/compton](https://github.com/tryone144/compton) - A compositor for X11.
 - [fcitx/fcitx](https://github.com/fcitx/fcitx) - A Flexible Input Method Framework
 - [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
-- [koute/memory-profiler](https://github.com/koute/memory-profiler) - A memory profiler for Linux.
+- [koute/bytehound](https://github.com/koute/bytehound) - A memory profiler for Linux.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features
 - [intel/nemu](https://github.com/intel/nemu) - ARCHIVED: Modern Hypervisor for the Cloud. See https://github.com/cloud-hypervisor/cloud-hypervisor instead
 - [imp/dnsmasq](https://github.com/imp/dnsmasq) - Mirror of the upstream dnsmasq repository
