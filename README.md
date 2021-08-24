@@ -800,7 +800,7 @@
 - [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [jitpack/jitpack.io](https://github.com/jitpack/jitpack.io) - Documentation and issues of https://jitpack.io
-- [tuvtran/project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [rust-cli/team](https://github.com/rust-cli/team) - CLI working group
 - [ohmyarch/fontconfig-zh-cn](https://github.com/ohmyarch/fontconfig-zh-cn) - 
 - [Kotlin/coroutines-examples](https://github.com/Kotlin/coroutines-examples) - Examples for coroutines design in Kotlin
