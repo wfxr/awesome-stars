@@ -1607,7 +1607,7 @@
 - [rhysd/github-complete.vim](https://github.com/rhysd/github-complete.vim) - Vim input completion for GitHub
 - [Shougo/vimproc.vim](https://github.com/Shougo/vimproc.vim) - Interactive command execution in Vim.
 - [chr4/nginx.vim](https://github.com/chr4/nginx.vim) - Improved nginx vim plugin (incl. syntax highlighting)
-- [nightsense/snow](https://github.com/nightsense/snow) - ❄ a blue-tinted winter vimscape (low-contrast vim theme/colorscheme)
+- [androidhaystack/snow](https://github.com/androidhaystack/snow) - ❄ a blue-tinted winter vimscape (low-contrast vim theme/colorscheme)
 - [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
 - [logico/typewriter](https://github.com/logico/typewriter) - An iA Writer inspired color scheme. It has support for vim, vim airline, vim lightline, tmux and urxvt/xterm.
 - [skywind3000/vim-keysound](https://github.com/skywind3000/vim-keysound) - :wine_glass: Play typewriter sound in Vim when you are typing a letter
