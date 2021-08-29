@@ -462,6 +462,7 @@
 
 ## HTML 
 
+- [frainzy1477/luci-app-clash](https://github.com/frainzy1477/luci-app-clash) - Luci interface for Clash Openwrt
 - [zzy/this-week-in-rust-zh-cn](https://github.com/zzy/this-week-in-rust-zh-cn) - Rust 官方周报（简体中文版）
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [AlternativeFFFF/Alt-F4](https://github.com/AlternativeFFFF/Alt-F4) - Alternative Factorio Friday Fan Facts, also known as Alt-F4
