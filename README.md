@@ -474,7 +474,7 @@
 - [iwannarun/JavaWiki](https://github.com/iwannarun/JavaWiki) - 不定期收集与JAVA有关书籍或文章
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
 - [llimllib/bloomfilter-tutorial](https://github.com/llimllib/bloomfilter-tutorial) - A Bloom Filter Tutorial
-- [wowchemy/wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 🔥 The website builder for Hugo. No code, build with widgets! 创建在线课程，学术简历或初创网站。
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
 - [Pragmatists/JUnitParams](https://github.com/Pragmatists/JUnitParams) - Parameterised tests that don't suck
 - [rohanchandra/type-theme](https://github.com/rohanchandra/type-theme) - A free and open-source Jekyll theme with responsive design. Great for blogs and easy to customize.
 
@@ -1153,6 +1153,7 @@
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [NerdyPepper/dijo](https://github.com/NerdyPepper/dijo) - scriptable, curses-based, digital habit tracker
 - [mackwic/colored](https://github.com/mackwic/colored) - (Rust) Coloring terminal so simple you already know how to do it !
+- [rust-embedded/cross](https://github.com/rust-embedded/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand) - Subcommand to show result of macro expansion
 - [oliver-giersch/closure](https://github.com/oliver-giersch/closure) - A macro wrapping Rust closure calls that allows for capturing variables in scope on an individual bases.
 - [cjbassi/ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
@@ -1399,7 +1400,6 @@
 - [KSXGitHub/github-actions-deploy-aur](https://github.com/KSXGitHub/github-actions-deploy-aur) - GitHub Actions to publish AUR package
 - [huan/docker-wechat](https://github.com/huan/docker-wechat) - DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux
 - [archlinuxcn/repo](https://github.com/archlinuxcn/repo) - Arch Linux CN Repository
-- [rust-embedded/cross](https://github.com/rust-embedded/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) - 
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish shell.
