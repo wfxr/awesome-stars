@@ -295,6 +295,7 @@
 
 ## Go 
 
+- [mccutchen/go-httpbin](https://github.com/mccutchen/go-httpbin) - A reasonably complete and well-tested golang port of httpbin, with zero dependencies outside the go stdlib.
 - [pragkent/alidns-webhook](https://github.com/pragkent/alidns-webhook) - Cert manager acme dns01 webhook provider for alidns
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [tshakalekholoane/bat](https://github.com/tshakalekholoane/bat) - Battery management utility for Linux laptops.
@@ -871,6 +872,7 @@
 
 ## Python 
 
+- [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -1615,7 +1617,7 @@
 - [rhysd/github-complete.vim](https://github.com/rhysd/github-complete.vim) - Vim input completion for GitHub
 - [Shougo/vimproc.vim](https://github.com/Shougo/vimproc.vim) - Interactive command execution in Vim.
 - [chr4/nginx.vim](https://github.com/chr4/nginx.vim) - Improved nginx vim plugin (incl. syntax highlighting)
-- [androidhaystack/snow](https://github.com/androidhaystack/snow) - ❄ a blue-tinted winter vimscape (low-contrast vim theme/colorscheme)
+- [haystackandroid/snow](https://github.com/haystackandroid/snow) - ❄ a blue-tinted winter vimscape (low-contrast vim theme/colorscheme)
 - [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
 - [logico/typewriter](https://github.com/logico/typewriter) - An iA Writer inspired color scheme. It has support for vim, vim airline, vim lightline, tmux and urxvt/xterm.
 - [skywind3000/vim-keysound](https://github.com/skywind3000/vim-keysound) - :wine_glass: Play typewriter sound in Vim when you are typing a letter
