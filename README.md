@@ -295,6 +295,7 @@
 
 ## Go 
 
+- [lianxmfor/kfserving-inference-client](https://github.com/lianxmfor/kfserving-inference-client) - 用来请求 kfserving inference protocol - v2 version 的客户端
 - [mccutchen/go-httpbin](https://github.com/mccutchen/go-httpbin) - A reasonably complete and well-tested golang port of httpbin, with zero dependencies outside the go stdlib.
 - [pragkent/alidns-webhook](https://github.com/pragkent/alidns-webhook) - Cert manager acme dns01 webhook provider for alidns
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
