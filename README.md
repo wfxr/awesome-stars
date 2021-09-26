@@ -1020,6 +1020,7 @@
 
 ## Rust 
 
+- [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
 - [Qovery/engine](https://github.com/Qovery/engine) - Deploy your apps on any Cloud provider in just a few seconds
 - [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine
 - [tangramdotdev/tangram](https://github.com/tangramdotdev/tangram) - Tangram makes it easy for programmers to train, deploy, and monitor machine learning models.
