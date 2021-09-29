@@ -295,6 +295,7 @@
 
 ## Go 
 
+- [joho/sqltocsv](https://github.com/joho/sqltocsv) - Go package to turn arbitrary database/sql query results into CSV files as easily as possible
 - [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang's database/sql
 - [lianxmfor/kfserving-inference-client](https://github.com/lianxmfor/kfserving-inference-client) - 用来请求 kfserving inference protocol - v2 version 的客户端
 - [mccutchen/go-httpbin](https://github.com/mccutchen/go-httpbin) - A reasonably complete and well-tested golang port of httpbin, with zero dependencies outside the go stdlib.
@@ -1284,7 +1285,7 @@
 - [kbknapp/cargo-graph](https://github.com/kbknapp/cargo-graph) - A cargo subcommand for creating GraphViz DOT files and dependency graphs
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [citybound/citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
-- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
+- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
 - [ct-austin/ifmt](https://github.com/ct-austin/ifmt) - Inline expression interpolation for Rust.
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [gmmorris/jg](https://github.com/gmmorris/jg) - Jeff Goldblum (jg) is a command-line JSON processor. jg searches for structural patterns in json input and prints each json object that matches the pattern.
