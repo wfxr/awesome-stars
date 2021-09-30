@@ -512,6 +512,7 @@
 - [ChrisRM/material-theme-jetbrains](https://github.com/ChrisRM/material-theme-jetbrains) - JetBrains theme of Material Theme
 - [vert-x3/vertx-examples](https://github.com/vert-x3/vertx-examples) - Vert.x examples
 - [MCMicS/jenkins-control-plugin](https://github.com/MCMicS/jenkins-control-plugin) - Jenkins integration in IDEA Platforms
+- [bennyhuo/TieGuanYin](https://github.com/bennyhuo/TieGuanYin) - Activity Builder.
 - [jline/jline3](https://github.com/jline/jline3) - JLine is a Java library for handling console input.
 - [mabe02/lanterna](https://github.com/mabe02/lanterna) - Java library for creating text-based GUIs
 - [ctongfei/progressbar](https://github.com/ctongfei/progressbar) - Terminal-based progress bar for Java / JVM
@@ -666,7 +667,6 @@
 - [Kotlin/kotlinx-cli](https://github.com/Kotlin/kotlinx-cli) - Pure Kotlin implementation of a generic CLI parser.
 - [jnizet/gradle-kotlin-dsl-migration-guide](https://github.com/jnizet/gradle-kotlin-dsl-migration-guide) - The missing migration guide to the Gradle Kotlin DSL
 - [miquelbeltran/kotlin-code-gen-sample](https://github.com/miquelbeltran/kotlin-code-gen-sample) - Code generation samples for Kotlin projects
-- [bennyhuo/TieGuanYin](https://github.com/bennyhuo/TieGuanYin) - Activity Builder.
 - [bennyhuo/Apt-Tutorials](https://github.com/bennyhuo/Apt-Tutorials) - 注解处理器教程，使用 Kotlin 编写
 - [square/kotlinpoet](https://github.com/square/kotlinpoet) - A Kotlin API for generating .kt source files.
 - [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
