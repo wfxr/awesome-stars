@@ -81,7 +81,7 @@
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 - [spanezz/nodm](https://github.com/spanezz/nodm) - Automatic display manager
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager
-- [Airblader/i3](https://github.com/Airblader/i3) - i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
+- [Airblader/i3](https://github.com/Airblader/i3) - A fork of the i3 window manager with gaps and some other features
 - [tryone144/compton](https://github.com/tryone144/compton) - A compositor for X11.
 - [fcitx/fcitx](https://github.com/fcitx/fcitx) - A Flexible Input Method Framework
 - [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
@@ -861,7 +861,6 @@
 
 - [nferraz/st](https://github.com/nferraz/st) - simple statistics from the command line
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
-- [wizzat/distribution](https://github.com/wizzat/distribution) - Short, simple, direct scripts for creating ASCII graphical histograms in the terminal.
 - [thoughtbot/rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management
 
 ## PostScript 
@@ -960,6 +959,7 @@
 - [google/yapf](https://github.com/google/yapf) - A formatter for Python files
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [deeplook/sparklines](https://github.com/deeplook/sparklines) - Text-based sparkline command line mimicking those of Edward Tuft.
+- [wizzat/distribution](https://github.com/wizzat/distribution) - Short, simple, direct scripts for creating ASCII graphical histograms in the terminal.
 - [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
