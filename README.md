@@ -1221,7 +1221,7 @@
 - [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
 - [async-rs/async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library
 - [cgag/loc](https://github.com/cgag/loc) - Count lines of code quickly.
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git and diff output
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [awesome-rust-com/awesome-rust](https://github.com/awesome-rust-com/awesome-rust) - Awesome Rust
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
@@ -1309,7 +1309,7 @@
 - [cch123/elastic-rs](https://github.com/cch123/elastic-rs) - comvert bool expression to elasticsearch DSL in rust
 - [rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - A Rust compiler front-end for IDEs
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
-- [denoland/deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [BurntSushi/rust-snappy](https://github.com/BurntSushi/rust-snappy) - Snappy compression implemented in Rust (including the Snappy frame format).
 - [JoshMcguigan/arr_macro](https://github.com/JoshMcguigan/arr_macro) - Initialize arrays with ease!
 - [hukumka/reformation](https://github.com/hukumka/reformation) - 
