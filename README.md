@@ -78,7 +78,6 @@
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's OpenWrt source
 - [i3/i3lock](https://github.com/i3/i3lock) - improved screen locker
-- [zdharma/zinit](https://github.com/zdharma/zinit) - Flexible and fast Zsh plugin manager with clean fpath, reports, completion management, Turbo, annexes, services, packages.
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 - [spanezz/nodm](https://github.com/spanezz/nodm) - Automatic display manager
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager
@@ -663,7 +662,7 @@
 - [mjstrasser/ktor-features-zipkin](https://github.com/mjstrasser/ktor-features-zipkin) - A Ktor feature that handles Open Zipkin tracing IDs
 - [pinterest/ktlint](https://github.com/pinterest/ktlint) - An anti-bikeshedding Kotlin linter with built-in formatter
 - [ktorio/ktor-samples](https://github.com/ktorio/ktor-samples) - Sample projects for Ktor
-- [square/okio](https://github.com/square/okio) - A modern I/O library for Android, Kotlin, and Java.
+- [square/okio](https://github.com/square/okio) - A modern I/O library for Android, Java, and Kotlin Multiplatform.
 - [rharter/ktor-moshi](https://github.com/rharter/ktor-moshi) - Ktor feature that adds Moshi JSON serialization support
 - [kotlin-orm/ktorm](https://github.com/kotlin-orm/ktorm) - A lightweight ORM framework for Kotlin with strong-typed SQL DSL and sequence APIs.
 - [cashapp/sqldelight](https://github.com/cashapp/sqldelight) - SQLDelight - Generates typesafe Kotlin APIs from SQL
@@ -873,7 +872,7 @@
 
 ## PowerShell 
 
-- [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) - 📦 The next-generation default bucket for Scoop.
+- [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) - The default bucket for Scoop.
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 
 ## Python 
@@ -1443,7 +1442,6 @@
 - [romkatv/zsh-defer](https://github.com/romkatv/zsh-defer) - Deferred execution of Zsh commands
 - [Aloxaf/dotfiles](https://github.com/Aloxaf/dotfiles) - my dotfiles
 - [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
-- [zdharma/fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - (Short name F-Sy-H). Syntax-highlighting for Zshell – fine granularity, number of features and multiple shipped themes.
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [dylanaraps/pash](https://github.com/dylanaraps/pash) - 🔒 A simple password manager using GPG written in POSIX sh.
 - [gaunthan/fcitx-skin-collection](https://github.com/gaunthan/fcitx-skin-collection) - Collection of fcitx skins I like.
