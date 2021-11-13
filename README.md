@@ -1281,7 +1281,7 @@
 - [seanmonstar/num_cpus](https://github.com/seanmonstar/num_cpus) - Get the number of CPUs in Rust
 - [rust-threadpool/rust-threadpool](https://github.com/rust-threadpool/rust-threadpool) - A very simple thread pool for parallel task execution
 - [rustasync/runtime](https://github.com/rustasync/runtime) - Empowering everyone to build asynchronous software
-- [conradkleinespel/rpassword](https://github.com/conradkleinespel/rpassword) - Cross platform Rust library to read a password in the terminal (Linux, BSD, OSX, Windows).
+- [conradkleinespel/rpassword](https://github.com/conradkleinespel/rpassword) - Cross platform Rust library to read a password in the terminal (Linux, BSD, OSX, Windows, WASM).
 - [maciejhirsz/json-rust](https://github.com/maciejhirsz/json-rust) - JSON implementation in Rust
 - [clux/muslrust](https://github.com/clux/muslrust) - Docker environment for building musl based static rust binaries
 - [oli-obk/cargo_metadata](https://github.com/oli-obk/cargo_metadata) - 
