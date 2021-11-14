@@ -504,7 +504,7 @@
 
 - [eugenp/tutorials](https://github.com/eugenp/tutorials) - Just Announced - "Learn Spring Security OAuth":
 - [srikanth-lingala/zip4j](https://github.com/srikanth-lingala/zip4j) - A Java library for zip files and streams
-- [logstash/logstash-logback-encoder](https://github.com/logstash/logstash-logback-encoder) - Logback JSON encoder and appenders
+- [logfellow/logstash-logback-encoder](https://github.com/logfellow/logstash-logback-encoder) - Logback JSON encoder and appenders
 - [zalando/opentracing-toolbox](https://github.com/zalando/opentracing-toolbox) - Best-of-breed OpenTracing utilities, instrumentations and extensions
 - [openzipkin/brave](https://github.com/openzipkin/brave) - Java distributed tracing implementation compatible with Zipkin backend services.
 - [brettwooldridge/HikariCP](https://github.com/brettwooldridge/HikariCP) - 光 HikariCP・A solid, high-performance, JDBC connection pool at last.
