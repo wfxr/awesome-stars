@@ -299,6 +299,7 @@
 
 ## Go 
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on MacOS with minimal setup
 - [joho/sqltocsv](https://github.com/joho/sqltocsv) - Go package to turn arbitrary database/sql query results into CSV files as easily as possible
@@ -1455,7 +1456,7 @@
 - [gaunthan/fcitx-skin-collection](https://github.com/gaunthan/fcitx-skin-collection) - Collection of fcitx skins I like.
 - [eoli3n/dotfiles](https://github.com/eoli3n/dotfiles) - Sway acid dark
 - [levinit/i3wm-config](https://github.com/levinit/i3wm-config) - my i3wm config
-- [rbenv/rbenv](https://github.com/rbenv/rbenv) - Groom your app’s Ruby environment
+- [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank) - Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
 - [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
 - [vufa/deepin-wine-wechat-arch](https://github.com/vufa/deepin-wine-wechat-arch) - Tencent WeChat on Deepin Wine(com.qq.weixin.deepin) For Archlinux
