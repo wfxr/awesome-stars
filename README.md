@@ -1035,6 +1035,7 @@
 
 ## Rust 
 
+- [paupino/rust-decimal](https://github.com/paupino/rust-decimal) - A Decimal Implementation written in pure Rust suitable for financial calculations.
 - [DaGenix/rust-crypto](https://github.com/DaGenix/rust-crypto) - A (mostly) pure-Rust implementation of various cryptographic algorithms.
 - [gnzlbg/cargo-asm](https://github.com/gnzlbg/cargo-asm) - cargo subcommand showing the assembly or llvm-ir generated for Rust code
 - [elfshaker/elfshaker](https://github.com/elfshaker/elfshaker) - elfshaker stores binary objects efficiently
