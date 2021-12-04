@@ -350,7 +350,7 @@
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [smallnest/go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark) - :zap: Go web framework benchmark
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
 - [google/go-jsonnet](https://github.com/google/go-jsonnet) - 
@@ -984,6 +984,7 @@
 
 ## QML 
 
+- [vinceliuice/Canta-kde](https://github.com/vinceliuice/Canta-kde) - Canta theme for kde plasma desktop
 - [MarianArlt/sddm-sugar-dark](https://github.com/MarianArlt/sddm-sugar-dark) - The sweetest dark theme around for SDDM, the Simple Desktop Display Manager.
 - [MarianArlt/kde-plasma-chili](https://github.com/MarianArlt/kde-plasma-chili) - The hottest login theme around for KDE Plasma 5
 - [PapirusDevelopmentTeam/arc-kde](https://github.com/PapirusDevelopmentTeam/arc-kde) - Arc KDE customization
