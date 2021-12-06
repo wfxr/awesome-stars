@@ -1037,6 +1037,8 @@
 
 ## Rust 
 
+- [Xuyuanp/aoc2021](https://github.com/Xuyuanp/aoc2021) - 
+- [JanLek/advent-of-code-2021](https://github.com/JanLek/advent-of-code-2021) - 
 - [redox-os/orbtk](https://github.com/redox-os/orbtk) - The Rust UI-Toolkit.
 - [paupino/rust-decimal](https://github.com/paupino/rust-decimal) - A Decimal Implementation written in pure Rust suitable for financial calculations.
 - [DaGenix/rust-crypto](https://github.com/DaGenix/rust-crypto) - A (mostly) pure-Rust implementation of various cryptographic algorithms.
