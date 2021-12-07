@@ -1037,6 +1037,8 @@
 
 ## Rust 
 
+- [Geal/nom](https://github.com/Geal/nom) - Rust parser combinator framework
+- [dtolnay/efg](https://github.com/dtolnay/efg) - Conditional compilation using boolean expression syntax, rather than any(), all(), not()
 - [Xuyuanp/aoc2021](https://github.com/Xuyuanp/aoc2021) - 
 - [JanLek/advent-of-code-2021](https://github.com/JanLek/advent-of-code-2021) - 
 - [redox-os/orbtk](https://github.com/redox-os/orbtk) - The Rust UI-Toolkit.
