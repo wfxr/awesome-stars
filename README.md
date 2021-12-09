@@ -1038,6 +1038,8 @@
 
 ## Rust 
 
+- [wfxr/advent-of-code-2021](https://github.com/wfxr/advent-of-code-2021) - 🦀 Rust solutions to AoC 2021
+- [timvisee/advent-of-code-2021](https://github.com/timvisee/advent-of-code-2021) - 🎄 My Advent of Code solutions in Rust. http://adventofcode.com/2021
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [Geal/nom](https://github.com/Geal/nom) - Rust parser combinator framework
 - [dtolnay/efg](https://github.com/dtolnay/efg) - Conditional compilation using boolean expression syntax, rather than any(), all(), not()
