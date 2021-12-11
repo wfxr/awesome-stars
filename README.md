@@ -1039,6 +1039,7 @@
 
 ## Rust 
 
+- [rust-itertools/itertools](https://github.com/rust-itertools/itertools) - Extra iterator adaptors, iterator methods, free functions, and macros.
 - [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring.
 - [wfxr/advent-of-code-2021](https://github.com/wfxr/advent-of-code-2021) - 🦀 Rust solutions to AoC 2021
 - [timvisee/advent-of-code-2021](https://github.com/timvisee/advent-of-code-2021) - 🎄 My Advent of Code solutions in Rust. http://adventofcode.com/2021
@@ -1064,7 +1065,6 @@
 - [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine
 - [tangramdotdev/tangram](https://github.com/tangramdotdev/tangram) - Tangram makes it easy for programmers to train, deploy, and monitor machine learning models.
 - [apognu/tuigreet](https://github.com/apognu/tuigreet) - Graphical console greeter for greetd
-- [wfxr/csview](https://github.com/wfxr/csview) - 📠 A high performance csv viewer with cjk/emoji support.
 - [zesterer/ariadne](https://github.com/zesterer/ariadne) - A fancy diagnostics & error reporting crate
 - [michaelb/sniprun](https://github.com/michaelb/sniprun) - A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
 - [ruslashev/elfcat](https://github.com/ruslashev/elfcat) - An in-development ELF visualizer. Generates HTML files from ELF binaries.
@@ -1239,7 +1239,6 @@
 - [databricks/click](https://github.com/databricks/click) - The "Command Line Interactive Controller for Kubernetes"
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
-- [rust-itertools/itertools](https://github.com/rust-itertools/itertools) - Extra iterator adaptors, iterator methods, free functions, and macros.
 - [mgeisler/textwrap](https://github.com/mgeisler/textwrap) - An efficient and powerful Rust library for word wrapping text.
 - [dtolnay/paste](https://github.com/dtolnay/paste) - Macros for all your token pasting needs
 - [aylei/leetcode-rust](https://github.com/aylei/leetcode-rust) - my leetcode solutions in rust
