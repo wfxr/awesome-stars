@@ -1039,6 +1039,8 @@
 
 ## Rust 
 
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded DataFrame library in Rust and Python
+- [dtolnay/hackfn](https://github.com/dtolnay/hackfn) - Fake implementation of `std::ops::Fn` for user-defined data types
 - [rust-itertools/itertools](https://github.com/rust-itertools/itertools) - Extra iterator adaptors, iterator methods, free functions, and macros.
 - [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring.
 - [wfxr/advent-of-code-2021](https://github.com/wfxr/advent-of-code-2021) - 🦀 Rust solutions to AoC 2021
