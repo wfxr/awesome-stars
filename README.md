@@ -318,7 +318,6 @@
 - [wuhan005/mebeats](https://github.com/wuhan005/mebeats) - 💓 小米手环实时心率数据采集 - Your Soul, Your Beats!
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
-- [cch123/golang-notes](https://github.com/cch123/golang-notes) - Go source code analysis(zh-cn)
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
 - [lotusirous/go-concurrency-patterns](https://github.com/lotusirous/go-concurrency-patterns) - Concurrency patterns in Go
 - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
@@ -482,6 +481,7 @@
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [frainzy1477/luci-app-clash](https://github.com/frainzy1477/luci-app-clash) - Luci interface for Clash Openwrt
 - [zzy/this-week-in-rust-zh-cn](https://github.com/zzy/this-week-in-rust-zh-cn) - Rust 官方周报（简体中文版）
+- [cch123/golang-notes](https://github.com/cch123/golang-notes) - Go source code analysis(zh-cn)
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [AlternativeFFFF/Alt-F4](https://github.com/AlternativeFFFF/Alt-F4) - Alternative Factorio Friday Fan Facts, also known as Alt-F4
 - [xizhibei/blog](https://github.com/xizhibei/blog) - 个人博客，(Node.js/Golang/Backend/DevOps)，欢迎 Star, Watch 订阅以及评论
@@ -1039,6 +1039,7 @@
 
 ## Rust 
 
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded DataFrame library in Rust and Python
 - [dtolnay/hackfn](https://github.com/dtolnay/hackfn) - Fake implementation of `std::ops::Fn` for user-defined data types
 - [rust-itertools/itertools](https://github.com/rust-itertools/itertools) - Extra iterator adaptors, iterator methods, free functions, and macros.
@@ -1626,6 +1627,7 @@
 
 ## Vim script 
 
+- [dstein64/vim-startuptime](https://github.com/dstein64/vim-startuptime) - ⏲️ A Vim plugin for profiling Vim's startup time.
 - [kshenoy/vim-signature](https://github.com/kshenoy/vim-signature) - Plugin to toggle, display and navigate marks
 - [liuchengxu/vista.vim](https://github.com/liuchengxu/vista.vim) - :cactus: Viewer & Finder for LSP symbols and tags
 - [Xuyuanp/viz-nr2char](https://github.com/Xuyuanp/viz-nr2char) - Visualize vim nr2char
