@@ -1046,6 +1046,8 @@
 
 ## Rust 
 
+- [rusoto/rusoto](https://github.com/rusoto/rusoto) - AWS SDK for Rust
+- [withoutboats/heck](https://github.com/withoutboats/heck) - oh heck, a case conversion library
 - [dtolnay/seq-macro](https://github.com/dtolnay/seq-macro) - Macro to repeat sequentially indexed copies of a fragment of code
 - [chrivers/rust-colog](https://github.com/chrivers/rust-colog) - A simple color-coded logging implementation for the standard rust logging system
 - [tokio-rs/console](https://github.com/tokio-rs/console) - a debugger for async rust!
