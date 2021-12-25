@@ -147,7 +147,7 @@
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [ryanhaining/cppitertools](https://github.com/ryanhaining/cppitertools) - Implementation of python itertools and builtin iteration functions for C++17
-- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Parallel programming for everyone.
+- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive parallel programming in "Python".
 - [rime/librime](https://github.com/rime/librime) - Rime Input Method Engine, the core library
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
@@ -570,6 +570,7 @@
 
 ## JavaScript 
 
+- [YikSanChan/misbrands](https://github.com/YikSanChan/misbrands) - 
 - [YikSanChan/howXdoY](https://github.com/YikSanChan/howXdoY) - A minimal site that Googles how selected tech companies design a system.
 - [wip/app](https://github.com/wip/app) - The WIP GitHub App
 - [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
@@ -666,6 +667,7 @@
 
 ## Kotlin 
 
+- [ephemient/aoc2021](https://github.com/ephemient/aoc2021) - Advent of Code 2021 - my answers
 - [streem/pbandk](https://github.com/streem/pbandk) - Kotlin Code Generator and Runtime for Protocol Buffers
 - [Shinigami072/OpenTracing-Kotlin-Coroutine-Integration](https://github.com/Shinigami072/OpenTracing-Kotlin-Coroutine-Integration) - An Integration Between open Tracing Api and Kotlin Coroutines allowing the use of a Tracer in a trans Thread Context
 - [mjstrasser/ktor-features-zipkin](https://github.com/mjstrasser/ktor-features-zipkin) - A Ktor feature that handles Open Zipkin tracing IDs
@@ -775,6 +777,7 @@
 
 ## Others 
 
+- [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
 - [ZhengHe-MD/nerds-docs](https://github.com/ZhengHe-MD/nerds-docs) - 
 - [hosxy/Fcitx5-Material-Color](https://github.com/hosxy/Fcitx5-Material-Color) - 一款使用Material Design 配色的 fcitx5 皮肤，喜欢的话给个 star 吧   ヾ(≧へ≦)〃 😉
 - [thep0y/fcitx5-themes](https://github.com/thep0y/fcitx5-themes) - fcitx5的简约风格皮肤——四季
@@ -1053,7 +1056,6 @@
 - [tokio-rs/console](https://github.com/tokio-rs/console) - a debugger for async rust!
 - [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny) - ❌ Cargo plugin for linting your dependencies 🦀
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows
-- [ephemient/aoc2021](https://github.com/ephemient/aoc2021) - Advent of Code 2021 - my answers
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [krustlet/krustlet](https://github.com/krustlet/krustlet) - Kubernetes Rust Kubelet
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -1618,7 +1620,7 @@
 - [sonatype-nexus-community/search-maven-org](https://github.com/sonatype-nexus-community/search-maven-org) - 
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [rhysd/NyaoVim](https://github.com/rhysd/NyaoVim) - Web-enhanced Extensible Neovim Frontend
-- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus)
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [homerchen19/github-file-icons](https://github.com/homerchen19/github-file-icons) - 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
