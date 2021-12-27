@@ -304,6 +304,7 @@
 
 ## Go 
 
+- [mattn/go-generics-example](https://github.com/mattn/go-generics-example) - Example code for Go generics
 - [chenjiandongx/clock](https://github.com/chenjiandongx/clock) - ☁️  须知少时凌云志 曾许人间第一流
 - [lesismal/arpc](https://github.com/lesismal/arpc) - More effective network communication, two-way calling, notify and broadcast supported.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
@@ -581,7 +582,6 @@
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [mellow-io/mellow](https://github.com/mellow-io/mellow) - Mellow is a rule-based global transparent proxy client for Windows, macOS and Linux. Also a Proxifier alternative.
 - [seladb/StarTrack-js](https://github.com/seladb/StarTrack-js) - GitHub star history and stats - based on JavaScript only!
-- [xgenecloud/xgenecloud](https://github.com/xgenecloud/xgenecloud) - XgeneCloud is now https://github.com/nocodb/nocodb
 - [JensForstmann/Factorio-Blueprint-To-Combinator](https://github.com/JensForstmann/Factorio-Blueprint-To-Combinator) - Puts entities and items from bp string into constant combinator signals.
 - [sindresorhus/file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer/Uint8Array/ArrayBuffer
 - [npm/node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses)
