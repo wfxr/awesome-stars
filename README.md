@@ -305,6 +305,7 @@
 
 ## Go 
 
+- [oom-ai/oomstore](https://github.com/oom-ai/oomstore) - A Fast Feature Store Powered by Go.
 - [mattn/go-generics-example](https://github.com/mattn/go-generics-example) - Example code for Go generics
 - [chenjiandongx/clock](https://github.com/chenjiandongx/clock) - ☁️  须知少时凌云志 曾许人间第一流
 - [lesismal/arpc](https://github.com/lesismal/arpc) - More effective network communication, two-way calling, notify and broadcast supported.
@@ -1051,6 +1052,8 @@
 
 ## Rust 
 
+- [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin) - A code coverage tool for Rust projects
+- [oom-ai/oomplay](https://github.com/oom-ai/oomplay) - 
 - [softprops/shiplift](https://github.com/softprops/shiplift) - 🐳 🦀 rust interface for maneuvering docker containers
 - [brunoczim/fslock](https://github.com/brunoczim/fslock) - File locking for Rust.
 - [rusoto/rusoto](https://github.com/rusoto/rusoto) - AWS SDK for Rust
