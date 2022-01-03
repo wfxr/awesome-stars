@@ -1054,6 +1054,7 @@
 
 ## Rust 
 
+- [Aetf/unicode-truncate](https://github.com/Aetf/unicode-truncate) - Rust library for unicode-aware algorithm to pad or truncate `str` in terms of displayed width.
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin) - A code coverage tool for Rust projects
 - [oom-ai/oomplay](https://github.com/oom-ai/oomplay) - 
