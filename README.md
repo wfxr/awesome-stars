@@ -7,6 +7,7 @@
 
   - [Awk](#awk)
   - [Batchfile](#batchfile)
+  - [Brainfuck](#brainfuck)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -67,6 +68,10 @@
 ## Batchfile 
 
 - [vim/vim-win32-installer](https://github.com/vim/vim-win32-installer) - Vim Win32 Installer
+
+## Brainfuck 
+
+- [demisto/dockerfiles](https://github.com/demisto/dockerfiles) - Demisto's Dockerfiles and Image Build Management
 
 ## C 
 
@@ -144,6 +149,7 @@
 
 ## C++ 
 
+- [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
 - [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
@@ -781,7 +787,7 @@
 
 ## Others 
 
-- [oom-ai/tidb-hackathon-2022](https://github.com/oom-ai/tidb-hackathon-2022) - 
+- [oom-ai/tidb-hackathon-2021](https://github.com/oom-ai/tidb-hackathon-2021) - 
 - [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
 - [ZhengHe-MD/nerds-docs](https://github.com/ZhengHe-MD/nerds-docs) - 
 - [hosxy/Fcitx5-Material-Color](https://github.com/hosxy/Fcitx5-Material-Color) - 一款使用Material Design 配色的 fcitx5 皮肤，喜欢的话给个 star 吧   ヾ(≧へ≦)〃 😉
