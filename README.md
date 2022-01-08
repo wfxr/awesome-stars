@@ -321,7 +321,7 @@
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on MacOS with minimal setup
 - [joho/sqltocsv](https://github.com/joho/sqltocsv) - Go package to turn arbitrary database/sql query results into CSV files as easily as possible
 - [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang's database/sql
-- [lianxmfor/kfserving-inference-client](https://github.com/lianxmfor/kfserving-inference-client) - 用来请求 kfserving inference protocol - v2 version 的客户端
+- [lianxmfor/kfserving-inference-client](https://github.com/lianxmfor/kfserving-inference-client) - a client for kfserving inference protocol - v2 version
 - [mccutchen/go-httpbin](https://github.com/mccutchen/go-httpbin) - A reasonably complete and well-tested golang port of httpbin, with zero dependencies outside the go stdlib.
 - [pragkent/alidns-webhook](https://github.com/pragkent/alidns-webhook) - Cert manager acme dns01 webhook provider for alidns
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
