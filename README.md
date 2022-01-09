@@ -312,7 +312,7 @@
 ## Go 
 
 - [c4pt0r/tcli](https://github.com/c4pt0r/tcli) - The ultimate CLI tool for TiKV
-- [oom-ai/oomstore](https://github.com/oom-ai/oomstore) - A Fast Feature Store Powered by Go.
+- [oom-ai/oomstore](https://github.com/oom-ai/oomstore) - Lightweight and Fast Feature Store Powered by Go.
 - [mattn/go-generics-example](https://github.com/mattn/go-generics-example) - Example code for Go generics
 - [chenjiandongx/clock](https://github.com/chenjiandongx/clock) - ☁️  须知少时凌云志 曾许人间第一流
 - [lesismal/arpc](https://github.com/lesismal/arpc) - More effective network communication, two-way calling, notify and broadcast supported.
@@ -1060,6 +1060,7 @@
 
 ## Rust 
 
+- [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 - [sunfishcode/mustang](https://github.com/sunfishcode/mustang) - Rust programs written entirely in Rust
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight, stable and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [Aetf/unicode-truncate](https://github.com/Aetf/unicode-truncate) - Rust library for unicode-aware algorithm to pad or truncate `str` in terms of displayed width.
