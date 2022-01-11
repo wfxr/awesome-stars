@@ -149,6 +149,7 @@
 
 ## C++ 
 
+- [4paradigm/OpenMLDB](https://github.com/4paradigm/OpenMLDB) - OpenMLDB is an open-source machine learning database that provides a full-stack FeatureOps solution for enterprises.
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
 - [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
