@@ -542,7 +542,6 @@
 - [uber-archive/rave](https://github.com/uber-archive/rave) - A data model validation framework that uses java annotation processing.
 - [chanjarster/dockerfile-examples](https://github.com/chanjarster/dockerfile-examples) - 制作docker image的例子
 - [dropwizard/metrics](https://github.com/dropwizard/metrics) - :chart_with_upwards_trend: Capturing JVM- and application-level metrics. So you know what's going on.
-- [square/moshi](https://github.com/square/moshi) - A modern JSON library for Kotlin and Java.
 - [ZacSweers/json-serialization-benchmarking](https://github.com/ZacSweers/json-serialization-benchmarking) - Miscellaneous benchmarks for JSON serialization on JVM/Android
 - [wizzardo/json-benchmarks](https://github.com/wizzardo/json-benchmarks) - Benchmarks for popular json libraries
 - [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
@@ -696,6 +695,7 @@
 - [square/kotlinpoet](https://github.com/square/kotlinpoet) - A Kotlin API for generating .kt source files.
 - [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [wfxr/elastic-tunnel](https://github.com/wfxr/elastic-tunnel) - Tools for downloading data from elasticsearch
+- [square/moshi](https://github.com/square/moshi) - A modern JSON library for Kotlin and Java.
 - [Kotlin/kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) - Kotlin multiplatform / multi-format serialization
 - [gildor/kotlin-coroutines-retrofit](https://github.com/gildor/kotlin-coroutines-retrofit) - Kotlin Coroutines await() extension for Retrofit Call
 - [agrosner/DBFlow](https://github.com/agrosner/DBFlow) - A blazing fast, powerful, and very simple ORM android database library that writes database code for you.
@@ -1061,6 +1061,8 @@
 
 ## Rust 
 
+- [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
+- [fussybeaver/bollard](https://github.com/fussybeaver/bollard) - Docker daemon API in Rust
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 - [sunfishcode/mustang](https://github.com/sunfishcode/mustang) - Rust programs written entirely in Rust
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight, stable and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
