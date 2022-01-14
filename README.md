@@ -319,7 +319,7 @@
 - [lesismal/arpc](https://github.com/lesismal/arpc) - More effective network communication, two-way calling, notify and broadcast supported.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
-- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on MacOS with minimal setup
+- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [joho/sqltocsv](https://github.com/joho/sqltocsv) - Go package to turn arbitrary database/sql query results into CSV files as easily as possible
 - [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang's database/sql
 - [lianxmfor/kfserving-inference-client](https://github.com/lianxmfor/kfserving-inference-client) - a client for kfserving inference protocol - v2 version
@@ -1061,6 +1061,7 @@
 
 ## Rust 
 
+- [dtolnay/prettyplease](https://github.com/dtolnay/prettyplease) - A minimal `syn` syntax tree pretty-printer
 - [greshake/i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
 - [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language
 - [awestlake87/pyo3-asyncio](https://github.com/awestlake87/pyo3-asyncio) - 
