@@ -1735,7 +1735,7 @@
 - [skywind3000/vim](https://github.com/skywind3000/vim) - Personal Vim Profile
 - [ludovicchabant/vim-gutentags](https://github.com/ludovicchabant/vim-gutentags) - A Vim plugin that manages your tag files
 - [terryma/vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) - True Sublime Text style multiple selections for Vim
-- [plasticboy/vim-markdown](https://github.com/plasticboy/vim-markdown) - Markdown Vim Mode
+- [preservim/vim-markdown](https://github.com/preservim/vim-markdown) - Markdown Vim Mode
 - [mattn/vim-prompter](https://github.com/mattn/vim-prompter) - 
 - [mhinz/vim-signify](https://github.com/mhinz/vim-signify) - :heavy_plus_sign: Show a diff using Vim its sign column.
 - [mbbill/undotree](https://github.com/mbbill/undotree) - The undo history visualizer for VIM
