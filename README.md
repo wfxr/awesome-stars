@@ -1063,6 +1063,10 @@
 
 ## Rust 
 
+- [thalo-rs/thalo](https://github.com/thalo-rs/thalo) - Event sourcing for microservices.
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a syntax-aware diff 🟥🟩
+- [max-sixty/prql](https://github.com/max-sixty/prql) - PRQL is a modern language for transforming data — a simpler and more powerful SQL
+- [vorner/signal-hook](https://github.com/vorner/signal-hook) - Rust library allowing to register multiple handlers for the same signal
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
 - [tokio-rs/async-stream](https://github.com/tokio-rs/async-stream) - Asynchronous streams for Rust using async & await notation
