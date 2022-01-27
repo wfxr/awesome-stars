@@ -640,7 +640,7 @@
 - [sindresorhus/notifier-for-github](https://github.com/sindresorhus/notifier-for-github) - Browser extension - Get notified about new GitHub notifications
 - [lukehorvat/github-ast-viewer](https://github.com/lukehorvat/github-ast-viewer) - Google Chrome extension for viewing the abstract syntax tree (AST) of code on GitHub.
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
-- [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
+- [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [Simpleyyt/jekyll-theme-next](https://github.com/Simpleyyt/jekyll-theme-next) - Elegant theme for Jekyll.
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
@@ -1063,7 +1063,7 @@
 
 ## Rust 
 
-- [thalo-rs/thalo](https://github.com/thalo-rs/thalo) - Event sourcing for microservices.
+- [thalo-rs/thalo](https://github.com/thalo-rs/thalo) - 🚀 Event sourcing suite for Rust 🦀
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a syntax-aware diff 🟥🟩
 - [max-sixty/prql](https://github.com/max-sixty/prql) - PRQL is a modern language for transforming data — a simpler and more powerful SQL
 - [vorner/signal-hook](https://github.com/vorner/signal-hook) - Rust library allowing to register multiple handlers for the same signal
@@ -1125,7 +1125,7 @@
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize simplifies application development with streaming data. Incrementally-updated materialized views - in PostgreSQL and in real time. Materialize is powered by Timely Dataflow.
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion and Ballista query engines
 - [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
-- [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
 - [tangramdotdev/tangram](https://github.com/tangramdotdev/tangram) - Tangram makes it easy for programmers to train, deploy, and monitor machine learning models.
 - [apognu/tuigreet](https://github.com/apognu/tuigreet) - Graphical console greeter for greetd
 - [zesterer/ariadne](https://github.com/zesterer/ariadne) - A fancy diagnostics & error reporting crate
