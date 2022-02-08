@@ -904,6 +904,7 @@
 
 ## Python 
 
+- [ml-tooling/lazydocs](https://github.com/ml-tooling/lazydocs) - 📖  Generate markdown API documentation from Google-style Python docstring. The lazy alternative to Sphinx.
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [andialbrecht/sqlparse](https://github.com/andialbrecht/sqlparse) - A non-validating SQL parser module for Python
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
