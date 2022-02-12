@@ -904,7 +904,7 @@
 
 ## Python 
 
-- [pdoc3/pdoc](https://github.com/pdoc3/pdoc) - :snake: :arrow_right: :scroll:  Auto-generate API documentation for Python projects
+- [mitmproxy/pdoc](https://github.com/mitmproxy/pdoc) - API Documentation for Python Projects
 - [ml-tooling/lazydocs](https://github.com/ml-tooling/lazydocs) - 📖  Generate markdown API documentation from Google-style Python docstring. The lazy alternative to Sphinx.
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [andialbrecht/sqlparse](https://github.com/andialbrecht/sqlparse) - A non-validating SQL parser module for Python
@@ -1637,6 +1637,8 @@
 
 ## TypeScript 
 
+- [actions-rs/toolchain](https://github.com/actions-rs/toolchain) - 🛠️ GitHub Action for `rustup` commands
+- [messense/maturin-action](https://github.com/messense/maturin-action) - GitHub Action to install and run a custom maturin command
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [mislav/bump-homebrew-formula-action](https://github.com/mislav/bump-homebrew-formula-action) - Automatically bump Homebrew formula after a release
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
