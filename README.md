@@ -1064,6 +1064,8 @@
 
 ## Rust 
 
+- [uuid-rs/uuid](https://github.com/uuid-rs/uuid) - Generate and parse UUIDs.
+- [nextest-rs/nextest](https://github.com/nextest-rs/nextest) - A next-generation test runner for Rust.
 - [lemunozm/termchat](https://github.com/lemunozm/termchat) - Terminal chat through the LAN with video streaming and file transfer.
 - [Byron/open-rs](https://github.com/Byron/open-rs) - Open a path or URL with the system-defined program
 - [orium/rpds](https://github.com/orium/rpds) - Rust Persistent Data Structures
