@@ -578,7 +578,7 @@
 - [k0shk0sh/FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
 - [jooby-project/jooby](https://github.com/jooby-project/jooby) - The modular web framework for Java and Kotlin
 - [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language
-- [bethrobson/Head-First-Design-Patterns](https://github.com/bethrobson/Head-First-Design-Patterns) - Code for Head First Design Patterns book (2014)
+- [bethrobson/Head-First-Design-Patterns](https://github.com/bethrobson/Head-First-Design-Patterns) - Code for Head First Design Patterns book (2020)
 - [careercup/ctci](https://github.com/careercup/ctci) - Cracking the Coding Interview, 5th Edition
 
 ## JavaScript 
