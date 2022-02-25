@@ -312,6 +312,7 @@
 
 ## Go 
 
+- [rpcxio/rpcx-benchmark](https://github.com/rpcxio/rpcx-benchmark) - test popular rpc benchmarks at same throughputs with share clients
 - [securego/gosec](https://github.com/securego/gosec) - Golang security checker
 - [montanaflynn/stats](https://github.com/montanaflynn/stats) - A well tested and comprehensive Golang statistics library package with no dependencies.
 - [gotestyourself/gotestsum](https://github.com/gotestyourself/gotestsum) - 'go test' runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results.
@@ -791,6 +792,7 @@
 
 ## Others 
 
+- [rust-fuzz/trophy-case](https://github.com/rust-fuzz/trophy-case) - 🏆 Collection of bugs uncovered by fuzzing Rust code
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese).
 - [oom-ai/tidb-hackathon-2021](https://github.com/oom-ai/tidb-hackathon-2021) - 
 - [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
@@ -1065,6 +1067,7 @@
 
 ## Rust 
 
+- [rust-fuzz/afl.rs](https://github.com/rust-fuzz/afl.rs) - 🐇 Fuzzing Rust code with American Fuzzy Lop
 - [dtolnay/case-studies](https://github.com/dtolnay/case-studies) - Analysis of various tricky Rust code
 - [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow) - A modular implementation of timely dataflow in Rust
 - [wfxr/csview](https://github.com/wfxr/csview) - 📠 Pretty csv viewer for cli with cjk/emoji support.
@@ -1083,7 +1086,7 @@
 - [yaahc/color-eyre](https://github.com/yaahc/color-eyre) - Custom hooks for colorful human oriented error reports via panics and the eyre crate
 - [weiznich/diesel_async](https://github.com/weiznich/diesel_async) - Diesel async connection implementation
 - [camino-rs/camino](https://github.com/camino-rs/camino) - Like Rust's std::path::Path, but UTF-8.
-- [sunface/fancy-rust](https://github.com/sunface/fancy-rust) - Rust酷库推荐 - 使用我们精心挑选的开源代码，让你的Rust项目Fancy起来!    Written with ❤️ by https://course.rs
+- [sunface/fancy-rust](https://github.com/sunface/fancy-rust) - Rust酷库推荐 - 使用我们精心挑选的开源代码，让你的Rust项目Fancy起来!    Written with ❤️ by course.rs team
 - [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
 - [dtolnay/prettyplease](https://github.com/dtolnay/prettyplease) - A minimal `syn` syntax tree pretty-printer
 - [greshake/i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
