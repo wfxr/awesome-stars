@@ -794,6 +794,7 @@
 ## Others 
 
 - [rust-fuzz/trophy-case](https://github.com/rust-fuzz/trophy-case) - 🏆 Collection of bugs uncovered by fuzzing Rust code
+- [sunface/fancy-rust](https://github.com/sunface/fancy-rust) - 使用我们精心挑选的开源代码，让你的 Rust 项目 Fancy 起来!
 - [oom-ai/tidb-hackathon-2021](https://github.com/oom-ai/tidb-hackathon-2021) - 
 - [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
 - [ZhengHe-MD/nerds-docs](https://github.com/ZhengHe-MD/nerds-docs) - 
@@ -1087,7 +1088,6 @@
 - [yaahc/color-eyre](https://github.com/yaahc/color-eyre) - Custom hooks for colorful human oriented error reports via panics and the eyre crate
 - [weiznich/diesel_async](https://github.com/weiznich/diesel_async) - Diesel async connection implementation
 - [camino-rs/camino](https://github.com/camino-rs/camino) - Like Rust's std::path::Path, but UTF-8.
-- [sunface/fancy-rust](https://github.com/sunface/fancy-rust) - Rust酷库推荐 - 使用我们精心挑选的开源代码，让你的Rust项目Fancy起来!    Written with ❤️ by course.rs team
 - [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
 - [dtolnay/prettyplease](https://github.com/dtolnay/prettyplease) - A minimal `syn` syntax tree pretty-printer
 - [greshake/i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
