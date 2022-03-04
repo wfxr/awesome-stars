@@ -349,7 +349,7 @@
 - [go-ping/ping](https://github.com/go-ping/ping) - ICMP Ping library for Go
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [betty200744/ultimate-go](https://github.com/betty200744/ultimate-go) - This repo contains my notes on working with Go and computer systems.
-- [zu1k/nali](https://github.com/zu1k/nali) - An offline tool for querying IP geographic information and CDN provider.一个查询IP地理信息和CDN服务提供商的离线终端工具.
+- [zu1k/nali](https://github.com/zu1k/nali) - 一个查询IP地理信息和CDN服务提供商的离线终端工具.An offline tool for querying IP geographic information and CDN provider.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [monsterxx03/snet](https://github.com/monsterxx03/snet) - transparent proxy works on linux desktop, MacOS, router
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
