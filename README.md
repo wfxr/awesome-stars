@@ -585,7 +585,7 @@
 
 ## JavaScript 
 
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese).
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [YikSanChan/misbrands](https://github.com/YikSanChan/misbrands) - Silly icons that only geeks understand.
 - [YikSanChan/howXdoY](https://github.com/YikSanChan/howXdoY) - A minimal site that Googles how selected tech companies design a system.
 - [wip/app](https://github.com/wip/app) - The WIP GitHub App
