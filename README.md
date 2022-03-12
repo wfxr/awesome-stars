@@ -1068,6 +1068,7 @@
 
 ## Rust 
 
+- [bodil/smartstring](https://github.com/bodil/smartstring) - Compact inlined strings for Rust.
 - [engula/engula](https://github.com/engula/engula) - Engula is a cloud-native data structure store, used as a database, cache, and storage engine.
 - [rust-fuzz/afl.rs](https://github.com/rust-fuzz/afl.rs) - 🐇 Fuzzing Rust code with American Fuzzy Lop
 - [dtolnay/case-studies](https://github.com/dtolnay/case-studies) - Analysis of various tricky Rust code
