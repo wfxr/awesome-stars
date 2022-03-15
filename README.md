@@ -1068,6 +1068,8 @@
 
 ## Rust 
 
+- [kube-rs/kube-rs](https://github.com/kube-rs/kube-rs) - Rust Kubernetes client and controller runtime
+- [mitsuhiko/dialoguer](https://github.com/mitsuhiko/dialoguer) - Rust utility library for nice command line prompts and similar things
 - [bodil/smartstring](https://github.com/bodil/smartstring) - Compact inlined strings for Rust.
 - [engula/engula](https://github.com/engula/engula) - Engula is a cloud-native data structure store, used as a database, cache, and storage engine.
 - [rust-fuzz/afl.rs](https://github.com/rust-fuzz/afl.rs) - 🐇 Fuzzing Rust code with American Fuzzy Lop
@@ -1080,7 +1082,7 @@
 - [Byron/open-rs](https://github.com/Byron/open-rs) - Open a path or URL with the system-defined program
 - [orium/rpds](https://github.com/orium/rpds) - Rust Persistent Data Structures
 - [thalo-rs/thalo](https://github.com/thalo-rs/thalo) - 🚀 Event sourcing suite for Rust 🦀
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a syntax-aware diff 🟥🟩
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a diff that understands syntax 🟥🟩
 - [max-sixty/prql](https://github.com/max-sixty/prql) - PRQL is a modern language for transforming data — a simpler and more powerful SQL
 - [vorner/signal-hook](https://github.com/vorner/signal-hook) - Rust library allowing to register multiple handlers for the same signal
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
