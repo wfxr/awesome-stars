@@ -313,6 +313,7 @@
 
 ## Go 
 
+- [coocood/freecache](https://github.com/coocood/freecache) - A cache library for Go with zero GC overhead.
 - [rpcxio/rpcx-benchmark](https://github.com/rpcxio/rpcx-benchmark) - test popular rpc benchmarks at same throughputs with share clients
 - [securego/gosec](https://github.com/securego/gosec) - Golang security checker
 - [montanaflynn/stats](https://github.com/montanaflynn/stats) - A well tested and comprehensive Golang statistics library package with no dependencies.
