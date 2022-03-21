@@ -75,7 +75,7 @@
 
 ## C 
 
-- [ehids/ecapture](https://github.com/ehids/ecapture) - ecapture是一款无需CA证书，就可以进行HTTPS通讯明文抓包的工具。
+- [ehids/ecapture](https://github.com/ehids/ecapture) - capture SSL/TLS text content without CA cert by eBPF.
 - [Rust-for-Linux/linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
 - [haikarainen/light](https://github.com/haikarainen/light) - GNU/Linux application to control backlights
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
