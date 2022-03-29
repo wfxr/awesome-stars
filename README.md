@@ -1070,7 +1070,8 @@
 
 ## Rust 
 
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance Cloud Data Warehouse, activate your object storage for big data analytics.
+- [tnballo/high-assurance-rust](https://github.com/tnballo/high-assurance-rust) - A free book about developing secure and robust systems software.
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance Cloud Data Warehouse, activate your Object Storage for sub-second analytics.
 - [kube-rs/kube-rs](https://github.com/kube-rs/kube-rs) - Rust Kubernetes client and controller runtime
 - [mitsuhiko/dialoguer](https://github.com/mitsuhiko/dialoguer) - Rust utility library for nice command line prompts and similar things
 - [bodil/smartstring](https://github.com/bodil/smartstring) - Compact inlined strings for Rust.
