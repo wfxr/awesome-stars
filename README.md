@@ -150,6 +150,7 @@
 
 ## C++ 
 
+- [pingcap/tiflash](https://github.com/pingcap/tiflash) - The analytical engine for TiDB
 - [4paradigm/OpenMLDB](https://github.com/4paradigm/OpenMLDB) - OpenMLDB is an open-source machine learning database that provides a full-stack FeatureOps solution for production.
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
 - [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker
