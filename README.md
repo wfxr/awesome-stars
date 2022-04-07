@@ -519,7 +519,7 @@
 
 ## Handlebars 
 
-- [studyrs/cook-rust](https://github.com/studyrs/cook-rust) - 使用 Awesome 和 Cookbook 来烹饪你的 Rust 项目，Cook Rust = Cookbook + Awesome Rust 拒绝过时，拒绝敷衍，拒绝低质量！
+- [studyrs/rusty-book](https://github.com/studyrs/rusty-book) - A curated list of recipes and repos that can be used to build your rusty projects. Rusty Book = Cookbook + Awesome Rust！
 
 ## Haskell 
 
@@ -801,6 +801,7 @@
 
 ## Others 
 
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 - [rust-fuzz/trophy-case](https://github.com/rust-fuzz/trophy-case) - 🏆 Collection of bugs uncovered by fuzzing Rust code
 - [oom-ai/tidb-hackathon-2021](https://github.com/oom-ai/tidb-hackathon-2021) - 
 - [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
@@ -1057,7 +1058,7 @@
 - [geemus/formatador](https://github.com/geemus/formatador) - STDOUT text formatting
 - [mojombo/chronic](https://github.com/mojombo/chronic) - Chronic is a pure Ruby natural language date parser.
 - [franzejr/best-ruby](https://github.com/franzejr/best-ruby) - Ruby Tricks, Idiomatic Ruby, Refactoring and Best Practices
-- [JuanitoFatas/fast-ruby](https://github.com/JuanitoFatas/fast-ruby) - :dash: Writing Fast Ruby :heart_eyes: -- Collect Common Ruby idioms.
+- [fastruby/fast-ruby](https://github.com/fastruby/fast-ruby) - :dash: Writing Fast Ruby :heart_eyes: -- Collect Common Ruby idioms.
 - [mdub/clamp](https://github.com/mdub/clamp) - a Ruby command-line application framework
 - [ruby/rake](https://github.com/ruby/rake) - A make-like build utility for Ruby.
 - [seattlerb/rubyinline](https://github.com/seattlerb/rubyinline) - 
@@ -1241,7 +1242,7 @@
 - [Drakulix/simplelog.rs](https://github.com/Drakulix/simplelog.rs) - Simple Logging Facility for Rust
 - [estk/log4rs](https://github.com/estk/log4rs) - A highly configurable logging framework for Rust
 - [Peternator7/strum](https://github.com/Peternator7/strum) - A small rust library for adding custom derives to enums
-- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systemes
+- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems
 - [dtolnay/anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) - Educational blog posts for Rust beginners
