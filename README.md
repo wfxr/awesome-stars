@@ -1221,7 +1221,7 @@
 - [tokio-rs/bytes](https://github.com/tokio-rs/bytes) - Utilities for working with bytes
 - [bitvecto-rs/bitvec](https://github.com/bitvecto-rs/bitvec) - A crate for managing memory bit by bit
 - [zesterer/flume](https://github.com/zesterer/flume) - A safe and fast multi-producer, multi-consumer channel.
-- [pyros2097/rust-embed](https://github.com/pyros2097/rust-embed) - Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
+- [pyrossh/rust-embed](https://github.com/pyrossh/rust-embed) - Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
 - [rcore-os/rCore-Tutorial](https://github.com/rcore-os/rCore-Tutorial) - Tutorial for rCore OS step by step (3rd edition)
 - [rustcc/writing-an-os-in-rust](https://github.com/rustcc/writing-an-os-in-rust) - 《使用Rust编写操作系统》
 - [moka-rs/moka](https://github.com/moka-rs/moka) - A high performance concurrent caching library for Rust
