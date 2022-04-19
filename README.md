@@ -214,7 +214,6 @@
 ## CSS 
 
 - [vinceliuice/Colloid-gtk-theme](https://github.com/vinceliuice/Colloid-gtk-theme) - Colloid gtk theme for linux
-- [vinceliuice/Graphite-gtk-theme](https://github.com/vinceliuice/Graphite-gtk-theme) - Graphite gtk theme
 - [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
 - [cfsamson/books-futures-explained](https://github.com/cfsamson/books-futures-explained) - The repository for the book Futures Explained in 200 lines of Rust
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
@@ -1521,6 +1520,7 @@
 
 ## SCSS 
 
+- [vinceliuice/Graphite-gtk-theme](https://github.com/vinceliuice/Graphite-gtk-theme) - Graphite gtk theme
 - [morhetz/gruvbox-contrib](https://github.com/morhetz/gruvbox-contrib) - Ports of the gruvbox colorscheme
 - [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
 
@@ -1633,7 +1633,7 @@
 - [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
-- [Mayccoll/Gogh](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal and Pantheon Terminal
+- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Color Scheme for Gnome Terminal and Pantheon Terminal
 - [bpkg/bpkg](https://github.com/bpkg/bpkg) - Lightweight bash package manager
 - [b4b4r07/copy](https://github.com/b4b4r07/copy) - 
 - [holman/spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
