@@ -411,7 +411,7 @@
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [rodrigo-brito/gocity](https://github.com/rodrigo-brito/gocity) - :bar_chart: Code City metaphor for visualizing Go source code in 3D
 - [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-- [sclevine/yj](https://github.com/sclevine/yj) - CLI - Convert between YAML, TOML, JSON, and HCL
+- [sclevine/yj](https://github.com/sclevine/yj) - CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
 - [ContainerSolutions/k8s-deployment-strategies](https://github.com/ContainerSolutions/k8s-deployment-strategies) - Kubernetes deployment strategies explained
@@ -1376,7 +1376,7 @@
 - [dirs-dev/directories-rs](https://github.com/dirs-dev/directories-rs) - a mid-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows
 - [withoutboats/romio](https://github.com/withoutboats/romio) - asynchronous networking primitives
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
-- [38/plotters](https://github.com/38/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
+- [plotters-rs/plotters](https://github.com/plotters-rs/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
 - [jesusprubio/leg](https://github.com/jesusprubio/leg) - 🔈 Elegant print for lazy devs
 - [whitfin/limber](https://github.com/whitfin/limber) - A simple (but quick) tool for backing up Elasticsearch documents
 - [stepchowfun/toast](https://github.com/stepchowfun/toast) - Containerize your development and continuous integration environments. 🥂
