@@ -1075,6 +1075,8 @@
 
 ## Rust 
 
+- [sansyrox/robyn](https://github.com/sansyrox/robyn) - Robyn is a fast and extensible async python web server with a rust runtime
+- [Qovery/replibyte](https://github.com/Qovery/replibyte) - Seed your development database with real data ⚡️
 - [Xuyuanp/helmls](https://github.com/Xuyuanp/helmls) - helm language server
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
@@ -1219,7 +1221,7 @@
 - [dtolnay/async-trait](https://github.com/dtolnay/async-trait) - Type erasure for async trait methods
 - [causal-agent/scraper](https://github.com/causal-agent/scraper) - HTML parsing and querying with CSS selectors
 - [RustCrypto/hashes](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions written in pure Rust
-- [algesten/ureq](https://github.com/algesten/ureq) - Minimal request library in rust.
+- [algesten/ureq](https://github.com/algesten/ureq) - A simple, safe HTTP client
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [nvzqz/impls](https://github.com/nvzqz/impls) - A Rust macro to determine if a type implements a logical trait expression
 - [tokio-rs/bytes](https://github.com/tokio-rs/bytes) - Utilities for working with bytes
@@ -1667,12 +1669,14 @@
 
 ## Swift 
 
+- [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
 - [mczachurski/wallpapper](https://github.com/mczachurski/wallpapper) - :computer: Console application for creating dynamic wallpapers for macOS Mojave and newer
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
 - [toolinbox/iPicUploader](https://github.com/toolinbox/iPicUploader) - Use iPic to upload images on macOS.
 
 ## TypeScript 
 
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [actions-rs/toolchain](https://github.com/actions-rs/toolchain) - 🛠️ GitHub Action for `rustup` commands
 - [messense/maturin-action](https://github.com/messense/maturin-action) - GitHub Action to install and run a custom maturin command
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
