@@ -496,7 +496,6 @@
 - [google/protobuf-gradle-plugin](https://github.com/google/protobuf-gradle-plugin) - Protobuf Plugin for Gradle
 - [gradle/gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all
 - [patrikerdes/gradle-use-latest-versions-plugin](https://github.com/patrikerdes/gradle-use-latest-versions-plugin) - 
-- [ben-manes/gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin) - Gradle plugin to discover dependency updates
 - [melix/jmh-gradle-plugin](https://github.com/melix/jmh-gradle-plugin) - Integrates the JMH benchmarking framework with Gradle
 
 ## HTML 
@@ -706,6 +705,7 @@
 - [bennyhuo/TieGuanYin](https://github.com/bennyhuo/TieGuanYin) - Activity Builder.
 - [bennyhuo/Apt-Tutorials](https://github.com/bennyhuo/Apt-Tutorials) - 注解处理器教程，使用 Kotlin 编写
 - [square/kotlinpoet](https://github.com/square/kotlinpoet) - A Kotlin API for generating .kt source files.
+- [ben-manes/gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin) - Gradle plugin to discover dependency updates
 - [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [wfxr/elastic-tunnel](https://github.com/wfxr/elastic-tunnel) - Tools for downloading data from elasticsearch
 - [square/moshi](https://github.com/square/moshi) - A modern JSON library for Kotlin and Java.
@@ -743,6 +743,9 @@
 
 ## Lua 
 
+- [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim
+- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - Modern Go plugin for Neovim, based on gopls, treesitter, Dap and variety of go tools.
+- [crispgm/nvim-go](https://github.com/crispgm/nvim-go) - A minimal implementation of Golang development plugin for Neovim
 - [nvim-telescope/telescope-ui-select.nvim](https://github.com/nvim-telescope/telescope-ui-select.nvim) - 
 - [simrat39/rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in rust using neovim's builtin lsp
 - [akinsho/dotfiles](https://github.com/akinsho/dotfiles) - 🏡 dotfiles
