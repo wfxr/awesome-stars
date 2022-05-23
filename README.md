@@ -1188,7 +1188,7 @@
 - [datanymizer/datanymizer](https://github.com/datanymizer/datanymizer) - Powerful database anonymizer with flexible rules. Written in Rust.
 - [ihciah/clean-dns-bpf](https://github.com/ihciah/clean-dns-bpf) - 基于 Rust + eBPF 丢弃 GFW DNS 污染包
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The Fastest Way to Build the Fastest Data Products. Build data-intensive applications and services in SQL — without pipelines or caches — using materialized views that are always up-to-date.
-- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion and Ballista query engines
+- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine
 - [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
 - [modelfoxdotdev/modelfox](https://github.com/modelfoxdotdev/modelfox) - ModelFox makes it easy to train, deploy, and monitor machine learning models.
@@ -1432,7 +1432,7 @@
 - [rustasync/runtime](https://github.com/rustasync/runtime) - Empowering everyone to build asynchronous software
 - [conradkleinespel/rpassword](https://github.com/conradkleinespel/rpassword) - Cross platform Rust library to read a password in the terminal (Linux, BSD, OSX, Windows, WASM).
 - [maciejhirsz/json-rust](https://github.com/maciejhirsz/json-rust) - JSON implementation in Rust
-- [clux/muslrust](https://github.com/clux/muslrust) - Docker environment for building musl based static rust binaries
+- [clux/muslrust](https://github.com/clux/muslrust) - Docker environment for building musl based static linux rust binaries
 - [oli-obk/cargo_metadata](https://github.com/oli-obk/cargo_metadata) - 
 - [alexcrichton/toml-rs](https://github.com/alexcrichton/toml-rs) - A TOML encoding/decoding library for Rust
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
