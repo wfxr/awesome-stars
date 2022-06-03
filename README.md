@@ -315,6 +315,7 @@
 
 ## Go 
 
+- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 - [coocood/freecache](https://github.com/coocood/freecache) - A cache library for Go with zero GC overhead.
 - [rpcxio/rpcx-benchmark](https://github.com/rpcxio/rpcx-benchmark) - test popular rpc benchmarks at same throughputs with share clients
@@ -1571,6 +1572,7 @@
 
 ## Shell 
 
+- [reportaman/arttime](https://github.com/reportaman/arttime) - 🧜🏼‍♀️ beauty of text art meets functionality of clock/timer ⏰
 - [MichaelAquilina/zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed
 - [vinceliuice/Graphite-cursors](https://github.com/vinceliuice/Graphite-cursors) - Graphite cursors theme for linux desktops
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
