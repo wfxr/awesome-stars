@@ -315,6 +315,8 @@
 
 ## Go 
 
+- [ilyakaznacheev/cleanenv](https://github.com/ilyakaznacheev/cleanenv) - ✨Clean and minimalistic environment configuration reader for Golang
+- [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 - [coocood/freecache](https://github.com/coocood/freecache) - A cache library for Go with zero GC overhead.
