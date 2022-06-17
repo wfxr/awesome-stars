@@ -317,6 +317,7 @@
 
 ## Go 
 
+- [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Development environment for machine learning
 - [ilyakaznacheev/cleanenv](https://github.com/ilyakaznacheev/cleanenv) - ✨Clean and minimalistic environment configuration reader for Golang
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
@@ -1103,6 +1104,7 @@
 
 ## Rust 
 
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence for Building Data Applications
 - [terror/present](https://github.com/terror/present) - A script interpolation engine for markdown documents
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
