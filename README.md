@@ -1105,6 +1105,7 @@
 
 ## Rust 
 
+- [datafuselabs/opendal](https://github.com/datafuselabs/opendal) - Open Data Access Layer that connect the whole world together.
 - [crabtyper/crabtyper](https://github.com/crabtyper/crabtyper) - A speed typing web app written in Rust
 - [ZingerLittleBee/netop](https://github.com/ZingerLittleBee/netop) - Network Top
 - [Xuanwo/backon](https://github.com/Xuanwo/backon) - Another implementation of backoff via Iterator.
