@@ -1107,6 +1107,7 @@
 
 ## Rust 
 
+- [tokio-rs/mio](https://github.com/tokio-rs/mio) - Metal IO library for Rust
 - [Ryu0118/Kusa](https://github.com/Ryu0118/Kusa) - Kusa is a cli tool that displays the Github Contributions Graph.
 - [datafuselabs/opendal](https://github.com/datafuselabs/opendal) - Open Data Access Layer that connect the whole world together.
 - [crabtyper/crabtyper](https://github.com/crabtyper/crabtyper) - A speed typing web app written in Rust
@@ -1489,7 +1490,6 @@
 - [JoshMcguigan/arr_macro](https://github.com/JoshMcguigan/arr_macro) - Initialize arrays with ease!
 - [hukumka/reformation](https://github.com/hukumka/reformation) - 
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
-- [apiraino/rust-dotenv](https://github.com/apiraino/rust-dotenv) - A `dotenv` implementation for Rust.
 - [nachoparker/dutree](https://github.com/nachoparker/dutree) - a tool to analyze file system usage written in Rust
 - [thedodd/dockerfile](https://github.com/thedodd/dockerfile) - A Rust library for dynamically generating Dockerfiles.
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
