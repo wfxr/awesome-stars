@@ -753,6 +753,7 @@
 
 ## Lua 
 
+- [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Neovim plugin that allow you to seamlessly manage LSP servers with :LspInstall. With full Windows support!
 - [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) - Neovim plugin to improve the default vim.ui interfaces
 - [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) - a lua powered greeter like vim-startify / dashboard-nvim
@@ -1109,6 +1110,8 @@
 
 ## Rust 
 
+- [ayrat555/frankenstein](https://github.com/ayrat555/frankenstein) - Telegram bot API client for Rust
+- [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
 - [tokio-rs/mio](https://github.com/tokio-rs/mio) - Metal IO library for Rust
 - [Ryu0118/Kusa](https://github.com/Ryu0118/Kusa) - Kusa is a cli tool that displays the Github Contributions Graph.
 - [datafuselabs/opendal](https://github.com/datafuselabs/opendal) - Open Data Access Layer that connect the whole world together.
