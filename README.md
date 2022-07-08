@@ -952,6 +952,7 @@
 
 ## Python 
 
+- [scravy/awesome-pattern-matching](https://github.com/scravy/awesome-pattern-matching) - Pattern Matching for Python 3.7+ in a simple, yet powerful, extensible manner.
 - [EntilZha/PyFunctional](https://github.com/EntilZha/PyFunctional) - Python library for creating data pipelines with chain functional programming
 - [mitmproxy/pdoc](https://github.com/mitmproxy/pdoc) - API Documentation for Python Projects
 - [ml-tooling/lazydocs](https://github.com/ml-tooling/lazydocs) - 📖  Generate markdown API documentation from Google-style Python docstring. The lazy alternative to Sphinx.
@@ -1111,6 +1112,8 @@
 
 ## Rust 
 
+- [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
+- [async-graphql/async-graphql](https://github.com/async-graphql/async-graphql) - A GraphQL server library implemented in Rust
 - [ayrat555/frankenstein](https://github.com/ayrat555/frankenstein) - Telegram bot API client for Rust
 - [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
 - [tokio-rs/mio](https://github.com/tokio-rs/mio) - Metal IO library for Rust
