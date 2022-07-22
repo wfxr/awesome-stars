@@ -1120,6 +1120,7 @@
 
 ## Rust 
 
+- [shepmaster/snafu](https://github.com/shepmaster/snafu) - Easily assign underlying errors into domain-specific errors while adding context
 - [regexident/cargo-modules](https://github.com/regexident/cargo-modules) - A cargo plugin for showing a tree-like overview of a crate's modules.
 - [TimonPost/cargo-unused-features](https://github.com/TimonPost/cargo-unused-features) - Find potential unused enabled feature flags and prune them.
 - [model-checking/kani](https://github.com/model-checking/kani) - Kani Rust Verifier
