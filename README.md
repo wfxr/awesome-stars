@@ -762,7 +762,7 @@
 
 ## Lua 
 
-- [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Neovim plugin that allow you to seamlessly manage LSP servers with :LspInstall. With full Windows support!
+- [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Neovim plugin that allow you to seamlessly manage LSP servers with :LspInstall. With full Windows support! Further development has moved to https://github.com/williamboman/mason.nvim!
 - [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) - Neovim plugin to improve the default vim.ui interfaces
 - [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) - a lua powered greeter like vim-startify / dashboard-nvim
@@ -797,7 +797,7 @@
 - [npo6ka/FNEI](https://github.com/npo6ka/FNEI) - Factorio NEI
 - [raiguard/Factorio-EditorExtensions](https://github.com/raiguard/Factorio-EditorExtensions) - Extends the Factorio map editor with new features, testing tools, and other utilities to aid with sandbox play and scenario creation.
 - [Yousei9/Logistic-Train-Network](https://github.com/Yousei9/Logistic-Train-Network) - Factorio mod adding logistic network for trains.
-- [nihilistzsche/Factorio-LtnManager](https://github.com/nihilistzsche/Factorio-LtnManager) - A GUI for managing your Logistic Train Network. A mod for Factorio.
+- [nihilistzsche/LtnManager](https://github.com/nihilistzsche/LtnManager) - A GUI for managing your Logistic Train Network. A mod for Factorio.
 - [Klonan/Transport_Drones](https://github.com/Klonan/Transport_Drones) - Mod for Factorio
 - [alfunx/.dotfiles](https://github.com/alfunx/.dotfiles) - There's no place like ~ !
 - [worron/awesome-config](https://github.com/worron/awesome-config) - Awesome WM config
