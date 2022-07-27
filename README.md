@@ -1121,6 +1121,9 @@
 
 ## Rust 
 
+- [PsiACE/databend-internals](https://github.com/PsiACE/databend-internals) - Databend 内幕大揭秘
+- [dtolnay/rust-quiz](https://github.com/dtolnay/rust-quiz) - Medium to hard Rust questions with explanations
+- [JakWai01/lurk](https://github.com/JakWai01/lurk) - A pretty (simple) alternative to strace
 - [shepmaster/snafu](https://github.com/shepmaster/snafu) - Easily assign underlying errors into domain-specific errors while adding context
 - [regexident/cargo-modules](https://github.com/regexident/cargo-modules) - A cargo plugin for showing a tree-like overview of a crate's modules.
 - [TimonPost/cargo-unused-features](https://github.com/TimonPost/cargo-unused-features) - Find potential unused enabled feature flags and prune them.
@@ -1408,7 +1411,7 @@
 - [lunaryorn/mdcat](https://github.com/lunaryorn/mdcat) - cat for markdown
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
 - [dtolnay/readonly](https://github.com/dtolnay/readonly) - Struct fields that are made read-only accessible to other modules
-- [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
+- [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library for generating regular expressions from user-provided test cases
 - [databricks/click](https://github.com/databricks/click) - The "Command Line Interactive Controller for Kubernetes"
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
