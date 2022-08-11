@@ -281,7 +281,7 @@
 - [dm3/clojure.java-time](https://github.com/dm3/clojure.java-time) - Java 8 Date-Time API for Clojure
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [mpenet/spandex](https://github.com/mpenet/spandex) - Elasticsearch client for Clojure (built on new ES 7.x java client)
-- [technomancy/leiningen](https://github.com/technomancy/leiningen) - Automate Clojure projects without setting your hair on fire.
+- [technomancy/leiningen](https://github.com/technomancy/leiningen) - Moved to Codeberg; this is a convenience mirror
 - [dakrone/cheshire](https://github.com/dakrone/cheshire) - Clojure JSON and JSON SMILE (binary json format) encoding/decoding
 
 ## CoffeeScript 
