@@ -473,7 +473,7 @@
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [cheggaaa/pb](https://github.com/cheggaaa/pb) - Console progress bar for Golang
-- [olivere/elastic](https://github.com/olivere/elastic) - Elasticsearch client for Go.
+- [olivere/elastic](https://github.com/olivere/elastic) - Deprecated: Use the official Elasticsearch client for Go at https://github.com/elastic/go-elasticsearch
 - [mattn/ft](https://github.com/mattn/ft) - File Transferer
 - [fatih/camelcase](https://github.com/fatih/camelcase) - Split a camelcase word into a slice of words in Go
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
@@ -1122,6 +1122,7 @@
 
 ## Rust 
 
+- [mmastrac/rust-ctor](https://github.com/mmastrac/rust-ctor) - Module initialization/global constructor functions for Rust
 - [PsiACE/databend-internals](https://github.com/PsiACE/databend-internals) - Databend 内幕大揭秘
 - [dtolnay/rust-quiz](https://github.com/dtolnay/rust-quiz) - Medium to hard Rust questions with explanations
 - [JakWai01/lurk](https://github.com/JakWai01/lurk) - A pretty (simple) alternative to strace
