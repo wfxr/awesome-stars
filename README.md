@@ -58,8 +58,8 @@
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vala](#vala)
+- [Vim Script](#vim-script)
 - [Vim Snippet](#vim-snippet)
-- [Vim script](#vim-script)
 - [Vue](#vue)
 - [Zig](#zig)
 
@@ -1808,11 +1808,7 @@
 - [b4j4/indicator-kdeconnect](https://github.com/b4j4/indicator-kdeconnect) - AppIndicator for KDE Connect
 - [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
 
-## Vim Snippet 
-
-- [honza/vim-snippets](https://github.com/honza/vim-snippets) - vim-snipmate default snippets (Previously snipmate-snippets)
-
-## Vim script 
+## Vim Script 
 
 - [dstein64/vim-startuptime](https://github.com/dstein64/vim-startuptime) - ⏲️ A Vim plugin for profiling Vim's startup time.
 - [liuchengxu/vista.vim](https://github.com/liuchengxu/vista.vim) - :cactus: Viewer & Finder for LSP symbols and tags
@@ -1938,6 +1934,10 @@
 - [Shougo/unite.vim](https://github.com/Shougo/unite.vim) - :dragon: Unite and create user interfaces
 - [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
 - [mattn/calendar-vim](https://github.com/mattn/calendar-vim) - calendar vimscript
+
+## Vim Snippet 
+
+- [honza/vim-snippets](https://github.com/honza/vim-snippets) - vim-snipmate default snippets (Previously snipmate-snippets)
 
 ## Vue 
 
