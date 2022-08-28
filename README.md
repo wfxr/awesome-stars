@@ -746,7 +746,7 @@
 - [mcxiaoke/kotlin-koi](https://github.com/mcxiaoke/kotlin-koi) - Koi, a lightweight kotlin library for Android Development.
 - [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
 - [gradle/kotlin-dsl-samples](https://github.com/gradle/kotlin-dsl-samples) - Samples builds using the Gradle Kotlin DSL
-- [holgerbrandl/kscript](https://github.com/holgerbrandl/kscript) - Scripting enhancements for Kotlin
+- [kscripting/kscript](https://github.com/kscripting/kscript) - Scripting enhancements for Kotlin
 - [debop/koda-time](https://github.com/debop/koda-time) - Joda Time and Java 8 Time Extensions for Kotlin
 - [JetBrains/educational-plugin](https://github.com/JetBrains/educational-plugin) - Educational plugin to learn and teach programming languages such as Kotlin, Java, Python, JavaScript, and others right inside of JetBrains IntelliJ Platform based IDEs.
 - [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - Vim emulation plugin for IDEs based on the IntelliJ Platform
