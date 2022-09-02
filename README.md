@@ -220,7 +220,6 @@
 
 ## CSS 
 
-- [vinceliuice/Graphite-gtk-theme](https://github.com/vinceliuice/Graphite-gtk-theme) - Graphite gtk theme
 - [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
 - [cfsamson/books-futures-explained](https://github.com/cfsamson/books-futures-explained) - The repository for the book Futures Explained in 200 lines of Rust
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
@@ -1501,7 +1500,7 @@
 - [kbknapp/cargo-graph](https://github.com/kbknapp/cargo-graph) - A cargo subcommand for creating GraphViz DOT files and dependency graphs
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [citybound/citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
-- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
+- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [ct-austin/ifmt](https://github.com/ct-austin/ifmt) - Inline expression interpolation for Rust.
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [gmmorris/jg](https://github.com/gmmorris/jg) - Jeff Goldblum (jg) is a command-line JSON processor. jg searches for structural patterns in json input and prints each json object that matches the pattern.
@@ -1610,6 +1609,7 @@
 ## SCSS 
 
 - [vinceliuice/Colloid-gtk-theme](https://github.com/vinceliuice/Colloid-gtk-theme) - Colloid gtk theme for linux
+- [vinceliuice/Graphite-gtk-theme](https://github.com/vinceliuice/Graphite-gtk-theme) - Graphite gtk theme
 - [morhetz/gruvbox-contrib](https://github.com/morhetz/gruvbox-contrib) - Ports of the gruvbox colorscheme
 - [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
 
