@@ -132,7 +132,7 @@
 ## C# # 
 
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
-- [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
 - [fezhub/DSP-Mods](https://github.com/fezhub/DSP-Mods) - Dyson Sphere Program Mods
 - [GitCredentialManager/git-credential-manager](https://github.com/GitCredentialManager/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
@@ -331,7 +331,7 @@
 
 - [lithammer/shortuuid](https://github.com/lithammer/shortuuid) - :mushroom: A generator library for concise, unambiguous and URL-safe UUIDs
 - [go-lark/lark](https://github.com/go-lark/lark) - An easy-to-use SDK for Feishu and Lark Open Platform (Messaging API only)
-- [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Development environment for AI/ML
+- [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Development environment for AI/ML, based on buildkit
 - [ilyakaznacheev/cleanenv](https://github.com/ilyakaznacheev/cleanenv) - ✨Clean and minimalistic environment configuration reader for Golang
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
@@ -825,7 +825,6 @@
 - [alswl/Rime](https://github.com/alswl/Rime) - Rime configuration for Squirrel (macOS) & fcitx-rime (Linux)
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [bitemyapp/learnhaskell](https://github.com/bitemyapp/learnhaskell) - Learn Haskell
-- [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 
 ## Markdown 
 
@@ -1697,6 +1696,7 @@
 - [oblique/create_ap](https://github.com/oblique/create_ap) - [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
+- [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [atweiden/fzf-extras](https://github.com/atweiden/fzf-extras) - Key bindings from fzf wiki
 - [schors/tgdante2](https://github.com/schors/tgdante2) - Dockerized Dante socks5 proxy for telegram. Alpine version
 - [wfxr/tmux-net-speed](https://github.com/wfxr/tmux-net-speed) - 
