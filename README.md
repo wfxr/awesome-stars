@@ -1124,6 +1124,7 @@
 
 ## Rust 
 
+- [tafia/calamine](https://github.com/tafia/calamine) - A pure Rust Excel/OpenDocument SpeadSheets file reader: rust on metal sheets
 - [pikkr/pikkr](https://github.com/pikkr/pikkr) - JSON parser which picks up values directly without performing tokenization in Rust
 - [mmastrac/rust-ctor](https://github.com/mmastrac/rust-ctor) - Module initialization/global constructor functions for Rust
 - [PsiACE/databend-internals](https://github.com/PsiACE/databend-internals) - Databend 内幕大揭秘
@@ -1748,7 +1749,7 @@
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [tmux-plugins/tmux-copycat](https://github.com/tmux-plugins/tmux-copycat) - A plugin that enhances tmux search
-- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
+- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
 - [mskyaxl/wsl-terminal](https://github.com/mskyaxl/wsl-terminal) - Terminal emulator for Windows Subsystem for Linux (WSL)
 - [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
