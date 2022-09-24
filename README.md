@@ -1123,6 +1123,7 @@
 
 ## Rust 
 
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and easy tool for code searching, linting, rewriting at large scale. Written in Rust
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Save space by cleaning non-essential files from software projects.
 - [tafia/calamine](https://github.com/tafia/calamine) - A pure Rust Excel/OpenDocument SpeadSheets file reader: rust on metal sheets
 - [pikkr/pikkr](https://github.com/pikkr/pikkr) - JSON parser which picks up values directly without performing tokenization in Rust
@@ -1488,7 +1489,7 @@
 - [maciejhirsz/json-rust](https://github.com/maciejhirsz/json-rust) - JSON implementation in Rust
 - [clux/muslrust](https://github.com/clux/muslrust) - Docker environment for building musl based static linux rust binaries
 - [oli-obk/cargo_metadata](https://github.com/oli-obk/cargo_metadata) - 
-- [alexcrichton/toml-rs](https://github.com/alexcrichton/toml-rs) - A TOML encoding/decoding library for Rust
+- [toml-rs/toml-rs](https://github.com/toml-rs/toml-rs) - A TOML encoding/decoding library for Rust
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 - [farseerfc/ydcv-rs](https://github.com/farseerfc/ydcv-rs) - A rust version of https://github.com/felixonmars/ydcv/ .
 - [gmg137/netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk) - Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
