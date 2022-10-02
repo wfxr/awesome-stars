@@ -1144,7 +1144,7 @@
 - [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
 - [tokio-rs/mio](https://github.com/tokio-rs/mio) - Metal IO library for Rust
 - [Ryu0118/Kusa](https://github.com/Ryu0118/Kusa) - Kusa is a cli tool that displays the Github Contributions Graph.
-- [datafuselabs/opendal](https://github.com/datafuselabs/opendal) - OpenDAL: Access data freely, painless, and efficiently
+- [datafuselabs/opendal](https://github.com/datafuselabs/opendal) - OpenDAL: Access data freely, painlessly, and efficiently
 - [crabtyper/crabtyper](https://github.com/crabtyper/crabtyper) - A speed typing web app written in Rust
 - [ZingerLittleBee/netop](https://github.com/ZingerLittleBee/netop) - Network Top
 - [Xuanwo/backon](https://github.com/Xuanwo/backon) - Another implementation of backoff via Iterator.
@@ -1594,7 +1594,7 @@
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 - [maidsafe-archive/crust](https://github.com/maidsafe-archive/crust) - Reliable p2p network connections in Rust with NAT traversal. One of the most needed libraries for any server-less / decentralised projects
-- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/nightly/clippy/
+- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 - [nrc/r4cppp](https://github.com/nrc/r4cppp) - Rust for C++ programmers
 - [rust-lang/rls](https://github.com/rust-lang/rls) - Repository for the Rust Language Server (aka RLS)
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
@@ -1627,7 +1627,7 @@
 ## Shell 
 
 - [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain) - Concise GitHub Action for installing a Rust toolchain
-- [reportaman/arttime](https://github.com/reportaman/arttime) - 🧜🏼‍♀️ beauty of text art meets functionality of clock / timer / pattern-based time manager ⏰ in terminal
+- [poetaman/arttime](https://github.com/poetaman/arttime) - 🧜🏼‍♀️ beauty of text art meets functionality of clock / timer / pattern-based time manager ⏰ in terminal
 - [MichaelAquilina/zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [vinceliuice/Graphite-cursors](https://github.com/vinceliuice/Graphite-cursors) - Graphite cursors theme for linux desktops
