@@ -1627,7 +1627,7 @@
 ## Shell 
 
 - [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain) - Concise GitHub Action for installing a Rust toolchain
-- [poetaman/arttime](https://github.com/poetaman/arttime) - 🧜🏼‍♀️ beauty of text art meets functionality of clock / timer / pattern-based time manager ⏰ in terminal
+- [poetaman/arttime](https://github.com/poetaman/arttime) - arttime is a cross-platform application that blends 🧜🏼‍♀️ beauty of text-art with functionality of clock / timer / pattern-based time manager ⏰ in terminal
 - [MichaelAquilina/zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [vinceliuice/Graphite-cursors](https://github.com/vinceliuice/Graphite-cursors) - Graphite cursors theme for linux desktops
