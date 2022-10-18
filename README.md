@@ -217,6 +217,7 @@
 
 ## CMake 
 
+- [pingcap/kvproto](https://github.com/pingcap/kvproto) - Protocol buffer files for TiKV
 - [ruslo/hunter](https://github.com/ruslo/hunter) - 
 
 ## CSS 
@@ -244,7 +245,7 @@
 
 ## Clojure 
 
-- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
+- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [juxt/tick](https://github.com/juxt/tick) - Time as a value.
 - [bhb/expound](https://github.com/bhb/expound) - Human-optimized error messages for clojure.spec
 - [clojure/core.async](https://github.com/clojure/core.async) - Facilities for async programming and communication in Clojure
@@ -753,7 +754,7 @@
 - [kscripting/kscript](https://github.com/kscripting/kscript) - Scripting enhancements for Kotlin
 - [debop/koda-time](https://github.com/debop/koda-time) - Joda Time and Java 8 Time Extensions for Kotlin
 - [JetBrains/educational-plugin](https://github.com/JetBrains/educational-plugin) - Educational plugin to learn and teach programming languages such as Kotlin, Java, Python, JavaScript, and others right inside of JetBrains IntelliJ Platform based IDEs.
-- [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - Vim emulation plugin for IDEs based on the IntelliJ Platform
+- [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs
 - [MicroUtils/kotlin-logging](https://github.com/MicroUtils/kotlin-logging) - Lightweight logging framework for Kotlin. A convenient and performant logging library wrapping slf4j with Kotlin extensions
 - [dbacinski/Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin) - Design Patterns implemented in Kotlin
 - [jooby-project/kotlin-starter](https://github.com/jooby-project/kotlin-starter) - Starter project for Kotlin
@@ -1125,6 +1126,7 @@
 
 ## Rust 
 
+- [RalfJung/cargo-careful](https://github.com/RalfJung/cargo-careful) - Execute Rust code carefully, with extra checking along the way
 - [noib3/nvim-oxi](https://github.com/noib3/nvim-oxi) - :link: Rust bindings to all things Neovim
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A tiny, self-contained, configurable paste bin and URL shortener written in Rust.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and easy tool for code searching, linting, rewriting at large scale. Written in Rust
@@ -1149,7 +1151,7 @@
 - [Ryu0118/Kusa](https://github.com/Ryu0118/Kusa) - Kusa is a cli tool that displays the Github Contributions Graph.
 - [datafuselabs/opendal](https://github.com/datafuselabs/opendal) - OpenDAL: Access data freely, painlessly, and efficiently
 - [crabtyper/crabtyper](https://github.com/crabtyper/crabtyper) - A speed typing web app written in Rust
-- [ZingerLittleBee/netop](https://github.com/ZingerLittleBee/netop) - Network Top
+- [ZingerLittleBee/netop](https://github.com/ZingerLittleBee/netop) - Network Top -- Help you monitor network traffic with bpf
 - [Xuanwo/backon](https://github.com/Xuanwo/backon) - Another implementation of backoff via Iterator.
 - [Xuanwo/globiter](https://github.com/Xuanwo/globiter) - Turn glob range and set into Iterator
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence for Building Data Applications
@@ -1617,7 +1619,7 @@
 - [vinceliuice/Colloid-gtk-theme](https://github.com/vinceliuice/Colloid-gtk-theme) - Colloid gtk theme for linux
 - [vinceliuice/Graphite-gtk-theme](https://github.com/vinceliuice/Graphite-gtk-theme) - Graphite gtk theme
 - [morhetz/gruvbox-contrib](https://github.com/morhetz/gruvbox-contrib) - Ports of the gruvbox colorscheme
-- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, easily build with widgets! 创建在线课程，学术简历或初创网站。#OpenScience
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, easily build with blocks! 创建在线课程，学术简历或初创网站。#OpenScience
 
 ## Scala 
 
