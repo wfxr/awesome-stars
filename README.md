@@ -1351,7 +1351,7 @@
 - [ephemient/aoc2020](https://github.com/ephemient/aoc2020) - Advent of Code 2020 - my answers
 - [bluss/scopeguard](https://github.com/bluss/scopeguard) - Rust crate for a convenient RAII scope guard.
 - [rust-github/template](https://github.com/rust-github/template) - Template for a generic rust project hosted on GitHub
-- [emilyskidsister/aoc](https://github.com/emilyskidsister/aoc) - Advent of Code Solutions
+- [jocelyn-stericker/aoc](https://github.com/jocelyn-stericker/aoc) - Advent of Code Solutions
 - [wfxr/advent-of-code-2020](https://github.com/wfxr/advent-of-code-2020) - 🦀 Rust solutions to AoC 2020
 - [rust-phf/rust-phf](https://github.com/rust-phf/rust-phf) - Compile time static maps for Rust
 - [AxlLind/AdventOfCode2020](https://github.com/AxlLind/AdventOfCode2020) - Solutions to all 25 AoC 2020 problems in Rust :christmas_tree: With relatively high global leaderboard placements!
@@ -1775,6 +1775,7 @@
 
 ## TypeScript 
 
+- [Swatinem/rust-cache](https://github.com/Swatinem/rust-cache) - A GitHub Action that implements smart caching for rust/cargo projects
 - [fkirc/skip-duplicate-actions](https://github.com/fkirc/skip-duplicate-actions) - Save time and cost when using GitHub Actions
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Open Source Software Insights - Analysis, Comparison, Trends, Rankings of Open Source Software. Follow us on Twitter: https://twitter.com/ossinsight
