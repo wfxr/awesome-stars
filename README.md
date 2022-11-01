@@ -338,6 +338,7 @@
 
 ## Go 
 
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [lithammer/shortuuid](https://github.com/lithammer/shortuuid) - :mushroom: A generator library for concise, unambiguous and URL-safe UUIDs
 - [go-lark/lark](https://github.com/go-lark/lark) - An easy-to-use SDK for Feishu and Lark Open Platform (Messaging API only)
 - [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Development environment for AI/ML
@@ -969,6 +970,7 @@
 
 - [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) - 📦 The default bucket for Scoop.
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 
 ## Python 
 
@@ -1061,7 +1063,6 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [google/yapf](https://github.com/google/yapf) - A formatter for Python files
 - [deeplook/sparklines](https://github.com/deeplook/sparklines) - Text-based sparkline command line mimicking those of Edward Tuft.
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [wizzat/distribution](https://github.com/wizzat/distribution) - Short, simple, direct scripts for creating ASCII graphical histograms in the terminal.
 - [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
@@ -1132,6 +1133,8 @@
 
 ## Rust 
 
+- [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust.
+- [ad4mx/spinoff](https://github.com/ad4mx/spinoff) - 💻 Simple Rust library for displaying spinners in the terminal
 - [mkawalec/deluge](https://github.com/mkawalec/deluge) - Deluge, not a stream
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
 - [clitic/kdam](https://github.com/clitic/kdam) - Ultimate console progress bar for Rust (tqdm + rich.progress)
@@ -1568,7 +1571,6 @@
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [google/tarpc](https://github.com/google/tarpc) - An RPC framework for Rust with a focus on ease of use.
 - [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
-- [mgattozzi/async-await-class](https://github.com/mgattozzi/async-await-class) - Stubs of the Code used with the RustConf 2018 Async/Await Class
 - [sunjay/turtle](https://github.com/sunjay/turtle) - Create Animated Drawings in Rust
 - [actix/actix](https://github.com/actix/actix) - Actor framework for Rust.
 - [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
