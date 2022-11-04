@@ -1797,7 +1797,7 @@
 - [catppuccin/wallpapers](https://github.com/catppuccin/wallpapers) - 🖼️ Wallpapers to match your Catppuccin setups!
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [actions-rs/toolchain](https://github.com/actions-rs/toolchain) - 🛠️ GitHub Action for `rustup` commands
-- [messense/maturin-action](https://github.com/messense/maturin-action) - GitHub Action to install and run a custom maturin command with built-in support for cross compilation
+- [PyO3/maturin-action](https://github.com/PyO3/maturin-action) - GitHub Action to install and run a custom maturin command with built-in support for cross compilation
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [mislav/bump-homebrew-formula-action](https://github.com/mislav/bump-homebrew-formula-action) - Automatically bump Homebrew formula after a release
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
@@ -1821,7 +1821,7 @@
 - [neoclide/coc-python](https://github.com/neoclide/coc-python) - Python extension for coc.nvim, fork of vscode-python
 - [neoclide/coc-snippets](https://github.com/neoclide/coc-snippets) - Snippets solution for coc.nvim
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
-- [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox, Thunderbird & others.
+- [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [teoxoy/factorio-blueprint-editor](https://github.com/teoxoy/factorio-blueprint-editor) - A feature-rich Factorio Blueprint Editor
 - [deniszholob/factorio-cheat-sheet](https://github.com/deniszholob/factorio-cheat-sheet) - Cheat Sheet for Factorio
 - [sonatype-nexus-community/search-maven-org](https://github.com/sonatype-nexus-community/search-maven-org) - 
