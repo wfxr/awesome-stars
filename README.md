@@ -1445,7 +1445,7 @@
 - [xacrimon/dashmap](https://github.com/xacrimon/dashmap) - Blazing fast concurrent HashMap for Rust.
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [dtolnay/star-history](https://github.com/dtolnay/star-history) - Graph history of GitHub stars of a user or repo over time
-- [lunaryorn/mdcat](https://github.com/lunaryorn/mdcat) - cat for markdown
+- [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
 - [dtolnay/readonly](https://github.com/dtolnay/readonly) - Struct fields that are made read-only accessible to other modules
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library for generating regular expressions from user-provided test cases
