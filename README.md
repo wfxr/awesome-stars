@@ -342,7 +342,7 @@
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [lithammer/shortuuid](https://github.com/lithammer/shortuuid) - :mushroom: A generator library for concise, unambiguous and URL-safe UUIDs
 - [go-lark/lark](https://github.com/go-lark/lark) - An easy-to-use SDK for Feishu and Lark Open Platform (Messaging API only)
-- [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment for Python, R and Julia
+- [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment for AI/ML
 - [ilyakaznacheev/cleanenv](https://github.com/ilyakaznacheev/cleanenv) - ✨Clean and minimalistic environment configuration reader for Golang
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
@@ -1377,7 +1377,7 @@
 - [jocelyn-stericker/aoc](https://github.com/jocelyn-stericker/aoc) - Advent of Code Solutions
 - [wfxr/advent-of-code-2020](https://github.com/wfxr/advent-of-code-2020) - 🦀 Rust solutions to AoC 2020
 - [rust-phf/rust-phf](https://github.com/rust-phf/rust-phf) - Compile time static maps for Rust
-- [AxlLind/AdventOfCode2020](https://github.com/AxlLind/AdventOfCode2020) - Solutions to all 25 AoC 2020 problems in Rust :christmas_tree: With relatively high global leaderboard placements!
+- [AxlLind/AdventOfCode2020](https://github.com/AxlLind/AdventOfCode2020) - Solutions to all 25 AoC 2020 problems in Rust :christmas_tree:
 - [orhun/menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️
 - [servo/rust-fnv](https://github.com/servo/rust-fnv) - Fowler–Noll–Vo hash function
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
