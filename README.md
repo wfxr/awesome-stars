@@ -1138,6 +1138,7 @@
 
 ## Rust 
 
+- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week! (WIP)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - GreptimeDB, an open-source, cloud-native, distributed time-series database.
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
 - [tcdi/pgx](https://github.com/tcdi/pgx) - Build Postgres Extensions with Rust!
