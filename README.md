@@ -139,7 +139,7 @@
 ## C# # 
 
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
-- [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [fezhub/DSP-Mods](https://github.com/fezhub/DSP-Mods) - Dyson Sphere Program Mods
 - [GitCredentialManager/git-credential-manager](https://github.com/GitCredentialManager/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
