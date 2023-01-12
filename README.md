@@ -98,7 +98,7 @@
 - [i3/i3lock](https://github.com/i3/i3lock) - improved screen locker
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 - [spanezz/nodm](https://github.com/spanezz/nodm) - Automatic display manager
-- [i3/i3](https://github.com/i3/i3) - A tiling window manager
+- [i3/i3](https://github.com/i3/i3) - A tiling window manager for X11
 - [Airblader/i3](https://github.com/Airblader/i3) - A fork of the i3 window manager with gaps and some other features. :warning: i3-gaps has been merged into i3.
 - [tryone144/compton](https://github.com/tryone144/compton) - A compositor for X11.
 - [fcitx/fcitx](https://github.com/fcitx/fcitx) - A Flexible Input Method Framework
