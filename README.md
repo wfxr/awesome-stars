@@ -1149,6 +1149,7 @@
 
 ## Rust 
 
+- [Detegr/rust-ctrlc](https://github.com/Detegr/rust-ctrlc) - Easy Ctrl-C handler for Rust projects
 - [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) - A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
 - [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) - Compile Cargo project with zig as linker
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
@@ -1222,7 +1223,7 @@
 - [tnballo/high-assurance-rust](https://github.com/tnballo/high-assurance-rust) - A free book about developing secure and robust systems software.
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - A powerful cloud data warehouse. Built for elasticity and efficiency. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.com
 - [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime
-- [mitsuhiko/dialoguer](https://github.com/mitsuhiko/dialoguer) - Rust utility library for nice command line prompts and similar things
+- [console-rs/dialoguer](https://github.com/console-rs/dialoguer) - Rust utility library for nice command line prompts and similar things
 - [bodil/smartstring](https://github.com/bodil/smartstring) - Compact inlined strings for Rust.
 - [engula/engula](https://github.com/engula/engula) - Engula is a distributed key-value store, used as a cache, database, and storage engine.
 - [rust-fuzz/afl.rs](https://github.com/rust-fuzz/afl.rs) - 🐇 Fuzzing Rust code with American Fuzzy Lop
