@@ -244,7 +244,6 @@
 - [xtyxtyx/sorry](https://github.com/xtyxtyx/sorry) - 在线制作`sorry 为所欲为`的gif
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [vorillaz/devicons](https://github.com/vorillaz/devicons) - Devicons - An iconic font made for developers
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [vinceliuice/vimix-gtk-themes](https://github.com/vinceliuice/vimix-gtk-themes) - Vimix is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell etc.
 - [mozilla/Fira](https://github.com/mozilla/Fira) - Mozilla's new typeface, used in Firefox OS
 - [anmoljagetia/Flatabulous](https://github.com/anmoljagetia/Flatabulous) - This is a Flat theme for Ubuntu and other Gnome based Linux Systems.
@@ -1270,7 +1269,7 @@
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [krustlet/krustlet](https://github.com/krustlet/krustlet) - Kubernetes Rust Kubelet
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
 - [dtolnay/hackfn](https://github.com/dtolnay/hackfn) - Fake implementation of `std::ops::Fn` for user-defined data types
 - [rust-itertools/itertools](https://github.com/rust-itertools/itertools) - Extra iterator adaptors, iterator methods, free functions, and macros.
 - [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring.
@@ -1773,6 +1772,7 @@
 - [arcticicestudio/nord-tmux](https://github.com/arcticicestudio/nord-tmux) - An arctic, north-bluish clean and elegant tmux color theme.
 - [supercrabtree/k](https://github.com/supercrabtree/k) - k is the new l, yo
 - [caiogondim/maglev](https://github.com/caiogondim/maglev) - :monorail: A Tmux theme made to work together with bullet-train.zsh
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [gotbletu/shownotes](https://github.com/gotbletu/shownotes) - notes for videos from my youtube channel
 - [changyuheng/zsh-interactive-cd](https://github.com/changyuheng/zsh-interactive-cd) - Fish like interactive tab completion for cd in zsh
 - [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
@@ -1817,7 +1817,7 @@
 - [Swatinem/rust-cache](https://github.com/Swatinem/rust-cache) - A GitHub Action that implements smart caching for rust/cargo projects
 - [fkirc/skip-duplicate-actions](https://github.com/fkirc/skip-duplicate-actions) - Save time and cost when using GitHub Actions
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Open Source Software Insights - Analysis, Comparison, Trends, Rankings of Open Source Software, also using OpenAI to translate text to SQL. Follow us on Twitter: https://twitter.com/ossinsight
+- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Open Source Software Insights - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 5 billion with natural language (powered by OpenAI). Follow us o
 - [catppuccin/wallpapers](https://github.com/catppuccin/wallpapers) - 🖼️ Wallpapers to match your Catppuccin setups!
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [actions-rs/toolchain](https://github.com/actions-rs/toolchain) - 🛠️ GitHub Action for `rustup` commands
