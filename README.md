@@ -1759,7 +1759,7 @@
 - [altercation/mutt-colors-solarized](https://github.com/altercation/mutt-colors-solarized) - mutt mail client color schemes
 - [wfxr/fzf-marks](https://github.com/wfxr/fzf-marks) - :speedboat: Little script to create, navigate and delete bookmarks in Bash and Zsh, using the fuzzy finder fzf
 - [zolrath/wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
-- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  MacOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
+- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
 - [stark/Color-Scripts](https://github.com/stark/Color-Scripts) - User contributed color scripts
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
