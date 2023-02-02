@@ -610,7 +610,7 @@
 - [juditacs/wordcount](https://github.com/juditacs/wordcount) - Counting words in different programming languages.
 - [lightbend/config](https://github.com/lightbend/config) - configuration library for JVM languages using HOCON files
 - [spotify/dockerfile-maven](https://github.com/spotify/dockerfile-maven) - MATURE: A set of Maven tools for dealing with Dockerfiles
-- [aliyun/aliyun-log-producer-java](https://github.com/aliyun/aliyun-log-producer-java) - 
+- [alibaba-archive/aliyun-log-producer-java](https://github.com/alibaba-archive/aliyun-log-producer-java) - 
 - [eclipse-vertx/vert.x](https://github.com/eclipse-vertx/vert.x) - Vert.x is a tool-kit for building reactive applications on the JVM
 - [davidmoten/rxjava-jdbc](https://github.com/davidmoten/rxjava-jdbc) - Efficient execution and functional composition of database calls using jdbc and RxJava Observables
 - [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
@@ -770,7 +770,7 @@
 - [debop/koda-time](https://github.com/debop/koda-time) - Joda Time and Java 8 Time Extensions for Kotlin
 - [JetBrains/educational-plugin](https://github.com/JetBrains/educational-plugin) - Educational plugin to learn and teach programming languages such as Kotlin, Java, Python, JavaScript, and others right inside of JetBrains IntelliJ Platform based IDEs.
 - [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs
-- [MicroUtils/kotlin-logging](https://github.com/MicroUtils/kotlin-logging) - Lightweight logging framework for Kotlin. A convenient and performant logging facade.
+- [oshai/kotlin-logging](https://github.com/oshai/kotlin-logging) - Lightweight logging framework for Kotlin. A convenient and performant logging facade.
 - [dbacinski/Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin) - Design Patterns implemented in Kotlin
 - [wasabifx/wasabi](https://github.com/wasabifx/wasabi) - An HTTP Framework
 - [ktorio/ktor](https://github.com/ktorio/ktor) - Framework for quickly creating connected applications in Kotlin with minimal effort
