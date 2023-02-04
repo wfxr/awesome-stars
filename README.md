@@ -812,7 +812,7 @@
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
 - [tversteeg/registers.nvim](https://github.com/tversteeg/registers.nvim) - 📑 Neovim plugin to preview the contents of the registers
-- [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server) - A language server that offers Lua language support - programmed in Lua
+- [LuaLS/lua-language-server](https://github.com/LuaLS/lua-language-server) - A language server that offers Lua language support - programmed in Lua
 - [streetturtle/awesome-wm-widgets](https://github.com/streetturtle/awesome-wm-widgets) - Widgets for Awesome Window Manager
 - [Seancheey/FactorioBlueprinter](https://github.com/Seancheey/FactorioBlueprinter) - This factorio mod helps you create crafting blueprints easily by selecting inputs and outputs
 - [Seancheey/FactorioBeltRouter](https://github.com/Seancheey/FactorioBeltRouter) - This Factorio mod allows you to route belts/pipes automatically using A-star/Dijkstra algorithms. (Algorithms will be eventually migrated to MiscLib repo)
@@ -1519,7 +1519,7 @@
 - [jesusprubio/leg](https://github.com/jesusprubio/leg) - 🔈 Elegant print for lazy devs
 - [whitfin/limber](https://github.com/whitfin/limber) - A simple (but quick) tool for backing up Elasticsearch documents
 - [stepchowfun/toast](https://github.com/stepchowfun/toast) - Containerize your development and continuous integration environments. 🥂
-- [hoodie/notify-rust](https://github.com/hoodie/notify-rust) - ☝️send desktop notifications from you rust app.
+- [hoodie/notify-rust](https://github.com/hoodie/notify-rust) - ☝️send desktop notifications from your Rust app.
 - [matthiaskrgr/cargo-cache](https://github.com/matthiaskrgr/cargo-cache) - manage cargo cache (${CARGO_HOME}, ~/.cargo/), print sizes of dirs and remove dirs selectively
 - [fanzeyi/cargo-play](https://github.com/fanzeyi/cargo-play) - A local Rust playground
 - [jaemk/self_update](https://github.com/jaemk/self_update) - Self updates for rust executables
