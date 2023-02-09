@@ -1148,6 +1148,7 @@
 
 ## Rust 
 
+- [rikhuijzer/ata](https://github.com/rikhuijzer/ata) - Ask the Terminal Anything (ATA): OpenAI GPT in the terminal
 - [Detegr/rust-ctrlc](https://github.com/Detegr/rust-ctrlc) - Easy Ctrl-C handler for Rust projects
 - [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) - A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
 - [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) - Compile Cargo project with zig as linker
@@ -1196,7 +1197,7 @@
 - [datafuselabs/opendal](https://github.com/datafuselabs/opendal) - OpenDAL: Access data freely, painlessly, and efficiently
 - [crabtyper/crabtyper](https://github.com/crabtyper/crabtyper) - A speed typing web app written in Rust
 - [ZingerLittleBee/netop](https://github.com/ZingerLittleBee/netop) - Network Top -- Help you monitor network traffic with bpf
-- [Xuanwo/backon](https://github.com/Xuanwo/backon) - Another implementation of backoff via Iterator.
+- [Xuanwo/backon](https://github.com/Xuanwo/backon) - Retry with backoff without effort.
 - [Xuanwo/globiter](https://github.com/Xuanwo/globiter) - Turn glob range and set into Iterator
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [terror/present](https://github.com/terror/present) - A script interpolation engine for markdown documents
