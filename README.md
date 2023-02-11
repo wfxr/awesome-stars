@@ -770,7 +770,7 @@
 - [debop/koda-time](https://github.com/debop/koda-time) - Joda Time and Java 8 Time Extensions for Kotlin
 - [JetBrains/educational-plugin](https://github.com/JetBrains/educational-plugin) - Educational plugin to learn and teach programming languages such as Kotlin, Java, Python, JavaScript, and others right inside of JetBrains IntelliJ Platform based IDEs.
 - [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs
-- [oshai/kotlin-logging](https://github.com/oshai/kotlin-logging) - Lightweight logging framework for Kotlin. A convenient and performant logging facade.
+- [oshai/kotlin-logging](https://github.com/oshai/kotlin-logging) - Lightweight Multiplatform logging framework for Kotlin. A convenient and performant logging facade.
 - [dbacinski/Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin) - Design Patterns implemented in Kotlin
 - [wasabifx/wasabi](https://github.com/wasabifx/wasabi) - An HTTP Framework
 - [ktorio/ktor](https://github.com/ktorio/ktor) - Framework for quickly creating connected applications in Kotlin with minimal effort
