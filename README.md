@@ -268,7 +268,7 @@
 - [immutant/immutant](https://github.com/immutant/immutant) - A suite of libraries for Clojure apps
 - [razum2um/awesome-clojure](https://github.com/razum2um/awesome-clojure) - A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff
 - [kumarshantanu/lein-exec](https://github.com/kumarshantanu/lein-exec) - Leiningen plugin for executing Clojure scripts
-- [jonase/kibit](https://github.com/jonase/kibit) - There's a function for that!
+- [clj-commons/kibit](https://github.com/clj-commons/kibit) - There's a function for that!
 - [weavejester/environ](https://github.com/weavejester/environ) - Library for managing environment variables in Clojure
 - [sarnowski/lein-docker](https://github.com/sarnowski/lein-docker) - A leiningen plugin to build docker images and deploy them.
 - [boot-clj/boot](https://github.com/boot-clj/boot) - Build tooling for Clojure.
@@ -1221,7 +1221,7 @@
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - RisingWave: A Distributed SQL Database for Stream Processing
 - [zip-rs/zip](https://github.com/zip-rs/zip) - Zip implementation in Rust
 - [tnballo/high-assurance-rust](https://github.com/tnballo/high-assurance-rust) - A free book about developing secure and robust systems software.
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern cloud data warehouse focusing on Low-Cost and Low-Complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.co
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern cloud data warehouse focusing on reducing cost and complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.c
 - [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime
 - [console-rs/dialoguer](https://github.com/console-rs/dialoguer) - Rust utility library for nice command line prompts and similar things
 - [bodil/smartstring](https://github.com/bodil/smartstring) - Compact inlined strings for Rust.
