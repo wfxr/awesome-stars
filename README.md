@@ -1148,6 +1148,7 @@
 
 ## Rust 
 
+- [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust black magics by implementing an expression framework in database systems
 - [rikhuijzer/ata](https://github.com/rikhuijzer/ata) - Ask the Terminal Anything (ATA): OpenAI GPT in the terminal
 - [Detegr/rust-ctrlc](https://github.com/Detegr/rust-ctrlc) - Easy Ctrl-C handler for Rust projects
 - [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) - A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
