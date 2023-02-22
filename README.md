@@ -820,7 +820,7 @@
 - [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - The fastest Neovim colorizer.
 - [gepandz/tree-cleaner](https://github.com/gepandz/tree-cleaner) - Factorio mod, written in LUA, that marks dead trees for deconstruction
 - [npo6ka/FNEI](https://github.com/npo6ka/FNEI) - Factorio NEI
-- [raiguard/Factorio-EditorExtensions](https://github.com/raiguard/Factorio-EditorExtensions) - Extends the Factorio map editor with new features, testing tools, and other utilities to aid with sandbox play and scenario creation.
+- [raiguard/EditorExtensions](https://github.com/raiguard/EditorExtensions) - Extends the Factorio map editor with new features, testing tools, and other utilities to aid with sandbox play and scenario creation.
 - [Yousei9/Logistic-Train-Network](https://github.com/Yousei9/Logistic-Train-Network) - Factorio mod adding logistic network for trains.
 - [nihilistzsche/LtnManager](https://github.com/nihilistzsche/LtnManager) - A GUI for managing your Logistic Train Network. A mod for Factorio.
 - [Klonan/Transport_Drones](https://github.com/Klonan/Transport_Drones) - Mod for Factorio
