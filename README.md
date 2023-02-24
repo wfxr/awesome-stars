@@ -881,7 +881,7 @@
 - [rustcc/RustChinaConf2020](https://github.com/rustcc/RustChinaConf2020) - All pdf slides in RustChinaConf2020
 - [nnethercote/perf-book](https://github.com/nnethercote/perf-book) - The Rust Performance Book
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
-- [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing
+- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - List of applications and tools that make my macOS experience even more amazing
 - [EmbarkStudios/opensource-template](https://github.com/EmbarkStudios/opensource-template) - 🌻 Template for creating new repositories
 - [mmstick/cargo-deb](https://github.com/mmstick/cargo-deb) - A cargo subcommand that generates Debian packages from information in Cargo.toml
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
@@ -1606,7 +1606,7 @@
 - [DavidBM/rust-webserver-example-with-iron-diesel-r2d2-serde](https://github.com/DavidBM/rust-webserver-example-with-iron-diesel-r2d2-serde) - Rust Web server example using Iron, R2d2 Diesel and Serde json
 - [iron/router](https://github.com/iron/router) - Router middleware for the Iron web framework.
 - [hyperium/mime](https://github.com/hyperium/mime) - MIMEs in Rust
-- [time-rs/time](https://github.com/time-rs/time) - Simple time handling in Rust
+- [time-rs/time](https://github.com/time-rs/time) - The most used Rust library for date and time handling.
 - [benashford/rs-es](https://github.com/benashford/rs-es) - A Rust client for the ElasticSearch REST API
 - [elastic-rs/elastic](https://github.com/elastic-rs/elastic) - An Elasticsearch REST API client for Rust
 - [skade/hyper-server](https://github.com/skade/hyper-server) - 
