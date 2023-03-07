@@ -436,6 +436,7 @@
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [dialup-inc/ascii](https://github.com/dialup-inc/ascii) - 👾 ASCII Roulette :: ascii art video chat on the cli
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
+- [jesusprubio/leg](https://github.com/jesusprubio/leg) - 🔈 Nicer CMDs foz lazy devs
 - [fiatjaf/jiq](https://github.com/fiatjaf/jiq) - jid on jq - interactive JSON query tool using jq expressions
 - [github-release/github-release](https://github.com/github-release/github-release) - Commandline app to create and edit releases on Github (and upload artifacts)
 - [joncrlsn/dque](https://github.com/joncrlsn/dque) - dque is a fast, embedded, durable queue for Go
@@ -1517,7 +1518,6 @@
 - [withoutboats/romio](https://github.com/withoutboats/romio) - asynchronous networking primitives
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
 - [plotters-rs/plotters](https://github.com/plotters-rs/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
-- [jesusprubio/leg](https://github.com/jesusprubio/leg) - 🔈 Elegant print for lazy devs
 - [whitfin/limber](https://github.com/whitfin/limber) - A simple (but quick) tool for backing up Elasticsearch documents
 - [stepchowfun/toast](https://github.com/stepchowfun/toast) - Containerize your development and continuous integration environments. 🥂
 - [hoodie/notify-rust](https://github.com/hoodie/notify-rust) - ☝️send desktop notifications from your Rust app.
@@ -1791,6 +1791,7 @@
 - [Fakerr/git-recall](https://github.com/Fakerr/git-recall) - An interactive way to peruse your git history from the terminal
 - [b4b4r07/git-switch](https://github.com/b4b4r07/git-switch) - 
 - [b4b4r07/enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with your interactive filter
+- [b4b4r07/dotfiles](https://github.com/b4b4r07/dotfiles) - A repository that gathered files starting with dot
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
@@ -1977,7 +1978,6 @@
 - [rust-lang/rust.vim](https://github.com/rust-lang/rust.vim) - Vim configuration for Rust.
 - [cespare/vim-toml](https://github.com/cespare/vim-toml) - Vim syntax for TOML
 - [sbdchd/neoformat](https://github.com/sbdchd/neoformat) - :sparkles: A (Neo)vim plugin for formatting code.
-- [b4b4r07/dotfiles](https://github.com/b4b4r07/dotfiles) - A repository that gathered files starting with dot
 - [junegunn/goyo.vim](https://github.com/junegunn/goyo.vim) - :tulip: Distraction-free writing in Vim
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [libclang-vim/vim-textobj-clang](https://github.com/libclang-vim/vim-textobj-clang) - A vim text objects for various C and C++ blocks with power of clang.
