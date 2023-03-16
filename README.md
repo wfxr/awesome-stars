@@ -1196,7 +1196,7 @@
 - [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
 - [tokio-rs/mio](https://github.com/tokio-rs/mio) - Metal I/O library for Rust.
 - [Ryu0118/Kusa](https://github.com/Ryu0118/Kusa) - Kusa is a cli tool that displays the Github Contributions Graph.
-- [datafuselabs/opendal](https://github.com/datafuselabs/opendal) - OpenDAL: Access data freely, painlessly, and efficiently
+- [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: Access data freely, painlessly, and efficiently.
 - [crabtyper/crabtyper](https://github.com/crabtyper/crabtyper) - A speed typing web app written in Rust
 - [ZingerLittleBee/netop](https://github.com/ZingerLittleBee/netop) - Network Top -- Help you monitor network traffic with bpf
 - [Xuanwo/backon](https://github.com/Xuanwo/backon) - Retry with backoff without effort.
@@ -1580,7 +1580,7 @@
 - [mre/prettyprint](https://github.com/mre/prettyprint) - Beautifully formatted output for your terminal 🌈
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
 - [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
-- [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
+- [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [http-rs/tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
 - [r-darwish/alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
