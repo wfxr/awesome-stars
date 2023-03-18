@@ -1201,7 +1201,7 @@
 - [ZingerLittleBee/netop](https://github.com/ZingerLittleBee/netop) - Network Top -- Help you monitor network traffic with bpf
 - [Xuanwo/backon](https://github.com/Xuanwo/backon) - Retry with backoff without effort.
 - [Xuanwo/globiter](https://github.com/Xuanwo/globiter) - Turn glob range and set into Iterator
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — The Semantic Layer for Building Data Applications
+- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [terror/present](https://github.com/terror/present) - A script interpolation engine for markdown documents
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
