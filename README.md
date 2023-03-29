@@ -782,7 +782,7 @@
 
 ## Lua 
 
-- [Xuyuanp/neochat.nvim](https://github.com/Xuyuanp/neochat.nvim) - GPTChat in neovim
+- [Xuyuanp/neochat.nvim](https://github.com/Xuyuanp/neochat.nvim) - ChatGPT in neovim
 - [phaazon/mind.nvim](https://github.com/phaazon/mind.nvim) - The power of trees at your fingertips.
 - [ojroques/nvim-osc52](https://github.com/ojroques/nvim-osc52) - A Neovim plugin to copy text through SSH with OSC52
 - [MunifTanjim/exrc.nvim](https://github.com/MunifTanjim/exrc.nvim) - Secure Project Local Config for Neovim
