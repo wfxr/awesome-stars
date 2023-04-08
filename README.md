@@ -17,7 +17,6 @@
 - [Classic ASP](#classic-asp)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
-- [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
@@ -300,10 +299,6 @@
 
 - [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Manage and switch between multiple proxies quickly & easily.
 
-## Dart 
-
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-
 ## Dockerfile 
 
 - [amancevice/docker-superset](https://github.com/amancevice/docker-superset) - Docker image for Airbnb's Superset
@@ -558,6 +553,7 @@
 ## Handlebars 
 
 - [rustlang-cn/rusty-book](https://github.com/rustlang-cn/rusty-book) - A curated list of recipes and repos that can be used to build your rusty projects. Rusty Book = Cookbook + Awesome Rust！
+- [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 
 ## Haskell 
 
@@ -892,7 +888,6 @@
 - [bingohuang/effective-go-zh-en](https://github.com/bingohuang/effective-go-zh-en) - 《Effective Go》中英双语版
 - [aylei/interview](https://github.com/aylei/interview) - 写在19年初的后端社招面试经历🤑
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
-- [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 - [seebye/ueberzug](https://github.com/seebye/ueberzug) - 
 - [thapabishwa/HiDPI](https://github.com/thapabishwa/HiDPI) - A HiDPI fix for awesome wm [Arch-Linux] [MBP 11.x]
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
@@ -1293,6 +1288,7 @@
 - [gnzlbg/cargo-asm](https://github.com/gnzlbg/cargo-asm) - cargo subcommand showing the assembly or llvm-ir generated for Rust code
 - [elfshaker/elfshaker](https://github.com/elfshaker/elfshaker) - elfshaker stores binary objects efficiently
 - [cksac/fake-rs](https://github.com/cksac/fake-rs) - A library for generating fake data in Rust.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust
 - [shuttle-hq/synth](https://github.com/shuttle-hq/synth) - The Declarative Data Generator
 - [datanymizer/datanymizer](https://github.com/datanymizer/datanymizer) - Powerful database anonymizer with flexible rules. Written in Rust.
