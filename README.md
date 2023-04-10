@@ -990,7 +990,7 @@
 - [gaogaotiantian/objprint](https://github.com/gaogaotiantian/objprint) - A library that can print Python objects in human readable format
 - [scravy/awesome-pattern-matching](https://github.com/scravy/awesome-pattern-matching) - Pattern Matching for Python 3.7+ in a simple, yet powerful, extensible manner.
 - [EntilZha/PyFunctional](https://github.com/EntilZha/PyFunctional) - Python library for creating data pipelines with chain functional programming
-- [sansyrox/robyn](https://github.com/sansyrox/robyn) - Robyn is a fast and extensible async python web server with a rust runtime
+- [sansyrox/robyn](https://github.com/sansyrox/robyn) - Robyn is a fast and extensible async python web framework with a rust runtime
 - [mitmproxy/pdoc](https://github.com/mitmproxy/pdoc) - API Documentation for Python Projects
 - [ml-tooling/lazydocs](https://github.com/ml-tooling/lazydocs) - 📖  Generate markdown API documentation from Google-style Python docstring. The lazy alternative to Sphinx.
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
