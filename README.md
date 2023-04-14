@@ -1146,6 +1146,7 @@
 
 ## Rust 
 
+- [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust black magics by implementing an expression framework in database systems
 - [rikhuijzer/ata](https://github.com/rikhuijzer/ata) - Ask the Terminal Anything (ATA): ChatGPT in the terminal
@@ -1166,7 +1167,7 @@
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
 - [clitic/kdam](https://github.com/clitic/kdam) - Ultimate console progress bar for Rust (tqdm + rich.progress)
 - [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb) - rust wrapper for rocksdb
-- [security-union/rust-zoom](https://github.com/security-union/rust-zoom) - zoom clone written in rust for RESEARCH PURPOSES
+- [security-union/zoom-rs](https://github.com/security-union/zoom-rs) - zoom clone written in rust for RESEARCH PURPOSES
 - [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
 - [dcchut/async-recursion](https://github.com/dcchut/async-recursion) - Procedural macro for recursive async functions
 - [softprops/atty](https://github.com/softprops/atty) - are you or are you not a tty?
