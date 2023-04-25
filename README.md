@@ -602,7 +602,7 @@
 - [NanoHttpd/nanohttpd](https://github.com/NanoHttpd/nanohttpd) - Tiny, easily embeddable HTTP server in Java.
 - [nginx-clojure/nginx-clojure](https://github.com/nginx-clojure/nginx-clojure) - Nginx module for embedding Clojure or Java or Groovy programs, typically those Ring based handlers.
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
-- [http-kit/http-kit](https://github.com/http-kit/http-kit) - http-kit is a minimalist, event-driven, high-performance Clojure HTTP server/client library with WebSocket and asynchronous support
+- [http-kit/http-kit](https://github.com/http-kit/http-kit) - Simple, high-performance event-driven HTTP client+server for Clojure
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 - [juditacs/wordcount](https://github.com/juditacs/wordcount) - Counting words in different programming languages.
 - [lightbend/config](https://github.com/lightbend/config) - configuration library for JVM languages using HOCON files
@@ -991,7 +991,7 @@
 - [gaogaotiantian/objprint](https://github.com/gaogaotiantian/objprint) - A library that can print Python objects in human readable format
 - [scravy/awesome-pattern-matching](https://github.com/scravy/awesome-pattern-matching) - Pattern Matching for Python 3.7+ in a simple, yet powerful, extensible manner.
 - [EntilZha/PyFunctional](https://github.com/EntilZha/PyFunctional) - Python library for creating data pipelines with chain functional programming
-- [sansyrox/robyn](https://github.com/sansyrox/robyn) - Robyn is a fast and extensible async python web framework with a rust runtime
+- [sansyrox/robyn](https://github.com/sansyrox/robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [mitmproxy/pdoc](https://github.com/mitmproxy/pdoc) - API Documentation for Python Projects
 - [ml-tooling/lazydocs](https://github.com/ml-tooling/lazydocs) - 📖  Generate markdown API documentation from Google-style Python docstring. The lazy alternative to Sphinx.
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
