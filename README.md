@@ -934,7 +934,6 @@
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [sindresorhus/notifier-for-github-browser-extensions](https://github.com/sindresorhus/notifier-for-github-browser-extensions) - Browser extension that displays your GitHub notifications unread count. Available on Chrome, Firefox, Opera, Safari.
 - [AntBranch/awesome-github](https://github.com/AntBranch/awesome-github) - A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用GitHub,欢迎提交pr和issue。
-- [ustclug/mirrorrequest](https://github.com/ustclug/mirrorrequest) - 通过 issue 为中国科大开源镜像站（mirrors.ustc.edu.cn）提交新的镜像申请~
 - [b4b4r07/zplug-cd](https://github.com/b4b4r07/zplug-cd) - 
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [giantray/stackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa) - stackoverflow上Java相关回答整理翻译
@@ -1056,6 +1055,7 @@
 - [hyiltiz/vim-plugins-profile](https://github.com/hyiltiz/vim-plugins-profile) - :clock4: Profile Vim's plugins, generate awesome statistics and optimize (n)vim startup time
 - [shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
 - [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
+- [ustclug/mirrorrequest](https://github.com/ustclug/mirrorrequest) - 通过 issue 为中国科大开源镜像站（mirrors.ustc.edu.cn）提交新的镜像申请~
 - [autokey/autokey-python2](https://github.com/autokey/autokey-python2) - Legacy Python 2 version of AutoKey, the desktop automation utility for Linux and X11.
 - [prompt-toolkit/ptpython](https://github.com/prompt-toolkit/ptpython) - A better Python REPL
 - [Shougo/deoplete.nvim](https://github.com/Shougo/deoplete.nvim) - :stars: Dark powered asynchronous completion framework for neovim/Vim8
