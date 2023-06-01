@@ -825,7 +825,7 @@
 - [manilarome/the-glorious-dotfiles](https://github.com/manilarome/the-glorious-dotfiles) - A glorified personal dot files
 - [Refactorio/RedMew](https://github.com/Refactorio/RedMew) - The RedMew scenario code for Factorio.
 - [Scarabytes/FactorioRealisticElectricTrains](https://github.com/Scarabytes/FactorioRealisticElectricTrains) - A mod for the game Factorio that adds electric trains.
-- [ClaudeMetz/FactoryPlanner](https://github.com/ClaudeMetz/FactoryPlanner) - A mod for Factorio. It allows you to plan out your production in  detail.
+- [ClaudeMetz/FactoryPlanner](https://github.com/ClaudeMetz/FactoryPlanner) - A mod for Factorio. Allows you to plan out your production in detail.
 - [MagmaMcFry/Factorissimo2](https://github.com/MagmaMcFry/Factorissimo2) - Factorissimo2, a Factorio mod that adds factory buildings to the game
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [clojure-vim/acid.nvim](https://github.com/clojure-vim/acid.nvim) - Asynchronous Clojure Interactive Development
@@ -1188,7 +1188,7 @@
 - [ayrat555/frankenstein](https://github.com/ayrat555/frankenstein) - Telegram bot API client for Rust
 - [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
 - [tokio-rs/mio](https://github.com/tokio-rs/mio) - Metal I/O library for Rust.
-- [Ryu0118/Kusa](https://github.com/Ryu0118/Kusa) - Kusa is a cli tool that displays the Github Contributions Graph.
+- [Ryu0118/Kusa](https://github.com/Ryu0118/Kusa) - Kusa is a simple CLI tool that works on any platform and displays GitHub contribution graphs.
 - [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely.
 - [crabtyper/crabtyper](https://github.com/crabtyper/crabtyper) - A speed typing web app written in Rust
 - [ZingerLittleBee/netop](https://github.com/ZingerLittleBee/netop) - Network Top -- Help you monitor network traffic with bpf
