@@ -1674,6 +1674,7 @@
 
 ## Shell 
 
+- [Hagb/docker-easyconnect](https://github.com/Hagb/docker-easyconnect) - 使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
 - [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain) - Concise GitHub Action for installing a Rust toolchain
 - [poetaman/arttime](https://github.com/poetaman/arttime) - arttime is a terminal application that blends beauty of text-art with functionality of clock / timer / pattern-based time manager ⏰
 - [MichaelAquilina/zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed
