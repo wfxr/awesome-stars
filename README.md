@@ -175,7 +175,7 @@
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
-- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
+- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [ryanhaining/cppitertools](https://github.com/ryanhaining/cppitertools) - Implementation of python itertools and builtin iteration functions for C++17
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
 - [rime/librime](https://github.com/rime/librime) - Rime Input Method Engine, the core library
@@ -496,7 +496,7 @@
 - [shadowsocks/shadowsocks-go](https://github.com/shadowsocks/shadowsocks-go) - go port of shadowsocks (Deprecated)
 - [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
 - [tidwall/jj](https://github.com/tidwall/jj) - JSON Stream Editor (command line utility)
-- [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
+- [GrantBirki/hub](https://github.com/GrantBirki/hub) - A command-line tool that makes git easier to use with GitHub.
 - [lestrrat-go/strftime](https://github.com/lestrrat-go/strftime) - Fast strftime for Go
 - [araddon/dateparse](https://github.com/araddon/dateparse) - GoLang Parse many date strings without knowing format in advance.
 - [mkideal/cli](https://github.com/mkideal/cli) - CLI - A package for building command line app with go
