@@ -260,7 +260,7 @@
 - [noprompt/garden](https://github.com/noprompt/garden) - Generate CSS with Clojure
 - [brandonbloom/fipp](https://github.com/brandonbloom/fipp) - Fast Idiomatic Pretty Printer for Clojure
 - [venantius/ultra](https://github.com/venantius/ultra) - A Leiningen plugin for a superior development environment
-- [AvisoNovate/pretty](https://github.com/AvisoNovate/pretty) - Library for helping print things prettily, in Clojure - ANSI fonts, formatted exceptions
+- [clj-commons/pretty](https://github.com/clj-commons/pretty) - Library for helping print things prettily, in Clojure - ANSI fonts, formatted exceptions
 - [sorenmacbeth/marceline](https://github.com/sorenmacbeth/marceline) - A Clojure DSL for Storm/Trident
 - [mkwatson/mark-storm](https://github.com/mkwatson/mark-storm) - 
 - [immutant/immutant](https://github.com/immutant/immutant) - A suite of libraries for Clojure apps
