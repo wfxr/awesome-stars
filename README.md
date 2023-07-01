@@ -155,7 +155,7 @@
 - [AutoFixture/AutoFixture](https://github.com/AutoFixture/AutoFixture) - AutoFixture is an open source library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability. Its primary goal is to allow developers to focus on wha
 - [mathnet/mathnet-numerics](https://github.com/mathnet/mathnet-numerics) - Math.NET Numerics
 - [xunit/xunit](https://github.com/xunit/xunit) - xUnit.net is a free, open source, community-focused unit testing tool for .NET.
-- [moq/moq4](https://github.com/moq/moq4) - Repo for managing Moq 4.x
+- [moq/moq](https://github.com/moq/moq) - Repo for managing Moq 4.x
 
 ## C++ 
 
@@ -1175,7 +1175,7 @@
 - [RalfJung/cargo-careful](https://github.com/RalfJung/cargo-careful) - Execute Rust code carefully, with extra checking along the way
 - [noib3/nvim-oxi](https://github.com/noib3/nvim-oxi) - :link: Rust bindings to all things Neovim
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A tiny, self-contained, configurable paste bin and URL shortener written in Rust.
-- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and polyglot tool for code structrual search, lint and rewriting at large scale. Written in Rust
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structrual search, lint and rewriting. Written in Rust
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
 - [tafia/calamine](https://github.com/tafia/calamine) - A pure Rust Excel/OpenDocument SpeadSheets file reader: rust on metal sheets
 - [pikkr/pikkr](https://github.com/pikkr/pikkr) - JSON parser which picks up values directly without performing tokenization in Rust
