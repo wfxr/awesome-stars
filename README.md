@@ -1352,6 +1352,7 @@
 - [RustAudio/rodio](https://github.com/RustAudio/rodio) - Rust audio playback library
 - [mesalock-linux/mesalink](https://github.com/mesalock-linux/mesalink) - OpenSSL compatibility layer for the Rust SSL/TLS stack
 - [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust
+- [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator 10+ languages 📚 Generate proper code documentation skeletons with a single keypress. ⚡️🔥
 - [unicode-rs/unicode-width](https://github.com/unicode-rs/unicode-width) - Displayed width of Unicode characters and strings according to UAX#11 rules.
 - [dtolnay/async-trait](https://github.com/dtolnay/async-trait) - Type erasure for async trait methods
 - [causal-agent/scraper](https://github.com/causal-agent/scraper) - HTML parsing and querying with CSS selectors
@@ -1877,7 +1878,6 @@
 - [Xuyuanp/viz-nr2char](https://github.com/Xuyuanp/viz-nr2char) - Visualize vim nr2char
 - [gelguy/wilder.nvim](https://github.com/gelguy/wilder.nvim) - A more adventurous wildmenu
 - [iqxd/vim-mine-sweeping](https://github.com/iqxd/vim-mine-sweeping) - mine sweeping game in vim and neovim
-- [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator 10+ languages 📚 Generate proper code documentation skeletons with a single keypress. ⚡️🔥
 - [ivyl/vim-bling](https://github.com/ivyl/vim-bling) - blink current search match
 - [nastevens/vim-cargo-make](https://github.com/nastevens/vim-cargo-make) - Vim syntax for cargo-make
 - [simnalamburt/vim-mundo](https://github.com/simnalamburt/vim-mundo) - :christmas_tree: Vim undo tree visualizer
