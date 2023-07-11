@@ -1559,7 +1559,6 @@
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [gmmorris/jg](https://github.com/gmmorris/jg) - Jeff Goldblum (jg) is a command-line JSON processor. jg searches for structural patterns in json input and prints each json object that matches the pattern.
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
-- [xliiv/fui](https://github.com/xliiv/fui) - Add CLI & form interface to your program. Docs: https://docs.rs/fui
 - [VladimirMarkelov/rclc](https://github.com/VladimirMarkelov/rclc) - Mathematical expression calculator with big integers, floats, common fractions, and complex numbers support
 - [danloh/rut-server-rust](https://github.com/danloh/rut-server-rust) - RutHub server powered by actix-web1.0 + diesel, Notice: sth changed on
 - [ZhangHanDong/actix-workshop-rustconasia2019](https://github.com/ZhangHanDong/actix-workshop-rustconasia2019) - RustConAsia 2019大会workshop
