@@ -124,7 +124,7 @@
 - [hoytech/vmtouch](https://github.com/hoytech/vmtouch) - Portable file system cache diagnostics and control
 - [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) - Lightweight CLI download accelerator
 - [lanoxx/tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [lastpass/lastpass-cli](https://github.com/lastpass/lastpass-cli) - LastPass command line interface tool
@@ -963,7 +963,7 @@
 
 ## PLpgSQL 
 
-- [digoal/blog](https://github.com/digoal/blog) - Things about Database,Business,Mind.(Like PostgreSQL). git clone --depth 1 https://github.com/digoal/blog
+- [digoal/blog](https://github.com/digoal/blog) - OpenSource,Database,Business,Minds. git clone --depth 1 https://github.com/digoal/blog
 
 ## Perl 
 
@@ -1166,7 +1166,7 @@
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
 - [clitic/kdam](https://github.com/clitic/kdam) - Ultimate console progress bar for Rust (tqdm + rich.progress)
 - [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb) - rust wrapper for rocksdb
-- [security-union/zoom-rs](https://github.com/security-union/zoom-rs) - zoom clone written in rust for research purposes
+- [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - teleconference system written in rust
 - [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
 - [dcchut/async-recursion](https://github.com/dcchut/async-recursion) - Procedural macro for recursive async functions
 - [softprops/atty](https://github.com/softprops/atty) - are you or are you not a tty?
