@@ -870,7 +870,6 @@
 - [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
 - [ZhengHe-MD/nerds-docs](https://github.com/ZhengHe-MD/nerds-docs) - 
 - [hosxy/Fcitx5-Material-Color](https://github.com/hosxy/Fcitx5-Material-Color) - 一款使用Material Design 配色的 fcitx5 皮肤，喜欢的话给个 star 吧   ヾ(≧へ≦)〃 😉
-- [thep0y/fcitx5-themes](https://github.com/thep0y/fcitx5-themes) - fcitx5的简约风格皮肤——四季
 - [brson/my-rust-lists](https://github.com/brson/my-rust-lists) - Lightly organized personal notes about Rust
 - [blanboom/awesome-home-networking-cn](https://github.com/blanboom/awesome-home-networking-cn) - 家庭网络知识整理
 - [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译
@@ -1681,6 +1680,7 @@
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 - [darksonic37/linuxify](https://github.com/darksonic37/linuxify) - 🍏🐧 Transparently transform the macOS CLI into a fresh GNU/Linux CLI experience.
 - [usagi/rust-memory-container-cs](https://github.com/usagi/rust-memory-container-cs) - Rust Memory Container Cheat-sheet
+- [thep0y/fcitx5-themes](https://github.com/thep0y/fcitx5-themes) - fcitx5的简约风格皮肤——四季
 - [rust-random/book](https://github.com/rust-random/book) - The Rust Rand Book
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [xlucn/fontpreview-ueberzug](https://github.com/xlucn/fontpreview-ueberzug) - preview fonts in fzf
