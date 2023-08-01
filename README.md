@@ -1379,7 +1379,7 @@
 - [rust-lang/hashbrown](https://github.com/rust-lang/hashbrown) - Rust port of Google's SwissTable hash map
 - [marmeladema/clru-rs](https://github.com/marmeladema/clru-rs) - An LRU cache implementation with constant time operations and weighted semantic.
 - [jeromefroe/lru-rs](https://github.com/jeromefroe/lru-rs) - An implementation of a LRU cache
-- [antifuchs/chars](https://github.com/antifuchs/chars) - cha(rs) is a commandline tool to display information about unicode characters
+- [boinkor-net/chars](https://github.com/boinkor-net/chars) - cha(rs) is a commandline tool to display information about unicode characters
 - [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust
 - [Drakulix/simplelog.rs](https://github.com/Drakulix/simplelog.rs) - Simple Logging Facility for Rust
 - [estk/log4rs](https://github.com/estk/log4rs) - A highly configurable logging framework for Rust
