@@ -341,7 +341,7 @@
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [lithammer/shortuuid](https://github.com/lithammer/shortuuid) - :mushroom: A generator library for concise, unambiguous and URL-safe UUIDs
 - [go-lark/lark](https://github.com/go-lark/lark) - An easy-to-use SDK for Feishu and Lark Open Platform (Messaging API only)
-- [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment for AI/ML (LLMOps)
+- [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment
 - [ilyakaznacheev/cleanenv](https://github.com/ilyakaznacheev/cleanenv) - ✨Clean and minimalistic environment configuration reader for Golang
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
@@ -820,7 +820,7 @@
 - [gepandz/tree-cleaner](https://github.com/gepandz/tree-cleaner) - Factorio mod, written in LUA, that marks dead trees for deconstruction
 - [npo6ka/FNEI](https://github.com/npo6ka/FNEI) - Factorio NEI
 - [raiguard/EditorExtensions](https://github.com/raiguard/EditorExtensions) - Extends the Factorio map editor with new features, testing tools, and other utilities to aid with sandbox play and scenario creation.
-- [Yousei9/Logistic-Train-Network](https://github.com/Yousei9/Logistic-Train-Network) - Factorio mod adding logistic network for trains.
+- [0ptera/Logistic-Train-Network](https://github.com/0ptera/Logistic-Train-Network) - Factorio mod adding logistic network for trains.
 - [nihilistzsche/LtnManager](https://github.com/nihilistzsche/LtnManager) - A GUI for managing your Logistic Train Network. A mod for Factorio.
 - [Klonan/Transport_Drones](https://github.com/Klonan/Transport_Drones) - Mod for Factorio
 - [alfunx/.dotfiles](https://github.com/alfunx/.dotfiles) - There's no place like ~ !
