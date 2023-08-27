@@ -513,8 +513,8 @@
 - [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
 - [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
-- [b4b4r07/gomi](https://github.com/b4b4r07/gomi) - 🗑️ Replacement for UNIX rm command!
-- [b4b4r07/gist](https://github.com/b4b4r07/gist) - :octocat: A simple gist editor for CLI
+- [babarot/gomi](https://github.com/babarot/gomi) - 🗑️ Replacement for UNIX rm command!
+- [babarot/gist](https://github.com/babarot/gist) - :octocat: A simple gist editor for CLI
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -939,7 +939,7 @@
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [sindresorhus/notifier-for-github-browser-extensions](https://github.com/sindresorhus/notifier-for-github-browser-extensions) - Browser extension that displays your GitHub notifications unread count. Available on Chrome, Firefox, Opera, Safari.
 - [AntBranch/awesome-github](https://github.com/AntBranch/awesome-github) - A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用GitHub,欢迎提交pr和issue。
-- [b4b4r07/zplug-cd](https://github.com/b4b4r07/zplug-cd) - 
+- [babarot/zplug-cd](https://github.com/babarot/zplug-cd) - 
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [giantray/stackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa) - stackoverflow上Java相关回答整理翻译
 - [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - :gem: A collection of awesome Ruby libraries, tools, frameworks and software
@@ -1782,16 +1782,16 @@
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [bpkg/bpkg](https://github.com/bpkg/bpkg) - Lightweight bash package manager
-- [b4b4r07/copy](https://github.com/b4b4r07/copy) - 
+- [babarot/copy](https://github.com/babarot/copy) - 
 - [holman/spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
-- [b4b4r07/fzf-plugins](https://github.com/b4b4r07/fzf-plugins) - Plugins for fzf
-- [b4b4r07/ultimate](https://github.com/b4b4r07/ultimate) - Ultimate is a simple theme for minimalistic zsh users
+- [babarot/fzf-plugins](https://github.com/babarot/fzf-plugins) - Plugins for fzf
+- [babarot/ultimate](https://github.com/babarot/ultimate) - Ultimate is a simple theme for minimalistic zsh users
 - [subnixr/minimal](https://github.com/subnixr/minimal) - A minimal zsh theme
-- [b4b4r07/zsh-vimode-visual](https://github.com/b4b4r07/zsh-vimode-visual) - Implement the vim-like visual mode to vi-mode of zsh
+- [babarot/zsh-vimode-visual](https://github.com/babarot/zsh-vimode-visual) - Implement the vim-like visual mode to vi-mode of zsh
 - [Fakerr/git-recall](https://github.com/Fakerr/git-recall) - An interactive way to peruse your git history from the terminal
-- [b4b4r07/git-switch](https://github.com/b4b4r07/git-switch) - 
-- [b4b4r07/enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with your interactive filter
-- [b4b4r07/dotfiles](https://github.com/b4b4r07/dotfiles) - A repository that gathered files starting with dot
+- [babarot/git-switch](https://github.com/babarot/git-switch) - 
+- [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
+- [babarot/dotfiles](https://github.com/babarot/dotfiles) - A repository that gathered files starting with dot
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
