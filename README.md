@@ -830,7 +830,7 @@
 - [lcpz/awesome-copycats](https://github.com/lcpz/awesome-copycats) - Awesome WM themes
 - [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
-- [manilarome/the-glorious-dotfiles](https://github.com/manilarome/the-glorious-dotfiles) - A glorified personal dot files
+- [eromatiya/the-glorious-dotfiles](https://github.com/eromatiya/the-glorious-dotfiles) - A glorified personal dot files
 - [Refactorio/RedMew](https://github.com/Refactorio/RedMew) - The RedMew scenario code for Factorio.
 - [Scarabytes/FactorioRealisticElectricTrains](https://github.com/Scarabytes/FactorioRealisticElectricTrains) - A mod for the game Factorio that adds electric trains.
 - [ClaudeMetz/FactoryPlanner](https://github.com/ClaudeMetz/FactoryPlanner) - A mod for Factorio. Allows you to plan out your production in detail.
@@ -1941,7 +1941,7 @@
 - [wfxr/vim-gitignore](https://github.com/wfxr/vim-gitignore) - 
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
-- [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
+- [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [stephpy/vim-yaml](https://github.com/stephpy/vim-yaml) - Override vim syntax for yaml files
 - [ekalinin/Dockerfile.vim](https://github.com/ekalinin/Dockerfile.vim) - Vim syntax file & snippets for Docker's Dockerfile
 - [junegunn/vim-slash](https://github.com/junegunn/vim-slash) - Enhancing in-buffer search experience
