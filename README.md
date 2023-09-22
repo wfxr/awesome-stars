@@ -156,7 +156,7 @@
 - [AutoFixture/AutoFixture](https://github.com/AutoFixture/AutoFixture) - AutoFixture is an open source library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability. Its primary goal is to allow developers to focus on wha
 - [mathnet/mathnet-numerics](https://github.com/mathnet/mathnet-numerics) - Math.NET Numerics
 - [xunit/xunit](https://github.com/xunit/xunit) - xUnit.net is a free, open source, community-focused unit testing tool for .NET.
-- [moq/moq](https://github.com/moq/moq) - The most popular and friendly mocking framework for .NET
+- [devlooped/moq](https://github.com/devlooped/moq) - The most popular and friendly mocking framework for .NET
 
 ## C++ 
 
