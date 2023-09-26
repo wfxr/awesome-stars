@@ -1837,7 +1837,7 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [weirongxu/coc-explorer](https://github.com/weirongxu/coc-explorer) - 📁 Explorer for coc.nvim
 - [neoclide/coc-pairs](https://github.com/neoclide/coc-pairs) - Basic auto pairs extension of coc.nvim
-- [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
+- [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [actions-rs/cargo](https://github.com/actions-rs/cargo) - 📦 GitHub Action for Rust `cargo` command
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
