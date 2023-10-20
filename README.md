@@ -1202,7 +1202,7 @@
 - [ayrat555/frankenstein](https://github.com/ayrat555/frankenstein) - Telegram bot API client for Rust
 - [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
 - [tokio-rs/mio](https://github.com/tokio-rs/mio) - Metal I/O library for Rust.
-- [Ryu0118/Kusa](https://github.com/Ryu0118/Kusa) - Kusa is a simple CLI tool that works on any platform and displays GitHub contribution graphs.
+- [Ryu0118/Kusa](https://github.com/Ryu0118/Kusa) - Kusa is a CLI tool that works on any platform and displays GitHub contribution graphs.
 - [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely.
 - [crabtyper/crabtyper](https://github.com/crabtyper/crabtyper) - A speed typing web app written in Rust
 - [ZingerLittleBee/netop](https://github.com/ZingerLittleBee/netop) - Network Top -- Help you monitor network traffic with bpf
