@@ -336,6 +336,7 @@
 
 ## Go 
 
+- [form3tech-oss/f1](https://github.com/form3tech-oss/f1) - A tool for writing load test scenarios in Golang with a powerful command line runner
 - [saltbo/zpan](https://github.com/saltbo/zpan) - A self-hosted cloud disk base on the cloud storage./ 一个基于云存储的网盘系统，用于自建私人网盘或企业网盘。
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
 - [pseudomuto/protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc) - Documentation generator plugin for Google Protocol Buffers
@@ -1082,7 +1083,7 @@
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [google/yapf](https://github.com/google/yapf) - A formatter for Python files
-- [deeplook/sparklines](https://github.com/deeplook/sparklines) - Text-based sparkline command line mimicking those of Edward Tuft.
+- [deeplook/sparklines](https://github.com/deeplook/sparklines) - Text-based sparklines for the command line mimicking those of Edward Tuft.
 - [wizzat/distribution](https://github.com/wizzat/distribution) - Short, simple, direct scripts for creating ASCII graphical histograms in the terminal.
 - [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
@@ -1154,6 +1155,7 @@
 
 ## Rust 
 
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
 - [sharksforarms/deku](https://github.com/sharksforarms/deku) - Declarative binary reading and writing: bit-level, symmetric, serialization/deserialization
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
