@@ -1155,6 +1155,7 @@
 
 ## Rust 
 
+- [wolandr/pretty-hex](https://github.com/wolandr/pretty-hex) - A Rust library providing pretty hex dump.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
 - [sharksforarms/deku](https://github.com/sharksforarms/deku) - Declarative binary reading and writing: bit-level, symmetric, serialization/deserialization
