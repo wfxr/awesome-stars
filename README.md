@@ -1163,6 +1163,8 @@
 
 ## Rust 
 
+- [jam1garner/binrw](https://github.com/jam1garner/binrw) - A Rust crate for helping parse and rebuild binary data using ✨macro magic✨.
+- [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [etcdv3/etcd-client](https://github.com/etcdv3/etcd-client) - An etcd v3 API client
 - [dtolnay/indoc](https://github.com/dtolnay/indoc) - Indented document literals for Rust
@@ -1679,7 +1681,7 @@
 - [rust-lang/rls](https://github.com/rust-lang/rls) - Repository for the Rust Language Server (aka RLS)
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [rust-cli/human-panic](https://github.com/rust-cli/human-panic) - 😱 Panic messages for humans.
-- [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
+- [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
