@@ -67,7 +67,7 @@
 
 ## Astro 
 
-- [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
+- [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 
 ## Awk 
 
@@ -283,7 +283,7 @@
 - [functional-koans/clojure-koans](https://github.com/functional-koans/clojure-koans) - A set of exercises for learning Clojure
 - [incanter/incanter](https://github.com/incanter/incanter) - Clojure-based, R-like statistical computing and graphics environment for the JVM
 - [clojure-cookbook/clojure-cookbook](https://github.com/clojure-cookbook/clojure-cookbook) - This is the home of O'Reilly's Clojure Cookbook - http://clojure-cookbook.com
-- [clj-commons/aleph](https://github.com/clj-commons/aleph) - Asynchronous communication for Clojure
+- [clj-commons/aleph](https://github.com/clj-commons/aleph) - Asynchronous streaming communication for Clojure - web server, web client, and raw TCP/UDP
 - [clojure/data.json](https://github.com/clojure/data.json) - JSON in Clojure
 - [korma/Korma](https://github.com/korma/Korma) - Tasty SQL for Clojure.
 - [seancorfield/honeysql](https://github.com/seancorfield/honeysql) - Turn Clojure data structures into SQL
