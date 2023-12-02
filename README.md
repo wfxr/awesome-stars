@@ -361,7 +361,7 @@
 - [chenjiandongx/clock](https://github.com/chenjiandongx/clock) - ☁️  须知少时凌云志 曾许人间第一流
 - [lesismal/arpc](https://github.com/lesismal/arpc) - More effective network communication, two-way calling, notify and broadcast supported.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [joho/sqltocsv](https://github.com/joho/sqltocsv) - Go package to turn arbitrary database/sql query results into CSV files as easily as possible
 - [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang's database/sql
