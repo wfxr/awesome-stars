@@ -659,7 +659,6 @@
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
 - [streamich/git-cz](https://github.com/streamich/git-cz) - Semantic Git commits
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
-- [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
 - [jae-jae/Camtd](https://github.com/jae-jae/Camtd) - Chrome multi-threaded download manager extension,based on Aria2 and AriaNg.  Chrome多线程下载扩展。
@@ -820,7 +819,7 @@
 - [nvim-telescope/telescope-ui-select.nvim](https://github.com/nvim-telescope/telescope-ui-select.nvim) - 
 - [simrat39/rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in rust using neovim's builtin lsp
 - [akinsho/dotfiles](https://github.com/akinsho/dotfiles) - 🏡 dotfiles
-- [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - Extensible UI for Neovim notifications and LSP progress messages.
+- [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - 💫  Extensible UI for Neovim notifications and LSP progress messages.
 - [kevinhwang91/nvim-hlslens](https://github.com/kevinhwang91/nvim-hlslens) - Hlsearch Lens for Neovim
 - [Saecki/crates.nvim](https://github.com/Saecki/crates.nvim) - A neovim plugin that helps managing crates.io dependencies
 - [glepnir/nvim](https://github.com/glepnir/nvim) - neovim configuration written in lua
@@ -1169,6 +1168,7 @@
 
 ## Rust 
 
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
 - [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees  🇺🇦 🦀
 - [nvzqz/divan](https://github.com/nvzqz/divan) - Fast and simple benchmarking for Rust projects
@@ -1898,6 +1898,7 @@
 - [teoxoy/factorio-blueprint-editor](https://github.com/teoxoy/factorio-blueprint-editor) - A feature-rich Factorio Blueprint Editor
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [deniszholob/factorio-cheat-sheet](https://github.com/deniszholob/factorio-cheat-sheet) - Cheat Sheet for Factorio
+- [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [sonatype-nexus-community/search-maven-org](https://github.com/sonatype-nexus-community/search-maven-org) - 
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [rhysd/NyaoVim](https://github.com/rhysd/NyaoVim) - Web-enhanced Extensible Neovim Frontend
