@@ -1168,6 +1168,7 @@
 
 ## Rust 
 
+- [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease.
 - [yuankunzhang/charming](https://github.com/yuankunzhang/charming) - A visualization library for Rust
 - [BurntSushi/memchr](https://github.com/BurntSushi/memchr) - Optimized string search routines for Rust.
 - [rust-fuzz/cargo-fuzz](https://github.com/rust-fuzz/cargo-fuzz) - Command line helpers for fuzzing
