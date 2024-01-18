@@ -1169,6 +1169,7 @@
 
 ## Rust 
 
+- [spicylobstergames/astratomic](https://github.com/spicylobstergames/astratomic) - Survival game inspired by Noita and Starbound, fueled by Rust and Bevy.
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [ParkMyCar/compact_str](https://github.com/ParkMyCar/compact_str) - A memory efficient string type that can store up to 24* bytes on the stack
 - [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust
