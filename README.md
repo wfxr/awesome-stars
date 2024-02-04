@@ -126,7 +126,7 @@
 - [hoytech/vmtouch](https://github.com/hoytech/vmtouch) - Portable file system cache diagnostics and control
 - [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) - Lightweight CLI download accelerator
 - [lanoxx/tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [lastpass/lastpass-cli](https://github.com/lastpass/lastpass-cli) - LastPass command line interface tool
@@ -1163,7 +1163,6 @@
 - [ruby-concurrency/concurrent-ruby](https://github.com/ruby-concurrency/concurrent-ruby) - Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.
 - [logstash-plugins/logstash-filter-translate](https://github.com/logstash-plugins/logstash-filter-translate) - Translate filter for Logstash
 - [busyloop/lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
-- [defunkt/gist](https://github.com/defunkt/gist) - Potentially the best command line gister.
 
 ## Rust 
 
