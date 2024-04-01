@@ -1168,6 +1168,7 @@
 
 ## Rust 
 
+- [tower-rs/tower](https://github.com/tower-rs/tower) - async fn(Request) -&gt; Result&lt;Response, Error&gt;
 - [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv) - 🦀 Find the minimum supported Rust version (MSRV) for your project
 - [rust-num/num-traits](https://github.com/rust-num/num-traits) - Numeric traits for generic mathematics in Rust
 - [aarc-rs/aarc](https://github.com/aarc-rs/aarc) - Atomically updatable variants of Arc and Weak for lock-free concurrency.
