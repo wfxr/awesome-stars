@@ -1726,7 +1726,7 @@
 - [nrc/r4cppp](https://github.com/nrc/r4cppp) - Rust for C++ programmers
 - [rust-lang/rls](https://github.com/rust-lang/rls) - Repository for the Rust Language Server (aka RLS)
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
-- [rust-cli/human-panic](https://github.com/rust-cli/human-panic) - 😱 Panic messages for humans.
+- [rust-cli/human-panic](https://github.com/rust-cli/human-panic) - Panic messages for humans.
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
