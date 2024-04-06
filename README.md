@@ -1168,6 +1168,7 @@
 
 ## Rust 
 
+- [sabledb-io/sabledb](https://github.com/sabledb-io/sabledb) - Ultra fast, persistent database supporting Redis API
 - [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator
 - [tower-rs/tower](https://github.com/tower-rs/tower) - async fn(Request) -&gt; Result&lt;Response, Error&gt;
 - [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv) - 🦀 Find the minimum supported Rust version (MSRV) for your project
@@ -1764,7 +1765,7 @@
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 - [darksonic37/linuxify](https://github.com/darksonic37/linuxify) - 🍏🐧 Transparently transform the macOS CLI into a fresh GNU/Linux CLI experience.
 - [usagi/rust-memory-container-cs](https://github.com/usagi/rust-memory-container-cs) - Rust Memory Container Cheat-sheet
-- [thep0y/fcitx5-themes](https://github.com/thep0y/fcitx5-themes) - fcitx5的简约风格皮肤——四季
+- [thep0y/fcitx5-themes-candlelight](https://github.com/thep0y/fcitx5-themes-candlelight) - fcitx5的简约风格皮肤——烛光
 - [rust-random/book](https://github.com/rust-random/book) - The Rust Rand Book
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [xlucn/fontpreview-ueberzug](https://github.com/xlucn/fontpreview-ueberzug) - preview fonts in fzf
