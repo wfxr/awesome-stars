@@ -1124,6 +1124,7 @@
 
 ## Roff 
 
+- [ctsrc/Pgen](https://github.com/ctsrc/Pgen) - Command-line passphrase generator
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 ## Ruby 
@@ -1168,6 +1169,7 @@
 
 ## Rust 
 
+- [wfxr/rlt](https://github.com/wfxr/rlt) - A universal load testing library for Rust, with real-time tui support.
 - [sabledb-io/sabledb](https://github.com/sabledb-io/sabledb) - Ultra fast, persistent database supporting Redis API
 - [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator
 - [tower-rs/tower](https://github.com/tower-rs/tower) - async fn(Request) -&gt; Result&lt;Response, Error&gt;
@@ -1596,7 +1598,6 @@
 - [whitfin/jen](https://github.com/whitfin/jen) - A fast utility to generate fake/test documents based on a template
 - [hsfzxjy/i2a-rs](https://github.com/hsfzxjy/i2a-rs) - Image to ASCII tool. (Rust version)
 - [ajmwagar/stego](https://github.com/ajmwagar/stego) - 🦕 stego is a steganographic swiss army knife.
-- [ctsrc/Pgen](https://github.com/ctsrc/Pgen) - Command-line passphrase generator
 - [dirs-dev/directories-rs](https://github.com/dirs-dev/directories-rs) - a mid-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows
 - [withoutboats/romio](https://github.com/withoutboats/romio) - asynchronous networking primitives
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
