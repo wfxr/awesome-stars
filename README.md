@@ -1169,6 +1169,7 @@
 
 ## Rust 
 
+- [smol-rs/fastrand](https://github.com/smol-rs/fastrand) - A simple and fast random number generator
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [mathematic-inc/unfmt](https://github.com/mathematic-inc/unfmt) - A compile-time pattern matching library that reverses the interpolation process of `format!`.
 - [orhun/daktilo](https://github.com/orhun/daktilo) - Turn your keyboard into a typewriter! 📇
