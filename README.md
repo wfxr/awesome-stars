@@ -1169,6 +1169,7 @@
 
 ## Rust 
 
+- [georust/rstar](https://github.com/georust/rstar) - R*-tree spatial index for the Rust ecosystem
 - [smol-rs/fastrand](https://github.com/smol-rs/fastrand) - A simple and fast random number generator
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [mathematic-inc/unfmt](https://github.com/mathematic-inc/unfmt) - A compile-time pattern matching library that reverses the interpolation process of `format!`.
@@ -1311,7 +1312,7 @@
 - [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
 - [dimensionhq/fleet](https://github.com/dimensionhq/fleet) - 🚀 The blazing fast build tool for Rust.
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Scalable Postgres for stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x more productive. 🚀 10x more cost-efficient.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Cloud-native SQL stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x more productive. 🚀 10x more cost-efficient.
 - [zip-rs/zip](https://github.com/zip-rs/zip) - Zip implementation in Rust
 - [tnballo/high-assurance-rust](https://github.com/tnballo/high-assurance-rust) - A free book about developing secure and robust systems software.
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
