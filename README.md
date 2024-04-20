@@ -1171,6 +1171,7 @@
 
 ## Rust 
 
+- [najamelan/async_executors](https://github.com/najamelan/async_executors) - Abstract over different executors
 - [georust/rstar](https://github.com/georust/rstar) - R*-tree spatial index for the Rust ecosystem
 - [smol-rs/fastrand](https://github.com/smol-rs/fastrand) - A simple and fast random number generator
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
@@ -1389,7 +1390,7 @@
 - [datanymizer/datanymizer](https://github.com/datanymizer/datanymizer) - Powerful database anonymizer with flexible rules. Written in Rust.
 - [ihciah/clean-dns-bpf](https://github.com/ihciah/clean-dns-bpf) - 基于 Rust + eBPF 丢弃 GFW DNS 污染包
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The data warehouse for operational workloads.
-- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache DataFusion SQL Query Engine
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
 - [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [modelfoxdotdev/modelfox](https://github.com/modelfoxdotdev/modelfox) - ModelFox makes it easy to train, deploy, and monitor machine learning models.
