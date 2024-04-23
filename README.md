@@ -557,7 +557,7 @@
 
 ## Handlebars 
 
-- [0x-ai/beat-ai](https://github.com/0x-ai/beat-ai) - 《Beat AI》又名《零生万物》 ，是一本专属于软件开发工程师的 AI 入门圣经，手把手带你上手写 AI。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
+- [ibeatai/beat-ai](https://github.com/ibeatai/beat-ai) - &lt;Beat AI&gt; 又名 &lt;零生万物&gt; , 是一本专属于软件开发工程师的 AI 入门圣经，手把手带你上手写 AI。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
 - [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 
 ## Haskell 
@@ -1171,6 +1171,7 @@
 
 ## Rust 
 
+- [AugmendTech/CrabGrab](https://github.com/AugmendTech/CrabGrab) - 🦀 🖥️ 🦀
 - [najamelan/async_executors](https://github.com/najamelan/async_executors) - Abstract over different executors
 - [georust/rstar](https://github.com/georust/rstar) - R*-tree spatial index for the Rust ecosystem
 - [smol-rs/fastrand](https://github.com/smol-rs/fastrand) - A simple and fast random number generator
