@@ -1171,6 +1171,8 @@
 
 ## Rust 
 
+- [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux AMDGPU Controller
+- [Vonr/parui](https://github.com/Vonr/parui) - Simple TUI frontend for paru or yay.
 - [AugmendTech/CrabGrab](https://github.com/AugmendTech/CrabGrab) - 🦀 🖥️ 🦀
 - [najamelan/async_executors](https://github.com/najamelan/async_executors) - Abstract over different executors
 - [georust/rstar](https://github.com/georust/rstar) - R*-tree spatial index for the Rust ecosystem
