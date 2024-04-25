@@ -1171,6 +1171,7 @@
 
 ## Rust 
 
+- [gold-silver-copper/ratatui_egui_wasm](https://github.com/gold-silver-copper/ratatui_egui_wasm) - A ratatui backend that is also an egui widget, WASM friendly
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux AMDGPU Controller
 - [Vonr/parui](https://github.com/Vonr/parui) - Simple TUI frontend for paru or yay.
 - [AugmendTech/CrabGrab](https://github.com/AugmendTech/CrabGrab) - 🦀 🖥️ 🦀
