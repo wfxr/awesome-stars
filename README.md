@@ -1171,7 +1171,8 @@
 
 ## Rust 
 
-- [gold-silver-copper/ratatui_egui_wasm](https://github.com/gold-silver-copper/ratatui_egui_wasm) - A ratatui backend that is also an egui widget, WASM friendly
+- [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
+- [gold-silver-copper/ratatui_egui_wasm](https://github.com/gold-silver-copper/ratatui_egui_wasm) - A ratatui backend that is also an egui widget. Deploy on web with WASM or ship natively.
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux AMDGPU Controller
 - [Vonr/parui](https://github.com/Vonr/parui) - Simple TUI frontend for paru or yay.
 - [AugmendTech/CrabGrab](https://github.com/AugmendTech/CrabGrab) - 🦀 🖥️ 🦀
@@ -1922,11 +1923,11 @@
 - [Swatinem/rust-cache](https://github.com/Swatinem/rust-cache) - A GitHub Action that implements smart caching for rust/cargo projects
 - [fkirc/skip-duplicate-actions](https://github.com/fkirc/skip-duplicate-actions) - Save time and cost when using GitHub Actions
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 6 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/o
+- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 7 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/o
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [actions-rs/toolchain](https://github.com/actions-rs/toolchain) - 🛠️ GitHub Action for `rustup` commands
 - [PyO3/maturin-action](https://github.com/PyO3/maturin-action) - GitHub Action to install and run a custom maturin command with built-in support for cross compilation
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
 - [mislav/bump-homebrew-formula-action](https://github.com/mislav/bump-homebrew-formula-action) - Automatically bump Homebrew formula after a release
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
