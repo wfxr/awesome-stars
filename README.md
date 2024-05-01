@@ -1171,6 +1171,7 @@
 
 ## Rust 
 
+- [eminence/procfs](https://github.com/eminence/procfs) - Rust library for reading the Linux procfs filesystem
 - [AmmarAbouZor/tui-journal](https://github.com/AmmarAbouZor/tui-journal) - Your journal app if you live in a terminal
 - [gin66/tui-logger](https://github.com/gin66/tui-logger) - Logger and Widget for rust's tui crate
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
