@@ -470,7 +470,7 @@
 - [inconshreveable/go-update](https://github.com/inconshreveable/go-update) - Build self-updating Golang programs
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [buger/jsonparser](https://github.com/buger/jsonparser) - One of the fastest alternative JSON parser for Go that does not require schema
@@ -1455,7 +1455,6 @@
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [rust-lang/rustfix](https://github.com/rust-lang/rustfix) - Automatically apply the suggestions made by rustc
-- [ballista-compute/ballista](https://github.com/ballista-compute/ballista) - Distributed compute platform implemented in Rust, and powered by Apache Arrow.
 - [est31/cargo-udeps](https://github.com/est31/cargo-udeps) - Find unused dependencies in Cargo.toml
 - [RustAudio/rodio](https://github.com/RustAudio/rodio) - Rust audio playback library
 - [mesalock-linux/mesalink](https://github.com/mesalock-linux/mesalink) - OpenSSL compatibility layer for the Rust SSL/TLS stack
