@@ -1171,6 +1171,7 @@
 
 ## Rust 
 
+- [bloznelis/kbt](https://github.com/bloznelis/kbt) - Keyboard tester in terminal
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - A toolkit for building distributed applications
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
@@ -1810,7 +1811,7 @@
 - [archlinuxcn/repo](https://github.com/archlinuxcn/repo) - Arch Linux CN Repository
 - [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) - 
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
-- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish shell.
+- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish shell. 12,700+ unique cloners as of May '24
 - [xamut/tmux-network-bandwidth](https://github.com/xamut/tmux-network-bandwidth) - 📊 Network bandwidth plugin for tmux
 - [icy/pacapt](https://github.com/icy/pacapt) - An ArchLinux's pacman-like shell wrapper for many package managers. 56KB and run anywhere.
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
