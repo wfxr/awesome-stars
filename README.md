@@ -1184,7 +1184,7 @@
 - [AmmarAbouZor/tui-journal](https://github.com/AmmarAbouZor/tui-journal) - Your journal app if you live in a terminal
 - [gin66/tui-logger](https://github.com/gin66/tui-logger) - Logger and Widget for rust's tui crate
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
-- [gold-silver-copper/ratatui_egui_wasm](https://github.com/gold-silver-copper/ratatui_egui_wasm) - A ratatui backend that is also an egui widget. Deploy on web with WASM or ship natively with bevy, macroquad, or eframe
+- [gold-silver-copper/egui_ratatui](https://github.com/gold-silver-copper/egui_ratatui) - A ratatui backend that is also an egui widget. Deploy on web with WASM or ship natively with bevy, macroquad, or eframe
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux AMDGPU Controller
 - [Vonr/parui](https://github.com/Vonr/parui) - Simple TUI frontend for paru or yay.
 - [AugmendTech/CrabGrab](https://github.com/AugmendTech/CrabGrab) - 🦀 🖥️ 🦀
