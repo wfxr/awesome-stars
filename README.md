@@ -1723,7 +1723,7 @@
 - [benashford/rs-es](https://github.com/benashford/rs-es) - A Rust client for the ElasticSearch REST API
 - [elastic-rs/elastic](https://github.com/elastic-rs/elastic) - An Elasticsearch REST API client for Rust
 - [skade/hyper-server](https://github.com/skade/hyper-server) - 
-- [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
+- [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix Web ecosystem usage.
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [rustcc/coroutine-rs](https://github.com/rustcc/coroutine-rs) - Coroutine Library in Rust
 - [rust-lang-deprecated/error-chain](https://github.com/rust-lang-deprecated/error-chain) - Error boilerplate for Rust
@@ -1811,7 +1811,7 @@
 - [archlinuxcn/repo](https://github.com/archlinuxcn/repo) - Arch Linux CN Repository
 - [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) - 
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
-- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish shell. 12,700+ unique cloners as of May '24
+- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~13,000 unique cloners as of May '24, 580+ Homebrew installs 6/23-6/24
 - [xamut/tmux-network-bandwidth](https://github.com/xamut/tmux-network-bandwidth) - 📊 Network bandwidth plugin for tmux
 - [icy/pacapt](https://github.com/icy/pacapt) - An ArchLinux's pacman-like shell wrapper for many package managers. 56KB and run anywhere.
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
