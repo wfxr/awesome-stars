@@ -551,6 +551,7 @@
 - [hjson/hjson](https://github.com/hjson/hjson) - Hjson, a user interface for JSON
 - [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [iwannarun/JavaWiki](https://github.com/iwannarun/JavaWiki) - 不定期收集与JAVA有关书籍或文章
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
 - [llimllib/bloomfilter-tutorial](https://github.com/llimllib/bloomfilter-tutorial) - A Bloom Filter Tutorial
@@ -1701,7 +1702,6 @@
 - [sharkdp/diskus](https://github.com/sharkdp/diskus) - A minimal, fast alternative to 'du -sh'
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [ZhangHanDong/tao-of-rust-codes](https://github.com/ZhangHanDong/tao-of-rust-codes) - 《Rust编程之道》随书源码
-- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [saschagrunert/webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust. 🌍
 - [ps1dr3x/easy_reader](https://github.com/ps1dr3x/easy_reader) - ⏮ ⏯ ⏭ A Rust library for easily navigating forward, backward or randomly through the lines of huge files.
 - [phynalle/getver](https://github.com/phynalle/getver) - A simple command line tool for capturing the latest version of crates
