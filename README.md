@@ -1816,7 +1816,7 @@
 - [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) - 
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~13,000 unique cloners as of May '24, 580+ Homebrew installs 6/23-6/24
-- [xamut/tmux-network-bandwidth](https://github.com/xamut/tmux-network-bandwidth) - 📊 Network bandwidth plugin for tmux
+- [ilya-manin/tmux-network-bandwidth](https://github.com/ilya-manin/tmux-network-bandwidth) - 📊 Network bandwidth plugin for tmux
 - [icy/pacapt](https://github.com/icy/pacapt) - An ArchLinux's pacman-like shell wrapper for many package managers. 56KB and run anywhere.
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [markchalloner/git-semver](https://github.com/markchalloner/git-semver) - Git plugin for Semantic Versioning
