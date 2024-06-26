@@ -304,7 +304,7 @@
 ## Dart 
 
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
 
 ## Dockerfile 
 
@@ -961,7 +961,6 @@
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
 - [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - move to https://spacevim.org/git/repos/SpaceVim/
 - [alevchuk/vim-clutch](https://github.com/alevchuk/vim-clutch) - A hardware pedal for improved text editing in Vim
 - [freach/kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide
 - [rfyiamcool/share_ppt](https://github.com/rfyiamcool/share_ppt) - 🚗  个人做过的技术分享... ( topic: 高性能架构,  中间件原理实践，云原生，Golang 等)
@@ -1176,6 +1175,7 @@
 
 ## Rust 
 
+- [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
 - [bloznelis/kbt](https://github.com/bloznelis/kbt) - Keyboard tester in terminal
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - A toolkit for building distributed applications
@@ -2058,6 +2058,7 @@
 - [matze/vim-move](https://github.com/matze/vim-move) - Plugin to move lines and selections up and down
 - [wellle/visual-split.vim](https://github.com/wellle/visual-split.vim) - Vim plugin to control splits with visual selections or text objects
 - [wellle/targets.vim](https://github.com/wellle/targets.vim) - Vim plugin that provides additional text objects
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
 - [wfxr/vim-gitignore](https://github.com/wfxr/vim-gitignore) - 
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
