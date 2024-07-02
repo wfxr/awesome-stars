@@ -244,7 +244,7 @@
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [vorillaz/devicons](https://github.com/vorillaz/devicons) - Devicons - An iconic font made for developers
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-- [vinceliuice/vimix-gtk-themes](https://github.com/vinceliuice/vimix-gtk-themes) - Vimix is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell etc.
+- [vinceliuice/Vimix-gtk-themes](https://github.com/vinceliuice/Vimix-gtk-themes) - Vimix is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell etc.
 - [mozilla/Fira](https://github.com/mozilla/Fira) - Mozilla's new typeface, used in Firefox OS
 - [anmoljagetia/Flatabulous](https://github.com/anmoljagetia/Flatabulous) - This is a Flat theme for Ubuntu and other Gnome based Linux Systems.
 - [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
@@ -481,7 +481,7 @@
 - [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) - Golang library for managing configuration data from environment variables
 - [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
 - [jetstack/kube-lego](https://github.com/jetstack/kube-lego) - DEPRECATED: Automatically request certificates for Kubernetes Ingress resources from Let's Encrypt
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다.  Un tunn
+- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Stable & Quantum Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다. 
 - [junegunn/blsd](https://github.com/junegunn/blsd) - List directories in breadth-first order
 - [ua-nick/Data-Structures-and-Algorithms](https://github.com/ua-nick/Data-Structures-and-Algorithms) - Data Structures and Algorithms implementation in Go
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
