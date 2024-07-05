@@ -481,7 +481,7 @@
 - [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) - Golang library for managing configuration data from environment variables
 - [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
 - [jetstack/kube-lego](https://github.com/jetstack/kube-lego) - DEPRECATED: Automatically request certificates for Kubernetes Ingress resources from Let's Encrypt
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Quantum Secure Tunnel based on KCP with N:M multiplexing and FEC.
+- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Quantum Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
 - [junegunn/blsd](https://github.com/junegunn/blsd) - List directories in breadth-first order
 - [ua-nick/Data-Structures-and-Algorithms](https://github.com/ua-nick/Data-Structures-and-Algorithms) - Data Structures and Algorithms implementation in Go
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
@@ -1233,7 +1233,7 @@
 - [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
-- [sigoden/aichat](https://github.com/sigoden/aichat) - AIChat is an all-in-one AI CLI tool featuring Chat-REPL, Shell Assistant, RAG, Tool Use, AI Agent, and More.
+- [sigoden/aichat](https://github.com/sigoden/aichat) - AIChat is an all-in-one AI CLI tool featuring Chat-REPL, Shell Assistant, RAG, Function Calling, AI Agents, and More.
 - [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease.
 - [yuankunzhang/charming](https://github.com/yuankunzhang/charming) - A visualization library for Rust
 - [BurntSushi/memchr](https://github.com/BurntSushi/memchr) - Optimized string search routines for Rust.
