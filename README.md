@@ -39,6 +39,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nim](#nim)
+- [Nix](#nix)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -884,6 +885,10 @@
 ## Nim 
 
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
+
+## Nix 
+
+- [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, Hyprland, kitty, kakoune, zsh and more
 
 ## OCaml 
 
@@ -1823,7 +1828,6 @@
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [markchalloner/git-semver](https://github.com/markchalloner/git-semver) - Git plugin for Semantic Versioning
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
-- [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, Hyprland, kitty, kakoune, zsh and more
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 - [jpetazzo/pipework](https://github.com/jpetazzo/pipework) - Software-Defined Networking tools for LXC (LinuX Containers)
 - [rbenv/rbenv-default-gems](https://github.com/rbenv/rbenv-default-gems) - Automatically install gems every time you install a new version of Ruby
