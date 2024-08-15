@@ -1182,6 +1182,7 @@
 
 ## Rust 
 
+- [rossmacarthur/fmutex](https://github.com/rossmacarthur/fmutex) - Provides mutual exclusion on a file using flock(2)
 - [Majored/rs-async-zip](https://github.com/Majored/rs-async-zip) - An asynchronous ZIP archive reading/writing crate.
 - [Nullus157/async-compression](https://github.com/Nullus157/async-compression) - Adaptors between compression crates and Rust's async IO types
 - [rossmacarthur/emojis](https://github.com/rossmacarthur/emojis) - ✨ Lookup emoji in O(1) time, access metadata and GitHub shortcodes, iterate over all emoji
@@ -1431,7 +1432,7 @@
 - [shuttle-hq/synth](https://github.com/shuttle-hq/synth) - The Declarative Data Generator
 - [datanymizer/datanymizer](https://github.com/datanymizer/datanymizer) - Powerful database anonymizer with flexible rules. Written in Rust.
 - [ihciah/clean-dns-bpf](https://github.com/ihciah/clean-dns-bpf) - 基于 Rust + eBPF 丢弃 GFW DNS 污染包
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The data warehouse for operational workloads.
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The Cloud Operational Data Store: use SQL to transform, deliver, and act on fast-changing data.
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
 - [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
