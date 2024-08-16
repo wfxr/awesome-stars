@@ -93,7 +93,7 @@
 - [Rust-for-Linux/linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
-- [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11
+- [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11 with animation support
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
 - [i3/i3lock](https://github.com/i3/i3lock) - improved screen locker
