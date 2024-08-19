@@ -127,7 +127,7 @@
 - [hoytech/vmtouch](https://github.com/hoytech/vmtouch) - Portable file system cache diagnostics and control
 - [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) - Lightweight CLI download accelerator
 - [lanoxx/tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [lastpass/lastpass-cli](https://github.com/lastpass/lastpass-cli) - LastPass command line interface tool
@@ -1182,6 +1182,7 @@
 
 ## Rust 
 
+- [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - A portable embedded database using Arrow.
 - [rossmacarthur/fmutex](https://github.com/rossmacarthur/fmutex) - Provides mutual exclusion on a file using flock(2)
 - [Majored/rs-async-zip](https://github.com/Majored/rs-async-zip) - An asynchronous ZIP archive reading/writing crate.
 - [Nullus157/async-compression](https://github.com/Nullus157/async-compression) - Adaptors between compression crates and Rust's async IO types
