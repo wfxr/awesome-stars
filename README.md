@@ -1209,7 +1209,7 @@
 - [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs
 - [eminence/procfs](https://github.com/eminence/procfs) - Rust library for reading the Linux procfs filesystem
 - [AmmarAbouZor/tui-journal](https://github.com/AmmarAbouZor/tui-journal) - Your journal app if you live in a terminal
-- [gin66/tui-logger](https://github.com/gin66/tui-logger) - Logger and Widget for rust's tui crate
+- [gin66/tui-logger](https://github.com/gin66/tui-logger) - Logger and Widget for rust's ratatui crate
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [gold-silver-copper/egui_ratatui](https://github.com/gold-silver-copper/egui_ratatui) - A ratatui backend that is also an egui widget. Deploy on web with WASM or ship natively with bevy, macroquad, or eframe
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux AMDGPU Configuration Tool
