@@ -1079,7 +1079,7 @@
 - [jeffkaufman/icdiff](https://github.com/jeffkaufman/icdiff) - improved colored diff
 - [ricardomv/snapper-gui](https://github.com/ricardomv/snapper-gui) - GUI for snapper, a tool for Linux filesystem snapshot management, works with btrfs, ext4 and thin-provisioned LVM volumes
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
-- [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
+- [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
 - [aliyun/aliyun-log-cli](https://github.com/aliyun/aliyun-log-cli) - Command Line Interface for Aliyun Log Service
 - [wandergis/coordTransform_py](https://github.com/wandergis/coordTransform_py) - 提供百度坐标系(bd-09)、火星坐标系(国测局坐标系、gcj02)、WGS84坐标系直接的坐标互转，也提供了解析高德地址的方法的python版本
 - [dstat-real/dstat](https://github.com/dstat-real/dstat) - Versatile resource statistics tool (the real one, not the Red Hat clone)
@@ -1359,7 +1359,7 @@
 - [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
 - [dimensionhq/fleet](https://github.com/dimensionhq/fleet) - 🚀 The blazing fast build tool for Rust.
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL engine for event-driven workloads. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch processing. 
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Best-in-class stream processing, analytics, and management. Perform continuous analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming 
 - [zip-rs/zip-old](https://github.com/zip-rs/zip-old) - Zip implementation in Rust
 - [tnballo/high-assurance-rust](https://github.com/tnballo/high-assurance-rust) - A free book about developing secure and robust systems software.
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
