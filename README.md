@@ -198,6 +198,7 @@
 - [google/s2geometry](https://github.com/google/s2geometry) - Computational geometry and spatial indexing on the sphere
 - [chenshuo/recipes](https://github.com/chenshuo/recipes) - Some code snippets for sharing
 - [tsujan/Kvantum](https://github.com/tsujan/Kvantum) - A Linux SVG-based theme engine for Qt and KDE
+- [ycm-core/ycmd](https://github.com/ycm-core/ycmd) - A code-completion & code-comprehension server
 - [danmar/cppcheck](https://github.com/danmar/cppcheck) - static analysis of C/C++ code
 - [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
@@ -311,6 +312,7 @@
 
 ## Dockerfile 
 
+- [snowdreamtech/frp](https://github.com/snowdreamtech/frp) - Docker Images for Frp.     (amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le,riscv64, s390x)
 - [amancevice/docker-superset](https://github.com/amancevice/docker-superset) - Docker image for Airbnb's Superset
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [rvolosatovs/docker-protobuf](https://github.com/rvolosatovs/docker-protobuf) - An all-inclusive protoc Docker image
@@ -1084,7 +1086,6 @@
 - [kennethreitz/records](https://github.com/kennethreitz/records) - SQL for Humans™
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
-- [ycm-core/ycmd](https://github.com/ycm-core/ycmd) - A code-completion & code-comprehension server
 - [google/gif-for-cli](https://github.com/google/gif-for-cli) - 
 - [Yggdroot/LeaderF](https://github.com/Yggdroot/LeaderF) - An efficient fuzzy finder that helps to locate files, buffers, mrus, gtags, etc. on the fly for both vim and neovim.
 - [aitjcize/cppman](https://github.com/aitjcize/cppman) - C++ 98/11/14 manual pages for Linux/MacOS
@@ -1181,6 +1182,11 @@
 
 ## Rust 
 
+- [dtolnay/ryu](https://github.com/dtolnay/ryu) - Fast floating point to string conversion
+- [jonhoo/udp-over-tcp](https://github.com/jonhoo/udp-over-tcp) - A command-line tool for tunneling UDP datagrams over TCP.
+- [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
+- [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux.
+- [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux.
 - [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - A portable embedded database using Arrow.
 - [rossmacarthur/fmutex](https://github.com/rossmacarthur/fmutex) - Provides mutual exclusion on a file using flock(2)
 - [Majored/rs-async-zip](https://github.com/Majored/rs-async-zip) - An asynchronous ZIP archive reading/writing crate.
@@ -1812,7 +1818,6 @@
 
 ## Shell 
 
-- [snowdreamtech/frp](https://github.com/snowdreamtech/frp) - Docker Images for Frp.     (amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le,riscv64, s390x)
 - [docker-easyconnect/docker-easyconnect](https://github.com/docker-easyconnect/docker-easyconnect) - 使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
 - [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain) - Concise GitHub Action for installing a Rust toolchain
 - [poetaman/arttime](https://github.com/poetaman/arttime) - arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
