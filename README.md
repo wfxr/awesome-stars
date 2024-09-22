@@ -312,7 +312,7 @@
 
 ## Dockerfile 
 
-- [snowdreamtech/frp](https://github.com/snowdreamtech/frp) - Docker Images for Frp.     (amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le,riscv64, s390x)
+- [snowdreamtech/frp](https://github.com/snowdreamtech/frp) - Docker Images for Frp.     (amd64, arm32v5, arm32v6, arm32v7, arm64v8, i386, mips64le, ppc64le,riscv64, s390x)
 - [amancevice/docker-superset](https://github.com/amancevice/docker-superset) - Docker image for Airbnb's Superset
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [rvolosatovs/docker-protobuf](https://github.com/rvolosatovs/docker-protobuf) - An all-inclusive protoc Docker image
