@@ -1603,7 +1603,7 @@
 - [rust-cli/confy](https://github.com/rust-cli/confy) - 🛋 Zero-boilerplate configuration management in Rust
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [lpxxn/rust-design-pattern](https://github.com/lpxxn/rust-design-pattern) - rust design patterns
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [baurst/rs_snake](https://github.com/baurst/rs_snake) - 🐍 Snake for the command-line
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [rust-lang/areweasyncyet.rs](https://github.com/rust-lang/areweasyncyet.rs) - Are we async yet?
