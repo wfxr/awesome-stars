@@ -630,6 +630,7 @@
 - [google/gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
 - [fabienrenaud/java-json-benchmark](https://github.com/fabienrenaud/java-json-benchmark) - Performance testing of serialization and deserialization of Java JSON libraries
 - [apache/storm](https://github.com/apache/storm) - Apache Storm
+- [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [jprante/elasticsearch-knapsack](https://github.com/jprante/elasticsearch-knapsack) - Knapsack plugin is an import/export tool for Elasticsearch
 - [k0shk0sh/FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
@@ -1176,7 +1177,6 @@
 - [dominikh/filesize](https://github.com/dominikh/filesize) - filesize is a small ruby class for handling filesizes with both the SI and binary prefixes, allowing conversion from any size to any other size.
 - [ManageIQ/optimist](https://github.com/ManageIQ/optimist) - Optimist is a commandline option parser for Ruby that just gets out of your way.
 - [ruby-concurrency/concurrent-ruby](https://github.com/ruby-concurrency/concurrent-ruby) - Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.
-- [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [logstash-plugins/logstash-filter-translate](https://github.com/logstash-plugins/logstash-filter-translate) - Translate filter for Logstash
 - [busyloop/lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
 - [defunkt/gist](https://github.com/defunkt/gist) - Potentially the best command line gister.
