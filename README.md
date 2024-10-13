@@ -795,7 +795,7 @@
 
 ## Lua 
 
-- [NvChad/menu](https://github.com/NvChad/menu) - Menu ui for neovim ( supports nested menus ) made using volt
+- [NvChad/menu](https://github.com/NvChad/menu) - Menu plugin for neovim ( supports nested menus ) made using volt
 - [folke/neoconf.nvim](https://github.com/folke/neoconf.nvim) - 💼 Neovim plugin to manage global and project-local settings
 - [folke/ts-comments.nvim](https://github.com/folke/ts-comments.nvim) - Tiny plugin to enhance Neovim's native comments
 - [mrcjkb/rustaceanvim](https://github.com/mrcjkb/rustaceanvim) - 🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim
@@ -1551,7 +1551,7 @@
 - [zitsen/xlsx2csv.rs](https://github.com/zitsen/xlsx2csv.rs) - Excel (eg. .xlsx/.xls) to CSV/TSV Format Converter in Rust
 - [share-secrets-safely/cli](https://github.com/share-secrets-safely/cli) - share secrets within teams to avoid plain-text secrets from day one
 - [Byron/prodash](https://github.com/Byron/prodash) - report progress of concurrent applications and display it in various ways
-- [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [aeshirey/waitfor](https://github.com/aeshirey/waitfor) - A shell app for delaying on conditions
 - [fornwall/rust-script](https://github.com/fornwall/rust-script) - Run Rust files and expressions as scripts without any setup or compilation step.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
