@@ -792,7 +792,7 @@
 
 ## Lua 
 
-- [siduck/menu](https://github.com/siduck/menu) - Menu plugin for neovim ( supports nested menus ) made using volt
+- [nvzone/menu](https://github.com/nvzone/menu) - Menu plugin for neovim ( supports nested menus ) made using volt
 - [folke/neoconf.nvim](https://github.com/folke/neoconf.nvim) - 💼 Neovim plugin to manage global and project-local settings
 - [folke/ts-comments.nvim](https://github.com/folke/ts-comments.nvim) - Tiny plugin to enhance Neovim's native comments
 - [mrcjkb/rustaceanvim](https://github.com/mrcjkb/rustaceanvim) - 🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim
@@ -1179,6 +1179,7 @@
 
 ## Rust 
 
+- [sectordistrict/intentrace](https://github.com/sectordistrict/intentrace) - intentrace is strace with intent, it goes all the way for you instead of half the way. intentrace is currently in beta
 - [dtolnay/ryu](https://github.com/dtolnay/ryu) - Fast floating point to string conversion
 - [jonhoo/udp-over-tcp](https://github.com/jonhoo/udp-over-tcp) - A command-line tool for tunneling UDP datagrams over TCP.
 - [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
@@ -1214,7 +1215,7 @@
 - [gin66/tui-logger](https://github.com/gin66/tui-logger) - Logger and Widget for rust's ratatui crate
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [gold-silver-copper/egui_ratatui](https://github.com/gold-silver-copper/egui_ratatui) - A ratatui backend that is also an egui widget. Deploy on web with WASM or ship natively with bevy, macroquad, or eframe
-- [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux AMDGPU Configuration Tool
+- [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration Tool
 - [Vonr/parui](https://github.com/Vonr/parui) - Simple TUI frontend for paru or yay.
 - [AugmendTech/CrabGrab](https://github.com/AugmendTech/CrabGrab) - 🦀 🖥️ 🦀
 - [najamelan/async_executors](https://github.com/najamelan/async_executors) - Abstract over different executors
@@ -1702,7 +1703,7 @@
 - [danloh/rut-server-rust](https://github.com/danloh/rut-server-rust) - RutHub server powered by actix-web1.0 + diesel, Notice: sth changed on
 - [ZhangHanDong/actix-workshop-rustconasia2019](https://github.com/ZhangHanDong/actix-workshop-rustconasia2019) - RustConAsia 2019大会workshop
 - [dtolnay/oqueue](https://github.com/dtolnay/oqueue) - Non-interleaving multithreaded output queue
-- [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
+- [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 - [athre0z/color-backtrace](https://github.com/athre0z/color-backtrace) - Colorful panic backtraces for Rust
 - [Manishearth/oreutils](https://github.com/Manishearth/oreutils) - Installer for various Rust reimaginations of coreutils. These are not drop-in replacements.
 - [cch123/elastic-rs](https://github.com/cch123/elastic-rs) - comvert bool expression to elasticsearch DSL in rust
@@ -1967,7 +1968,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [actions-rs/toolchain](https://github.com/actions-rs/toolchain) - 🛠️ GitHub Action for `rustup` commands
 - [PyO3/maturin-action](https://github.com/PyO3/maturin-action) - GitHub Action to install and run a custom maturin command with built-in support for cross compilation
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - realtime whiteboard / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
 - [mislav/bump-homebrew-formula-action](https://github.com/mislav/bump-homebrew-formula-action) - Automatically bump Homebrew formula after a release
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
