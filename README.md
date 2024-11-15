@@ -1338,7 +1338,7 @@
 - [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
 - [tokio-rs/mio](https://github.com/tokio-rs/mio) - Metal I/O library for Rust.
 - [Ryu0118/Kusa](https://github.com/Ryu0118/Kusa) - Kusa is a CLI tool that works on any platform and displays GitHub contribution graphs.
-- [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely.
+- [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage.
 - [crabtyper/crabtyper](https://github.com/crabtyper/crabtyper) - A speed typing web app written in Rust
 - [ZingerLittleBee/netop](https://github.com/ZingerLittleBee/netop) - Network Top -- Help you monitor network traffic with bpf
 - [Xuanwo/backon](https://github.com/Xuanwo/backon) - Make retry like a built-in feature provided by Rust.
@@ -1840,7 +1840,7 @@
 - [archlinuxcn/repo](https://github.com/archlinuxcn/repo) - Arch Linux CN Repository
 - [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) - 
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
-- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~18,000 clones by ~12,000 unique cloners as of Sept '24, and averaging ~60 Homebrew installs monthly since June 2023
+- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~23,000 clones by ~15,000 unique cloners as of Nov '24, and averaging ~60 Homebrew installs monthly since June 2023
 - [ilya-manin/tmux-network-bandwidth](https://github.com/ilya-manin/tmux-network-bandwidth) - 📊 Network bandwidth plugin for tmux
 - [icy/pacapt](https://github.com/icy/pacapt) - An ArchLinux's pacman-like shell wrapper for many package managers. 56KB and run anywhere.
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
