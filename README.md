@@ -1773,7 +1773,7 @@
 - [ZhangHanDong/tao-of-rust-codes](https://github.com/ZhangHanDong/tao-of-rust-codes) - 《Rust编程之道》随书源码
 - [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [saschagrunert/webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust. 🌍
-- [ps1dr3x/easy_reader](https://github.com/ps1dr3x/easy_reader) - ⏮ ⏯ ⏭ A Rust library for easily navigating forward, backward or randomly through the lines of huge files.
+- [ps1dr3x/easy_reader](https://github.com/ps1dr3x/easy_reader) - A Rust library (crate) for reading and easily navigating forward, backward or randomly through the lines of huge files. Tested with files of over 300 GB.
 - [phynalle/getver](https://github.com/phynalle/getver) - A simple command line tool for capturing the latest version of crates
 - [rust-lang-deprecated/failure](https://github.com/rust-lang-deprecated/failure) - Error management
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
