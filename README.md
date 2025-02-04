@@ -407,7 +407,7 @@
 - [zu1k/nali](https://github.com/zu1k/nali) - An offline tool for querying IP geographic information and CDN provider. 一个查询IP地理信息和CDN服务提供商的离线终端工具.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [monsterxx03/snet](https://github.com/monsterxx03/snet) - transparent proxy works on linux desktop, MacOS, router
-- [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
+- [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP, REST, and SSE client library for Go
 - [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) - Automatically generate Go (golang) struct definitions from example JSON
 - [doug-martin/goqu](https://github.com/doug-martin/goqu) - SQL builder and query library for golang
 - [uber/prototool](https://github.com/uber/prototool) - Your Swiss Army Knife for Protocol Buffers
@@ -1403,7 +1403,7 @@
 - [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
 - [dimensionhq/fleet](https://github.com/dimensionhq/fleet) - 🚀 The blazing fast build tool for Rust.
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Streaming database. Unified experience for real-time data ingestion, stream processing, and low-latency serving. Best-in-class performance and cost-efficiency. Supports SQL and Python.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The event stream processing platform for developers. Unified experience for real-time data ingestion, stream processing, and low-latency serving. Best-in-class performance and cost-efficiency. Support
 - [zip-rs/zip-old](https://github.com/zip-rs/zip-old) - Zip implementation in Rust
 - [tnballo/high-assurance-rust](https://github.com/tnballo/high-assurance-rust) - A free book about developing secure and robust systems software.
 - [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
@@ -1477,7 +1477,7 @@
 - [shuttle-hq/synth](https://github.com/shuttle-hq/synth) - The Declarative Data Generator
 - [datanymizer/datanymizer](https://github.com/datanymizer/datanymizer) - Powerful database anonymizer with flexible rules. Written in Rust.
 - [ihciah/clean-dns-bpf](https://github.com/ihciah/clean-dns-bpf) - 基于 Rust + eBPF 丢弃 GFW DNS 污染包
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The Cloud Operational Data Store: use SQL to transform, deliver, and act on fast-changing data.
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Real-time Data Integration and Transformation: use SQL to transform, deliver, and act on fast-changing data.
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
 - [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
