@@ -1335,7 +1335,7 @@
 - [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust dark magics by implementing an expression framework in database systems
-- [rikhuijzer/ata](https://github.com/rikhuijzer/ata) - Ask the Terminal Anything (ATA): ChatGPT in the terminal
+- [transformrs/ata](https://github.com/transformrs/ata) - Ask the Terminal Anything (ATA): ChatGPT in the terminal
 - [Detegr/rust-ctrlc](https://github.com/Detegr/rust-ctrlc) - Easy Ctrl-C handler for Rust projects
 - [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) - A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
 - [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) - Compile Cargo project with zig as linker
