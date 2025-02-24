@@ -128,7 +128,7 @@
 - [hoytech/vmtouch](https://github.com/hoytech/vmtouch) - Portable file system cache diagnostics and control
 - [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) - Lightweight CLI download accelerator
 - [lanoxx/tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix
-- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
+- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [lastpass/lastpass-cli](https://github.com/lastpass/lastpass-cli) - LastPass command line interface tool
@@ -1209,6 +1209,8 @@
 
 ## Rust 
 
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
+- [YS-L/flamelens](https://github.com/YS-L/flamelens) - Flamegraph viewer in the terminal
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [rust-pretty-assertions/rust-pretty-assertions](https://github.com/rust-pretty-assertions/rust-pretty-assertions) - Overwrite `assert_eq!` with a drop-in replacement, adding a colorful diff.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
@@ -1393,7 +1395,7 @@
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [burtonageo/cargo-bundle](https://github.com/burtonageo/cargo-bundle) - Wrap rust executables in OS-specific app bundles
 - [zhiburt/tabled](https://github.com/zhiburt/tabled) - An easy to use library for pretty print tables of Rust structs and enums.
-- [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
+- [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut (and sometimes awk)
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
 - [rossmacarthur/sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: Fast, configurable, shell plugin manager
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
@@ -1406,7 +1408,7 @@
 - [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
 - [dimensionhq/fleet](https://github.com/dimensionhq/fleet) - 🚀 The blazing fast build tool for Rust.
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The event stream processing platform for developers. Unified experience for real-time data ingestion, stream processing, and low-latency serving. Best-in-class performance and cost-efficiency. Support
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Stream processing platform for developers.
 - [zip-rs/zip-old](https://github.com/zip-rs/zip-old) - Zip implementation in Rust
 - [tnballo/high-assurance-rust](https://github.com/tnballo/high-assurance-rust) - A free book about developing secure and robust systems software.
 - [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
@@ -1701,7 +1703,7 @@
 - [hsfzxjy/i2a-rs](https://github.com/hsfzxjy/i2a-rs) - Image to ASCII tool. (Rust version)
 - [ajmwagar/stego](https://github.com/ajmwagar/stego) - 🦕 stego is a steganographic swiss army knife.
 - [ctsrc/Pgen](https://github.com/ctsrc/Pgen) - Command-line passphrase generator
-- [dirs-dev/directories-rs](https://github.com/dirs-dev/directories-rs) - a mid-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows
+- [dirs-dev/directories-rs](https://github.com/dirs-dev/directories-rs) - moved to https://codeberg.org/dirs/directories-rs
 - [withoutboats/romio](https://github.com/withoutboats/romio) - asynchronous networking primitives
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
 - [plotters-rs/plotters](https://github.com/plotters-rs/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
@@ -2012,7 +2014,7 @@
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [Swatinem/rust-cache](https://github.com/Swatinem/rust-cache) - A GitHub Action that implements smart caching for rust/cargo projects
 - [fkirc/skip-duplicate-actions](https://github.com/fkirc/skip-duplicate-actions) - Save time and cost when using GitHub Actions
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 7 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/o
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [actions-rs/toolchain](https://github.com/actions-rs/toolchain) - 🛠️ GitHub Action for `rustup` commands
