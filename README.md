@@ -200,6 +200,7 @@
 - [ckaiser/Lightscreen](https://github.com/ckaiser/Lightscreen) - Screenshot tool.
 - [google/s2geometry](https://github.com/google/s2geometry) - Computational geometry and spatial indexing on the sphere
 - [chenshuo/recipes](https://github.com/chenshuo/recipes) - Some code snippets for sharing
+- [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project
 - [tsujan/Kvantum](https://github.com/tsujan/Kvantum) - A Linux SVG-based theme engine for Qt and KDE
 - [ycm-core/ycmd](https://github.com/ycm-core/ycmd) - A code-completion & code-comprehension server
 - [danmar/cppcheck](https://github.com/danmar/cppcheck) - static analysis of C/C++ code
@@ -617,7 +618,6 @@
 - [kungfoo/geohash-java](https://github.com/kungfoo/geohash-java) - Implementation of GeoHashes in java. We try to be/stay compliant to the spec, as far as possible.
 - [sromku/polygon-contains-point](https://github.com/sromku/polygon-contains-point) - Point in polygon - Check if the point inside the polygon
 - [locationtech/jts](https://github.com/locationtech/jts) - The JTS Topology Suite is a Java library for creating and manipulating vector geometry.
-- [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project
 - [NanoHttpd/nanohttpd](https://github.com/NanoHttpd/nanohttpd) - Tiny, easily embeddable HTTP server in Java.
 - [nginx-clojure/nginx-clojure](https://github.com/nginx-clojure/nginx-clojure) - Nginx module for embedding Clojure or Java or Groovy programs, typically those Ring based handlers.
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
