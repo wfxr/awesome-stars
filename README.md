@@ -1232,7 +1232,7 @@
 - [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux.
 - [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux.
 - [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - A portable embedded database using Arrow.
-- [rossmacarthur/fmutex](https://github.com/rossmacarthur/fmutex) - Provides mutual exclusion on a file using flock(2)
+- [rossmacarthur/fmutex](https://github.com/rossmacarthur/fmutex) - Cross-platform mutual exclusion across processes on a file or path
 - [Majored/rs-async-zip](https://github.com/Majored/rs-async-zip) - An asynchronous ZIP archive reading/writing crate.
 - [Nullus157/async-compression](https://github.com/Nullus157/async-compression) - Adaptors between compression crates and Rust's async IO types
 - [rossmacarthur/emojis](https://github.com/rossmacarthur/emojis) - ✨ Lookup emoji in O(1) time, access metadata and GitHub shortcodes, iterate over all emoji
