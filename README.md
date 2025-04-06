@@ -1261,7 +1261,7 @@
 - [gin66/tui-logger](https://github.com/gin66/tui-logger) - Logger and Widget for rust's ratatui crate
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [gold-silver-copper/egui_ratatui](https://github.com/gold-silver-copper/egui_ratatui) - A ratatui backend that is also an egui widget. Deploy on web with WASM or ship natively with bevy, macroquad, or eframe
-- [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration Tool
+- [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
 - [Vonr/parui](https://github.com/Vonr/parui) - Simple TUI frontend for paru or yay.
 - [AugmendTech/CrabGrab](https://github.com/AugmendTech/CrabGrab) - 🦀 🖥️ 🦀
 - [najamelan/async_executors](https://github.com/najamelan/async_executors) - Abstract over different executors
