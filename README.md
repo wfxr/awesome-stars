@@ -205,7 +205,7 @@
 - [ycm-core/ycmd](https://github.com/ycm-core/ycmd) - A code-completion & code-comprehension server
 - [danmar/cppcheck](https://github.com/danmar/cppcheck) - static analysis of C/C++ code
 - [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
-- [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [shadowsocks/shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5) - A cross-platform shadowsocks GUI client
 - [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) - Abseil Common Libraries (C++)
 - [andre-simon/highlight](https://github.com/andre-simon/highlight) - Source code to formatted text converter
@@ -1045,7 +1045,7 @@
 ## Python 
 
 - [alberti42/tmux-fzf-links](https://github.com/alberti42/tmux-fzf-links) - 🚀 Open any kind of link with highly customizable matching patterns
-- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker/Zotero
+- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 - [karmab/kcli](https://github.com/karmab/kcli) - Management tool for virtualization and kubernetes platforms
 - [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility
@@ -1346,10 +1346,10 @@
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [sitkevij/hex](https://github.com/sitkevij/hex) - 🔮 Futuristic take on hexdump, made in Rust.
 - [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A course of building an LSM-Tree storage engine (database) in a week.
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud.
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud.
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
 - [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust!
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust.
 - [ad4mx/spinoff](https://github.com/ad4mx/spinoff) - 💫 Easy to use, robust Rust library for displaying spinners in the terminal
@@ -1593,7 +1593,7 @@
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [zitsen/xlsx2csv.rs](https://github.com/zitsen/xlsx2csv.rs) - Excel (eg. .xlsx/.xls) to CSV/TSV Format Converter in Rust
 - [share-secrets-safely/cli](https://github.com/share-secrets-safely/cli) - share secrets within teams to avoid plain-text secrets from day one
-- [Byron/prodash](https://github.com/Byron/prodash) - report progress of concurrent applications and display it in various ways
+- [GitoxideLabs/prodash](https://github.com/GitoxideLabs/prodash) - report progress of concurrent applications and display it in various ways
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [aeshirey/waitfor](https://github.com/aeshirey/waitfor) - A shell app for delaying on conditions
 - [fornwall/rust-script](https://github.com/fornwall/rust-script) - Run Rust files and expressions as scripts without any setup or compilation step.
