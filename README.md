@@ -687,7 +687,6 @@
 - [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
 - [Briles/gruvbox](https://github.com/Briles/gruvbox) - 🎨 Sublime Text themes & color schemes with pastel 'retro groove' colors
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
-- [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans
 - [geeeeeeeeek/electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) - :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
 - [apachecn/apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) - ApacheCN 数据结构与算法译文集
@@ -1724,7 +1723,7 @@
 - [seanmonstar/num_cpus](https://github.com/seanmonstar/num_cpus) - Get the number of CPUs in Rust
 - [rust-threadpool/rust-threadpool](https://github.com/rust-threadpool/rust-threadpool) - A very simple thread pool for parallel task execution
 - [rustasync/runtime](https://github.com/rustasync/runtime) - Empowering everyone to build asynchronous software
-- [conradkleinespel/rpassword](https://github.com/conradkleinespel/rpassword) - Cross platform Rust library to read a password in the terminal (Linux, BSD, OSX, Windows, WASM).
+- [conradkleinespel/rpassword](https://github.com/conradkleinespel/rpassword) - Cross platform Rust library to read a password in the terminal (Linux, BSD, MacOS, Windows, WASM).
 - [maciejhirsz/json-rust](https://github.com/maciejhirsz/json-rust) - JSON implementation in Rust
 - [clux/muslrust](https://github.com/clux/muslrust) - Docker environment for building musl based static linux rust binaries
 - [oli-obk/cargo_metadata](https://github.com/oli-obk/cargo_metadata) - 
