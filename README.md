@@ -838,14 +838,14 @@
 - [Bekaboo/deadcolumn.nvim](https://github.com/Bekaboo/deadcolumn.nvim) - A neovim plugin that shows colorcolumn dynamically
 - [b0o/SchemaStore.nvim](https://github.com/b0o/SchemaStore.nvim) - 🛍 JSON schemas for Neovim
 - [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box
-- [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
+- [mason-org/mason-lspconfig.nvim](https://github.com/mason-org/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
 - [Xuyuanp/neochat.nvim](https://github.com/Xuyuanp/neochat.nvim) - ChatGPT in neovim
 - [hadronized/mind.nvim](https://github.com/hadronized/mind.nvim) - The power of trees at your fingertips.
 - [ojroques/nvim-osc52](https://github.com/ojroques/nvim-osc52) - A Neovim plugin to copy text through SSH with OSC52
 - [MunifTanjim/exrc.nvim](https://github.com/MunifTanjim/exrc.nvim) - Secure Project Local Config for Neovim
 - [jbyuki/venn.nvim](https://github.com/jbyuki/venn.nvim) - Draw ASCII diagrams in Neovim
 - [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
-- [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
+- [mason-org/mason.nvim](https://github.com/mason-org/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Further development has moved to https://github.com/williamboman/mason.nvim!
 - [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) - Neovim plugin to improve the default vim.ui interfaces
@@ -905,7 +905,7 @@
 ## Markdown 
 
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
-- [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2021 edition）
+- [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2024 edition 施工中）
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
