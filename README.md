@@ -396,7 +396,7 @@
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [lotusirous/go-concurrency-patterns](https://github.com/lotusirous/go-concurrency-patterns) - Concurrency patterns in Go
-- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
 - [jonboulle/clockwork](https://github.com/jonboulle/clockwork) - a fake clock for golang
 - [caarlos0/starcharts](https://github.com/caarlos0/starcharts) - Plot your repository stars over time.
 - [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
@@ -1560,7 +1560,7 @@
 - [jonhoo/flurry](https://github.com/jonhoo/flurry) - A port of Java's ConcurrentHashMap to Rust
 - [jonhoo/left-right](https://github.com/jonhoo/left-right) - A lock-free, read-optimized, concurrency primitive.
 - [vorner/arc-swap](https://github.com/vorner/arc-swap) - Support atomic operations on Arc itself
-- [aaronabramov/k9](https://github.com/aaronabramov/k9) - Rust testing library
+- [boujeepossum/k9](https://github.com/boujeepossum/k9) - Rust testing library
 - [dtolnay/dyn-clone](https://github.com/dtolnay/dyn-clone) - Clone trait that is object-safe
 - [rust-lang/hashbrown](https://github.com/rust-lang/hashbrown) - Rust port of Google's SwissTable hash map
 - [marmeladema/clru-rs](https://github.com/marmeladema/clru-rs) - An LRU cache implementation with constant time operations and weighted semantic.
@@ -1887,7 +1887,7 @@
 - [archlinuxcn/repo](https://github.com/archlinuxcn/repo) - Arch Linux CN Repository
 - [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) - 
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
-- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~27,000 clones by ~17,000 unique cloners as of late Nov '24, and averaging ~60 Homebrew installs monthly since June 2023
+- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~32,000 clones by ~21,000 unique cloners as of May '25, and averaging ~60-70 Homebrew installs monthly since June 2023
 - [ilya-manin/tmux-network-bandwidth](https://github.com/ilya-manin/tmux-network-bandwidth) - 📊 Network bandwidth plugin for tmux
 - [icy/pacapt](https://github.com/icy/pacapt) - An ArchLinux's pacman-like shell wrapper for many package managers. 56KB and run anywhere.
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
