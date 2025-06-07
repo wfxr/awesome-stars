@@ -154,7 +154,7 @@
 - [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
 - [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 - [guoboism/mixup](https://github.com/guoboism/mixup) - 
-- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
+- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
 - [microsoft/Mobius](https://github.com/microsoft/Mobius) - C# and F# language binding and extensions to Apache Spark
 - [VsVim/VsVim](https://github.com/VsVim/VsVim) - Vim Emulator Plugin for Visual Studio 2015+
 - [AutoFixture/AutoFixture](https://github.com/AutoFixture/AutoFixture) - AutoFixture is an open source library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability. Its primary goal is to allow developers to focus on wha
@@ -179,7 +179,7 @@
 - [pingcap/tiflash](https://github.com/pingcap/tiflash) - The analytical engine for TiDB and TiDB Cloud. Try free: https://tidbcloud.com/free-trial
 - [4paradigm/OpenMLDB](https://github.com/4paradigm/OpenMLDB) - OpenMLDB is an open-source machine learning database that provides a feature platform computing consistent features for training and inference.
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
-- [rui314/mold](https://github.com/rui314/mold) - Mold: A Modern Linker 🦠
+- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
@@ -655,6 +655,7 @@
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - cooking...
 - [nickcoutsos/keymap-editor](https://github.com/nickcoutsos/keymap-editor) - A web based graphical editor of ZMK keymaps.
 - [FredTingaud/quick-bench-front-end](https://github.com/FredTingaud/quick-bench-front-end) - Front end side of quick-bench
+- [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - teleconferencing system written in rust
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [t0t07/misbrands](https://github.com/t0t07/misbrands) - Silly icons that only geeks understand.
 - [t0t07/howXdoY](https://github.com/t0t07/howXdoY) - A minimal site that Googles how selected tech companies design a system.
@@ -690,6 +691,7 @@
 - [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
 - [Briles/gruvbox](https://github.com/Briles/gruvbox) - 🎨 Sublime Text themes & color schemes with pastel 'retro groove' colors
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
+- [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans
 - [geeeeeeeeek/electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) - :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
 - [apachecn/apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) - ApacheCN 数据结构与算法译文集
@@ -880,7 +882,7 @@
 - [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - The fastest Neovim colorizer.
 - [gepandz/tree-cleaner](https://github.com/gepandz/tree-cleaner) - Factorio mod, written in LUA, that marks dead trees for deconstruction
 - [npo6ka/FNEI](https://github.com/npo6ka/FNEI) - Factorio NEI
-- [raiguard/EditorExtensions](https://github.com/raiguard/EditorExtensions) - Extends the Factorio map editor with new features, testing tools, and other utilities to aid with sandbox play and scenario creation.
+- [raiguard/EditorExtensions](https://github.com/raiguard/EditorExtensions) - This project has migrated to Codeberg.
 - [0ptera/Logistic-Train-Network](https://github.com/0ptera/Logistic-Train-Network) - Factorio mod adding logistic network for trains.
 - [nihilistzsche/LtnManager](https://github.com/nihilistzsche/LtnManager) - A GUI for managing your Logistic Train Network. A mod for Factorio.
 - [Klonan/Transport_Drones](https://github.com/Klonan/Transport_Drones) - Mod for Factorio
@@ -907,7 +909,7 @@
 ## Markdown 
 
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
-- [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2024 edition 施工中）
+- [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2024 edition 施工完毕）
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
@@ -1101,7 +1103,7 @@
 - [Diaoul/subliminal](https://github.com/Diaoul/subliminal) - Subtitles, faster than your thoughts
 - [elastic/helm-charts](https://github.com/elastic/helm-charts) - You know, for Kubernetes
 - [rfancn/aliyun-ddns-client](https://github.com/rfancn/aliyun-ddns-client) - Python DDNS client for Aliyun
-- [NewFuture/DDNS](https://github.com/NewFuture/DDNS) - :triangular_flag_on_post: 自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...)
+- [NewFuture/DDNS](https://github.com/NewFuture/DDNS) - 🌐自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...)
 - [pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
 - [rwv/chinese-dos-games](https://github.com/rwv/chinese-dos-games) - 🎮 Chinese DOS games collections.
 - [pjialin/py12306](https://github.com/pjialin/py12306) - 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
@@ -1216,7 +1218,7 @@
 - [LGFae/swww](https://github.com/LGFae/swww) - A Solution to your Wayland Wallpaper Woes
 - [Layamon/filldata](https://github.com/Layamon/filldata) - a tools for generating random data for random table schema in PostgreSQL
 - [BurntSushi/bstr](https://github.com/BurntSushi/bstr) - A string type for Rust that is not required to be valid UTF-8.
-- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the modern evolution of SQLite.
+- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the next evolution of SQLite.
 - [mlua-rs/mlua](https://github.com/mlua-rs/mlua) - High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) and Luau bindings to Rust with async/await support
 - [codesnap-rs/codesnap](https://github.com/codesnap-rs/codesnap) - 🦀️📸 Pure Rust tool to generate beautiful code snapshots, provide CLI and Library
 - [indexmap-rs/indexmap](https://github.com/indexmap-rs/indexmap) - A hash table with consistent order and fast iteration; access items by key or sequence index
@@ -1356,7 +1358,6 @@
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
 - [clitic/kdam](https://github.com/clitic/kdam) - A console progress bar library for Rust. (inspired by tqdm & rich.progress)
 - [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb) - rust wrapper for rocksdb
-- [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - teleconferencing system written in rust
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [dcchut/async-recursion](https://github.com/dcchut/async-recursion) - Procedural macro for recursive async functions
 - [softprops/atty](https://github.com/softprops/atty) - are you or are you not a tty?
