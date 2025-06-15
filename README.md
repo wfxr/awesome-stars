@@ -652,7 +652,6 @@
 
 ## JavaScript 
 
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - cooking...
 - [nickcoutsos/keymap-editor](https://github.com/nickcoutsos/keymap-editor) - A web based graphical editor of ZMK keymaps.
 - [FredTingaud/quick-bench-front-end](https://github.com/FredTingaud/quick-bench-front-end) - Front end side of quick-bench
 - [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - teleconferencing system written in rust
@@ -1154,6 +1153,7 @@
 
 ## QML 
 
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Dotfiles built for usability
 - [vinceliuice/Canta-kde](https://github.com/vinceliuice/Canta-kde) - Canta theme for kde plasma desktop
 - [MarianArlt/sddm-sugar-dark](https://github.com/MarianArlt/sddm-sugar-dark) - The sweetest dark theme around for SDDM, the Simple Desktop Display Manager.
 - [MarianArlt/kde-plasma-chili](https://github.com/MarianArlt/kde-plasma-chili) - The hottest login theme around for KDE Plasma 5
