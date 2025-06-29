@@ -1154,7 +1154,7 @@
 
 ## QML 
 
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Dotfiles built for usability
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Rice built for usability
 - [vinceliuice/Canta-kde](https://github.com/vinceliuice/Canta-kde) - Canta theme for kde plasma desktop
 - [MarianArlt/sddm-sugar-dark](https://github.com/MarianArlt/sddm-sugar-dark) - The sweetest dark theme around for SDDM, the Simple Desktop Display Manager.
 - [MarianArlt/kde-plasma-chili](https://github.com/MarianArlt/kde-plasma-chili) - The hottest login theme around for KDE Plasma 5
@@ -1219,7 +1219,7 @@
 - [LGFae/swww](https://github.com/LGFae/swww) - A Solution to your Wayland Wallpaper Woes
 - [Layamon/filldata](https://github.com/Layamon/filldata) - a tools for generating random data for random table schema in PostgreSQL
 - [BurntSushi/bstr](https://github.com/BurntSushi/bstr) - A string type for Rust that is not required to be valid UTF-8.
-- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the next evolution of SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso Database is a project to build the next evolution of SQLite.
 - [mlua-rs/mlua](https://github.com/mlua-rs/mlua) - High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) and Luau bindings to Rust with async/await support
 - [codesnap-rs/codesnap](https://github.com/codesnap-rs/codesnap) - 🦀️📸 Pure Rust tool to generate beautiful code snapshots, provide CLI and Library
 - [indexmap-rs/indexmap](https://github.com/indexmap-rs/indexmap) - A hash table with consistent order and fast iteration; access items by key or sequence index
@@ -1793,7 +1793,7 @@
 - [DavidBM/rust-webserver-example-with-iron-diesel-r2d2-serde](https://github.com/DavidBM/rust-webserver-example-with-iron-diesel-r2d2-serde) - Rust Web server example using Iron, R2d2 Diesel and Serde json
 - [iron/router](https://github.com/iron/router) - Router middleware for the Iron web framework.
 - [hyperium/mime](https://github.com/hyperium/mime) - MIMEs in Rust
-- [time-rs/time](https://github.com/time-rs/time) - The most used Rust library for date and time handling.
+- [time-rs/time](https://github.com/time-rs/time) - Date and time handling in Rust.
 - [benashford/rs-es](https://github.com/benashford/rs-es) - A Rust client for the ElasticSearch REST API
 - [elastic-rs/elastic](https://github.com/elastic-rs/elastic) - An Elasticsearch REST API client for Rust
 - [skade/hyper-server](https://github.com/skade/hyper-server) - 
