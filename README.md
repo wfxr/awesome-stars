@@ -654,7 +654,6 @@
 
 - [nickcoutsos/keymap-editor](https://github.com/nickcoutsos/keymap-editor) - A web based graphical editor of ZMK keymaps.
 - [FredTingaud/quick-bench-front-end](https://github.com/FredTingaud/quick-bench-front-end) - Front end side of quick-bench
-- [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - teleconferencing system written in rust
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [t0t07/misbrands](https://github.com/t0t07/misbrands) - Silly icons that only geeks understand.
 - [t0t07/howXdoY](https://github.com/t0t07/howXdoY) - A minimal site that Googles how selected tech companies design a system.
@@ -676,7 +675,6 @@
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [yuta0801/factorio-mods-sync](https://github.com/yuta0801/factorio-mods-sync) - Synchronize mods with the Factorio server
 - [ricklamers/gridstudio](https://github.com/ricklamers/gridstudio) - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
-- [FactorioBlueprints/factorio-prints](https://github.com/FactorioBlueprints/factorio-prints) - factorioprints.com
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
 - [streamich/git-cz](https://github.com/streamich/git-cz) - Semantic Git commits
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
@@ -937,7 +935,7 @@
 - [jonhoo/rust-ci-conf](https://github.com/jonhoo/rust-ci-conf) - Collection of CI configuration files for Rust projects
 - [Xuyuanp/zmk-config](https://github.com/Xuyuanp/zmk-config) - 
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [rust-fuzz/trophy-case](https://github.com/rust-fuzz/trophy-case) - 🏆 Collection of bugs uncovered by fuzzing Rust code
 - [oom-ai/tidb-hackathon-2021](https://github.com/oom-ai/tidb-hackathon-2021) - 
 - [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
@@ -1359,6 +1357,7 @@
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
 - [clitic/kdam](https://github.com/clitic/kdam) - A console progress bar library for Rust. (inspired by tqdm & rich.progress)
 - [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb) - rust wrapper for rocksdb
+- [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - teleconferencing system written in rust
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [dcchut/async-recursion](https://github.com/dcchut/async-recursion) - Procedural macro for recursive async functions
 - [softprops/atty](https://github.com/softprops/atty) - are you or are you not a tty?
@@ -2050,6 +2049,7 @@
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [clusterio/clusterio](https://github.com/clusterio/clusterio) - internet communication for factorio mods
 - [teoxoy/factorio-blueprint-editor](https://github.com/teoxoy/factorio-blueprint-editor) - A feature-rich Factorio Blueprint Editor
+- [FactorioBlueprints/factorio-prints](https://github.com/FactorioBlueprints/factorio-prints) - factorioprints.com
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [deniszholob/factorio-cheat-sheet](https://github.com/deniszholob/factorio-cheat-sheet) - Cheat Sheet for Factorio
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
