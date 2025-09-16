@@ -1886,7 +1886,7 @@
 - [DhavalKapil/luaver](https://github.com/DhavalKapil/luaver) - Lua Version Manager - Managing and switching between different versions of Lua, LuaJIT and Luarocks made easy
 - [KSXGitHub/github-actions-deploy-aur](https://github.com/KSXGitHub/github-actions-deploy-aur) - GitHub Actions to publish AUR package
 - [huan/docker-wechat](https://github.com/huan/docker-wechat) - DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
+- [nikitavoloboev/myworkflow](https://github.com/nikitavoloboev/myworkflow) - Place to share what you use. Apps/CLIs/Libraries/Configs/..
 - [archlinuxcn/repo](https://github.com/archlinuxcn/repo) - Arch Linux CN Repository
 - [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) - 
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
@@ -2214,7 +2214,7 @@
 - [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
 - [xieyuheng/luoxu-search](https://github.com/xieyuheng/luoxu-search) - 
 - [Rocket1184/electron-netease-cloud-music](https://github.com/Rocket1184/electron-netease-cloud-music) - UNOFFICIAL client for music.163.com. Powered by Electron and Vue
-- [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail) - UI Email Signature Generator - Make easy to create your email signature
+- [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail) - An open-source email signature generator for Gmail, Outlook, Apple Mail, etc.
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 
 ## Zig 
