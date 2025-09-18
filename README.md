@@ -244,7 +244,6 @@
 
 - [MrVivekRajan/Hypr-Dots](https://github.com/MrVivekRajan/Hypr-Dots) - Themes for Hyprland WM
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
-- [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 - [davatorium/rofi-themes](https://github.com/davatorium/rofi-themes) - Themes for Rofi
 - [adben/config](https://github.com/adben/config) - config files
@@ -875,6 +874,7 @@
 - [streetturtle/awesome-wm-widgets](https://github.com/streetturtle/awesome-wm-widgets) - Widgets for Awesome Window Manager
 - [Seancheey/FactorioBlueprinter](https://github.com/Seancheey/FactorioBlueprinter) - This factorio mod helps you create crafting blueprints easily by selecting inputs and outputs
 - [Seancheey/FactorioBeltRouter](https://github.com/Seancheey/FactorioBeltRouter) - This Factorio mod allows you to route belts/pipes automatically using A-star/Dijkstra algorithms. (Algorithms will be eventually migrated to MiscLib repo)
+- [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
 - [Xuyuanp/yanil](https://github.com/Xuyuanp/yanil) - Yet Another Nerdtree In Lua
 - [Xuyuanp/scrollbar.nvim](https://github.com/Xuyuanp/scrollbar.nvim) - scrollbar for neovim
 - [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - The fastest Neovim colorizer.
