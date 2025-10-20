@@ -609,7 +609,6 @@
 - [MCMicS/jenkins-control-plugin](https://github.com/MCMicS/jenkins-control-plugin) - Jenkins integration in IDEA Platforms
 - [jline/jline3](https://github.com/jline/jline3) - JLine is a Java library for handling console input.
 - [mabe02/lanterna](https://github.com/mabe02/lanterna) - Java library for creating text-based GUIs
-- [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [ctongfei/progressbar](https://github.com/ctongfei/progressbar) - Terminal-based progress bar for Java / JVM
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [uber-archive/rave](https://github.com/uber-archive/rave) - A data model validation framework that uses java annotation processing.
@@ -976,6 +975,7 @@
 - [dtolnay/rust-faq](https://github.com/dtolnay/rust-faq) - Frequently Asked Questions · The Rust Programming Language
 - [Kotlin/kotlin-examples](https://github.com/Kotlin/kotlin-examples) - Various examples for Kotlin
 - [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)
+- [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [17mon/china_ip_list](https://github.com/17mon/china_ip_list) - 
 - [iMeiji/shadowsocks_install](https://github.com/iMeiji/shadowsocks_install) - Auto install shadowsocks server，thanks 秋水逸冰
