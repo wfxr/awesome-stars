@@ -897,6 +897,7 @@
 - [ClaudeMetz/FactoryPlanner](https://github.com/ClaudeMetz/FactoryPlanner) - A mod for Factorio. Allows you to plan out your production in detail.
 - [MagmaMcFry/Factorissimo2](https://github.com/MagmaMcFry/Factorissimo2) - Factorissimo2, a Factorio mod that adds factory buildings to the game
 - [clojure-vim/acid.nvim](https://github.com/clojure-vim/acid.nvim) - Asynchronous Clojure Interactive Development
+- [babarot/dotfiles](https://github.com/babarot/dotfiles) - A repository that gathered files starting with dot
 
 ## Makefile 
 
@@ -1984,7 +1985,6 @@
 - [Fakerr/git-recall](https://github.com/Fakerr/git-recall) - An interactive way to peruse your git history from the terminal
 - [babarot/git-switch](https://github.com/babarot/git-switch) - 
 - [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
-- [babarot/dotfiles](https://github.com/babarot/dotfiles) - A repository that gathered files starting with dot
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
@@ -2014,7 +2014,7 @@
 
 ## TypeScript 
 
-- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – A compact, deterministic JSON format for LLM prompts. Spec, benchmarks, TypeScript SDK.
+- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [toppair/peek.nvim](https://github.com/toppair/peek.nvim) - Markdown preview plugin for Neovim
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
