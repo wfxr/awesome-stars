@@ -583,7 +583,6 @@
 ## Haskell 
 
 - [erebe/greenclip](https://github.com/erebe/greenclip) - Simple clipboard manager to be integrated with rofi - Static binary available
-- [rmehri01/thock](https://github.com/rmehri01/thock) - ⌨️ A modern TUI typing game featuring online racing against friends.
 - [haskell/haskell-ide-engine](https://github.com/haskell/haskell-ide-engine) - The engine for haskell ide-integration. Not an IDE
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [Gabriella439/bench](https://github.com/Gabriella439/bench) - Command-line benchmark tool
