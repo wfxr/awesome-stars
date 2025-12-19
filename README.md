@@ -750,7 +750,7 @@
 
 ## Kotlin 
 
-- [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
+- [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 - [andygrove/how-query-engines-work](https://github.com/andygrove/how-query-engines-work) - This is the companion repository for the book How Query Engines Work.
 - [ephemient/aoc2021](https://github.com/ephemient/aoc2021) - Advent of Code 2021 - my answers
 - [streem/pbandk](https://github.com/streem/pbandk) - Kotlin Multiplatform Code Generator and Runtime for Protocol Buffers (Protobuf)
