@@ -570,7 +570,7 @@
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
 - [llimllib/bloomfilter-tutorial](https://github.com/llimllib/bloomfilter-tutorial) - A Bloom Filter Tutorial
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
-- [HugoBlox/kit](https://github.com/HugoBlox/kit) - ⚡ HugoBlox Kit: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. Premium templates. Deploy to GitHub Pages now in 1-click 👇
+- [HugoBlox/kit](https://github.com/HugoBlox/kit) - ⚡ The Open Research Copilot. Build high-perf Portfolios, Lab Sites & Docs in Markdown + Jupyter. 100% Data Control. 🦫 数据科学家的开源 Copilot。一键部署 👇
 - [Pragmatists/JUnitParams](https://github.com/Pragmatists/JUnitParams) - Parameterised tests that don't suck
 - [rohanchandra/type-theme](https://github.com/rohanchandra/type-theme) - A free and open-source Jekyll theme with responsive design. Great for blogs and easy to customize.
 
@@ -1613,7 +1613,7 @@
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
 - [EmbarkStudios/rust-gpu](https://github.com/EmbarkStudios/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
 - [google/vimscript-language-server](https://github.com/google/vimscript-language-server) - 
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Project level config for insanely fast feedback loops
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Everything you need to move your project faster
 - [colin-kiegel/rust-derive-builder](https://github.com/colin-kiegel/rust-derive-builder) - derive builder implementation for rust structs
 - [alexwennerberg/json2csv](https://github.com/alexwennerberg/json2csv) - Convert JSON to CSV in Rust
 - [oppiliappan/eva](https://github.com/oppiliappan/eva) - a calculator REPL, similar to bc(1)
