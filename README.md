@@ -51,7 +51,6 @@
 - [Python](#python)
 - [QML](#qml)
 - [Reason](#reason)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -1171,10 +1170,6 @@
 
 - [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 
-## Roff 
-
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
-
 ## Ruby 
 
 - [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
@@ -1947,6 +1942,7 @@
 - [yangchuansheng/love-gfw](https://github.com/yangchuansheng/love-gfw) - 🔥以社会主义核心价值观为指导思想，实现 Linux 和 MacOS 设备的全局智能分流
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [mrowa44/emojify](https://github.com/mrowa44/emojify) - Emoji on the command line :scream:
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [ninjudd/drip](https://github.com/ninjudd/drip) - Fast JVM launching without the hassle of persistent JVMs.
 - [oblique/create_ap](https://github.com/oblique/create_ap) - [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
