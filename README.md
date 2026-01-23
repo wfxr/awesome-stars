@@ -699,7 +699,7 @@
 - [sw-jung/kibana_notification_center](https://github.com/sw-jung/kibana_notification_center) - This plugin helps you to use kibana's notifications more usefully.
 - [sw-jung/kibana_markdown_doc_view](https://github.com/sw-jung/kibana_markdown_doc_view) - A plugin for custom doc view using markdown+handlebars template.
 - [datasweet/kibana-datasweet-formula](https://github.com/datasweet/kibana-datasweet-formula) - This Kibana plugin allows calculated metrics on any standard kibana visualizations.
-- [overcache/VRouter](https://github.com/overcache/VRouter) - 一个基于 VirtualBox 和 openwrt 构建的项目, 旨在实现 macOS / Windows 平台的透明代理.
+- [Lanxox/VRouter](https://github.com/Lanxox/VRouter) - 一个基于 VirtualBox 和 openwrt 构建的项目, 旨在实现 macOS / Windows 平台的透明代理.
 - [algolia/github-awesome-autocomplete](https://github.com/algolia/github-awesome-autocomplete) - :octocat: Add instant search capabilities to GitHub's search bar
 - [softvar/enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Browser extension to display size of each file, download link and copy file contents directly to the clipboard
 - [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks) - 💚 🍴 Show notable forks of GitHub repositories under their names.
