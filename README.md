@@ -1214,6 +1214,8 @@
 
 ## Rust 
 
+- [agavra/tuicr](https://github.com/agavra/tuicr) - A human-in-the-loop code review TUI for AI-generated changes.
+- [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler) - Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.
 - [leiysky/recall](https://github.com/leiysky/recall) - 
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A drop-in, 5-20x faster, experimental Homebrew alternative
 - [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) - A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.
