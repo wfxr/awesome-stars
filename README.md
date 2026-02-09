@@ -200,7 +200,7 @@
 - [google/s2geometry](https://github.com/google/s2geometry) - Computational geometry and spatial indexing on the sphere
 - [chenshuo/recipes](https://github.com/chenshuo/recipes) - Some code snippets for sharing
 - [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project
-- [tsujan/Kvantum](https://github.com/tsujan/Kvantum) - A Linux SVG-based theme engine for Qt and KDE
+- [tsujan/Kvantum](https://github.com/tsujan/Kvantum) - A Linux SVG-based theme engine for Qt
 - [ycm-core/ycmd](https://github.com/ycm-core/ycmd) - A code-completion & code-comprehension server
 - [danmar/cppcheck](https://github.com/danmar/cppcheck) - static analysis of C/C++ code
 - [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
