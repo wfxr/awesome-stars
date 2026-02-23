@@ -1161,7 +1161,7 @@
 
 ## QML 
 
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles that does not use 100 bash scripts
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
 - [vinceliuice/Canta-kde](https://github.com/vinceliuice/Canta-kde) - Canta theme for kde plasma desktop
 - [MarianArlt/sddm-sugar-dark](https://github.com/MarianArlt/sddm-sugar-dark) - The sweetest dark theme around for SDDM, the Simple Desktop Display Manager.
 - [MarianArlt/kde-plasma-chili](https://github.com/MarianArlt/kde-plasma-chili) - The hottest login theme around for KDE Plasma 5
