@@ -1643,7 +1643,7 @@
 - [colored-rs/colored](https://github.com/colored-rs/colored) - (Rust) Coloring terminal so simple you already know how to do it !
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand) - Subcommand to show result of macro expansion
-- [oliver-giersch/closure](https://github.com/oliver-giersch/closure) - A macro wrapping Rust closure calls that allows for capturing variables in scope on an individual bases.
+- [ethanlipson/closure](https://github.com/ethanlipson/closure) - A macro wrapping Rust closure calls that allows for capturing variables in scope on an individual bases.
 - [cjbassi/ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
 - [smol-rs/async-channel](https://github.com/smol-rs/async-channel) - Async multi-producer multi-consumer channel
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
