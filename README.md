@@ -1310,7 +1310,7 @@
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [blyxxyz/lexopt](https://github.com/blyxxyz/lexopt) - Minimalist pedantic command line parser
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
-- [tcdi/plrust](https://github.com/tcdi/plrust) - A Rust procedural language handler for PostgreSQL
+- [pgcentralfoundation/plrust](https://github.com/pgcentralfoundation/plrust) - A Rust procedural language handler for PostgreSQL
 - [boustrophedon/pgtemp](https://github.com/boustrophedon/pgtemp) - Rust library and daemon for easily starting postgres databases per-test without Docker
 - [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
 - [mike-lloyd03/rudric](https://github.com/mike-lloyd03/rudric) - The Keeper of Secrets
@@ -1363,7 +1363,7 @@
 - [sitkevij/hex](https://github.com/sitkevij/hex) - 🔮 Futuristic take on hexdump, made in Rust.
 - [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A course of building an LSM-Tree storage engine (database) in a week.
 - [rizsotto/Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming.
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - One database for metrics, logs, and traces. The unified OpenTelemetry  backend that replaces Prometheus, Loki, and ES — with SQL + PromQL  on object storage.
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
 - [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust!
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
@@ -1498,7 +1498,7 @@
 - [shuttle-hq/synth](https://github.com/shuttle-hq/synth) - The Declarative Data Generator
 - [datanymizer/datanymizer](https://github.com/datanymizer/datanymizer) - Powerful database anonymizer with flexible rules. Written in Rust.
 - [ihciah/clean-dns-bpf](https://github.com/ihciah/clean-dns-bpf) - 基于 Rust + eBPF 丢弃 GFW DNS 污染包
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The live data layer for apps and AI agents Create up-to-the-second views into your business, just using SQL
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The live data layer for apps and AI agents. Create up-to-the-second views into your business, just using SQL
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
 - [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
