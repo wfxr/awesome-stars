@@ -536,7 +536,7 @@
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager
 - [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
 - [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
-- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [babarot/gomi](https://github.com/babarot/gomi) - 🗑️ Your UNIX rm command with a safety net!
 - [babarot/gist](https://github.com/babarot/gist) - :octocat: A simple gist editor for CLI
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
@@ -557,6 +557,7 @@
 
 ## HTML 
 
+- [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 - [frainzy1477/luci-app-clash](https://github.com/frainzy1477/luci-app-clash) - Luci interface for Clash Openwrt
 - [zzy/this-week-in-rust-zh-cn](https://github.com/zzy/this-week-in-rust-zh-cn) - Rust 官方周报（简体中文版）
 - [cch123/golang-notes](https://github.com/cch123/golang-notes) - Go source code analysis(zh-cn)
@@ -577,7 +578,7 @@
 
 ## Handlebars 
 
-- [OpenGenesisLab/beat-ai](https://github.com/OpenGenesisLab/beat-ai) - 🚀 Beat AI 简报: 持续分享 AI 领域的关键进展，帮你征服 AI，Just beat it!  欢迎 star 订阅.
+- [genesislab-ai/beat-ai](https://github.com/genesislab-ai/beat-ai) - 🚀 Beat AI 简报: 持续分享 AI 领域的关键进展，帮你征服 AI，Just beat it!  欢迎 star 订阅.
 - [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 
 ## Haskell 
@@ -1881,6 +1882,7 @@
 
 ## Shell 
 
+- [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [nodejs/unofficial-builds](https://github.com/nodejs/unofficial-builds) - Unofficial binaries for Node.js
 - [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots) - // Aesthetic, dynamic and minimal dots for Arch hyprland
 - [folke/dot](https://github.com/folke/dot) - ☕️   My Dot Files
