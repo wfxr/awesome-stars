@@ -577,7 +577,7 @@
 
 ## Handlebars 
 
-- [beatai-org/BeatAI](https://github.com/beatai-org/BeatAI) - 专属于软件开发工程师的 AI 宝典。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
+- [beatai-org/BeatAI](https://github.com/beatai-org/BeatAI) - 一个简单有趣纯粹的 AI 学习社区，点击试试👇
 - [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 
 ## Haskell 
