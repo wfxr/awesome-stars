@@ -654,7 +654,7 @@
 - [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) - 分流规则、重写写规则及脚本。
 - [nickcoutsos/keymap-editor](https://github.com/nickcoutsos/keymap-editor) - A web based graphical editor of ZMK keymaps.
 - [FredTingaud/quick-bench-front-end](https://github.com/FredTingaud/quick-bench-front-end) - Front end side of quick-bench
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [t0t07/misbrands](https://github.com/t0t07/misbrands) - Silly icons that only geeks understand.
 - [t0t07/howXdoY](https://github.com/t0t07/howXdoY) - A minimal site that Googles how selected tech companies design a system.
 - [wip/app](https://github.com/wip/app) - The WIP GitHub App
