@@ -1448,7 +1448,7 @@
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [tokio-rs/async-stream](https://github.com/tokio-rs/async-stream) - Asynchronous streams for Rust using async & await notation
 - [eyre-rs/color-eyre](https://github.com/eyre-rs/color-eyre) - Custom hooks for colorful human oriented error reports via panics and the eyre crate
-- [weiznich/diesel_async](https://github.com/weiznich/diesel_async) - Diesel async connection implementation
+- [diesel-rs/diesel_async](https://github.com/diesel-rs/diesel_async) - Diesel async connection implementation
 - [camino-rs/camino](https://github.com/camino-rs/camino) - Like Rust's std::path::Path, but UTF-8.
 - [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
 - [dtolnay/prettyplease](https://github.com/dtolnay/prettyplease) - A minimal `syn` syntax tree pretty-printer
