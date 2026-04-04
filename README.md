@@ -21,6 +21,7 @@
 - [Dockerfile](#dockerfile)
 - [Emacs Lisp](#emacs-lisp)
 - [F#](#f#)
+- [Fluent](#fluent)
 - [FreeMarker](#freemarker)
 - [Go](#go)
 - [Groovy](#groovy)
@@ -337,6 +338,10 @@
 ## F# # 
 
 - [fsprojects/Paket](https://github.com/fsprojects/Paket) - A dependency manager for .NET with support for NuGet packages and Git repositories.
+
+## Fluent 
+
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 
 ## FreeMarker 
 
@@ -1542,7 +1547,6 @@
 - [benhoyt/countwords](https://github.com/benhoyt/countwords) - Playing with counting word frequencies (and performance) in various languages.
 - [dtolnay/quote](https://github.com/dtolnay/quote) - Rust quasi-quoting
 - [dtolnay/syn](https://github.com/dtolnay/syn) - Parser for Rust source code
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [rust-lang/rustfix](https://github.com/rust-lang/rustfix) - Automatically apply the suggestions made by rustc
 - [est31/cargo-udeps](https://github.com/est31/cargo-udeps) - Find unused dependencies in Cargo.toml
