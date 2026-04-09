@@ -2225,7 +2225,7 @@
 - [kana/vim-operator-user](https://github.com/kana/vim-operator-user) - Vim plugin: Define your own operator easily
 - [Shougo/unite.vim](https://github.com/Shougo/unite.vim) - :dragon: Unite and create user interfaces
 - [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
-- [mattn/calendar-vim](https://github.com/mattn/calendar-vim) - calendar vimscript
+- [mattn/calendar-vim](https://github.com/mattn/calendar-vim) - A calendar window for Vim
 
 ## Vim Snippet 
 
