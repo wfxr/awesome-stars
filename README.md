@@ -1938,7 +1938,7 @@
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [ymgenesis/sshsetup](https://github.com/ymgenesis/sshsetup) - An interactive bash script that automates the setup of ssh configurations through user interaction.
-- [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
+- [nextcloud/docker](https://github.com/nextcloud/docker) - A community maintained docker micro-image for deploying Nextcloud on container platforms
 - [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) - This tool is used to install `pyenv` and friends.
 - [yardnsm/tmux-1password](https://github.com/yardnsm/tmux-1password) - :key: Access your 1Password login items within tmux!
 - [goreliu/zshguide](https://github.com/goreliu/zshguide) - Zsh 开发指南
