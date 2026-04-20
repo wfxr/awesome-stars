@@ -36,6 +36,7 @@
 - [Just](#just)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nim](#nim)
@@ -248,7 +249,6 @@
 - [junegunn/vim-xmark](https://github.com/junegunn/vim-xmark) - Live markdown preview for Vim on macOS (UNMAINTAINED; see https://github.com/iamcco/markdown-preview.nvim)
 - [xtyxtyx/sorry](https://github.com/xtyxtyx/sorry) - 在线制作`sorry 为所欲为`的gif
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
-- [vorillaz/devicons](https://github.com/vorillaz/devicons) - devicons - Crisp and clear logos & icons for developers.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [vinceliuice/Vimix-gtk-themes](https://github.com/vinceliuice/Vimix-gtk-themes) - Vimix is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell etc.
 - [mozilla/Fira](https://github.com/mozilla/Fira) - Mozilla's new typeface, used in Firefox OS
@@ -570,7 +570,7 @@
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
 - [llimllib/bloomfilter-tutorial](https://github.com/llimllib/bloomfilter-tutorial) - A Bloom Filter Tutorial
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
-- [HugoBlox/kit](https://github.com/HugoBlox/kit) - ⚡ The Open Research Copilot. Build high-perf Portfolios, Lab Sites & Docs in Markdown + Jupyter. 100% Data Control. 🦫 数据科学家的开源 Copilot。一键部署 👇
+- [HugoBlox/kit](https://github.com/HugoBlox/kit) - 🧱 Describe your site, AI builds it, you own it as Markdown. Snap together Tailwind blocks like Lego — landing pages, blogs, portfolios, docs & more. No AI slop. Free to deploy anywhere 👇
 - [Pragmatists/JUnitParams](https://github.com/Pragmatists/JUnitParams) - Parameterised tests that don't suck
 - [rohanchandra/type-theme](https://github.com/rohanchandra/type-theme) - A free and open-source Jekyll theme with responsive design. Great for blogs and easy to customize.
 
@@ -896,8 +896,13 @@
 - [Scarabytes/FactorioRealisticElectricTrains](https://github.com/Scarabytes/FactorioRealisticElectricTrains) - A mod for the game Factorio that adds electric trains.
 - [ClaudeMetz/FactoryPlanner](https://github.com/ClaudeMetz/FactoryPlanner) - A mod for Factorio. Allows you to plan out your production in detail.
 - [MagmaMcFry/Factorissimo2](https://github.com/MagmaMcFry/Factorissimo2) - Factorissimo2, a Factorio mod that adds factory buildings to the game
+- [wakatime/vim-wakatime](https://github.com/wakatime/vim-wakatime) - Vim plugin for automatic time tracking and metrics generated from your programming activity.
 - [clojure-vim/acid.nvim](https://github.com/clojure-vim/acid.nvim) - Asynchronous Clojure Interactive Development
 - [babarot/dotfiles](https://github.com/babarot/dotfiles) - A repository that gathered files starting with dot
+
+## MDX 
+
+- [vorillaz/devicons](https://github.com/vorillaz/devicons) - devicons - Crisp and clear logos & icons for developers.
 
 ## Makefile 
 
@@ -2198,7 +2203,6 @@
 - [junegunn/gv.vim](https://github.com/junegunn/gv.vim) - A git commit browser in Vim
 - [junegunn/vim-peekaboo](https://github.com/junegunn/vim-peekaboo) - :eyes: " / @ / CTRL-R
 - [junegunn/vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
-- [wakatime/vim-wakatime](https://github.com/wakatime/vim-wakatime) - Vim plugin for automatic time tracking and metrics generated from your programming activity.
 - [mattn/vim-xxdcursor](https://github.com/mattn/vim-xxdcursor) - 
 - [mattn/vim-fixedsearch](https://github.com/mattn/vim-fixedsearch) - 
 - [innerand/rust.vim](https://github.com/innerand/rust.vim) - Vim configuration for Rust.
