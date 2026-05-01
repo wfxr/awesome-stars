@@ -870,7 +870,6 @@
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
-- [tversteeg/registers.nvim](https://github.com/tversteeg/registers.nvim) - 📑 Neovim plugin to preview the contents of the registers
 - [LuaLS/lua-language-server](https://github.com/LuaLS/lua-language-server) - A language server that offers Lua language support - programmed in Lua
 - [streetturtle/awesome-wm-widgets](https://github.com/streetturtle/awesome-wm-widgets) - Widgets for Awesome Window Manager
 - [Seancheey/FactorioBlueprinter](https://github.com/Seancheey/FactorioBlueprinter) - This factorio mod helps you create crafting blueprints easily by selecting inputs and outputs
@@ -1388,7 +1387,7 @@
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
 - [tafia/calamine](https://github.com/tafia/calamine) - A pure Rust Excel/OpenDocument SpreadSheets file reader: rust on metal sheets
 - [pikkr/pikkr](https://github.com/pikkr/pikkr) - JSON parser which picks up values directly without performing tokenization in Rust
-- [mmastrac/rust-ctor](https://github.com/mmastrac/rust-ctor) - Module initialization/global constructor functions for Rust
+- [mmastrac/linktime](https://github.com/mmastrac/linktime) - Module initialization/global constructor functions for Rust
 - [PsiACE/databend-internals](https://github.com/PsiACE/databend-internals) - Databend 内幕大揭秘
 - [dtolnay/rust-quiz](https://github.com/dtolnay/rust-quiz) - Medium to hard Rust questions with explanations
 - [JakWai01/lurk](https://github.com/JakWai01/lurk) - A pretty (simple) alternative to strace.
@@ -1948,7 +1947,7 @@
 - [yardnsm/tmux-1password](https://github.com/yardnsm/tmux-1password) - :key: Access your 1Password login items within tmux!
 - [goreliu/zshguide](https://github.com/goreliu/zshguide) - Zsh 开发指南
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
-- [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
+- [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - ACME client implemented as a simple shell-script – just add water
 - [yangchuansheng/love-gfw](https://github.com/yangchuansheng/love-gfw) - 🔥以社会主义核心价值观为指导思想，实现 Linux 和 MacOS 设备的全局智能分流
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [mrowa44/emojify](https://github.com/mrowa44/emojify) - Emoji on the command line :scream:
