@@ -842,7 +842,6 @@
 - [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box
 - [mason-org/mason-lspconfig.nvim](https://github.com/mason-org/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
 - [Xuyuanp/neochat.nvim](https://github.com/Xuyuanp/neochat.nvim) - ChatGPT in neovim
-- [hadronized/mind.nvim](https://github.com/hadronized/mind.nvim) - The power of trees at your fingertips.
 - [ojroques/nvim-osc52](https://github.com/ojroques/nvim-osc52) - A Neovim plugin to copy text through SSH with OSC52
 - [MunifTanjim/exrc.nvim](https://github.com/MunifTanjim/exrc.nvim) - Secure Project Local Config for Neovim
 - [jbyuki/venn.nvim](https://github.com/jbyuki/venn.nvim) - Draw ASCII diagrams in Neovim
@@ -1000,7 +999,6 @@
 - [wzb56/13_questions_of_shell](https://github.com/wzb56/13_questions_of_shell) - shell十三问--shell教程（markdown 版本）
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [robcowart/kibana_plugins_list](https://github.com/robcowart/kibana_plugins_list) - A list of Kibana Plugins
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - Reliable UDP Transmission Optimizer based on KCP: Enhancing network efficiency in poor connectivity environments.
 - [herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
 - [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [alevchuk/vim-clutch](https://github.com/alevchuk/vim-clutch) - A hardware pedal for improved text editing in Vim
@@ -1387,7 +1385,7 @@
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
 - [tafia/calamine](https://github.com/tafia/calamine) - A pure Rust Excel/OpenDocument SpreadSheets file reader: rust on metal sheets
 - [pikkr/pikkr](https://github.com/pikkr/pikkr) - JSON parser which picks up values directly without performing tokenization in Rust
-- [mmastrac/linktime](https://github.com/mmastrac/linktime) - Module initialization/global constructor functions for Rust
+- [mmastrac/linktime](https://github.com/mmastrac/linktime) - Link-time initialization, destruction, scattered data collection macros for Rust
 - [PsiACE/databend-internals](https://github.com/PsiACE/databend-internals) - Databend 内幕大揭秘
 - [dtolnay/rust-quiz](https://github.com/dtolnay/rust-quiz) - Medium to hard Rust questions with explanations
 - [JakWai01/lurk](https://github.com/JakWai01/lurk) - A pretty (simple) alternative to strace.
