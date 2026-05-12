@@ -653,7 +653,6 @@
 - [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) - 分流规则、重写写规则及脚本。
 - [nickcoutsos/keymap-editor](https://github.com/nickcoutsos/keymap-editor) - A web based graphical editor of ZMK keymaps.
 - [FredTingaud/quick-bench-front-end](https://github.com/FredTingaud/quick-bench-front-end) - Front end side of quick-bench
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [t0t07/misbrands](https://github.com/t0t07/misbrands) - Silly icons that only geeks understand.
 - [t0t07/howXdoY](https://github.com/t0t07/howXdoY) - A minimal site that Googles how selected tech companies design a system.
 - [wip/app](https://github.com/wip/app) - The WIP GitHub App
@@ -943,6 +942,7 @@
 - [Xuyuanp/zmk-config](https://github.com/Xuyuanp/zmk-config) - 
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [rust-fuzz/trophy-case](https://github.com/rust-fuzz/trophy-case) - 🏆 Collection of bugs uncovered by fuzzing Rust code
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [oom-ai/tidb-hackathon-2021](https://github.com/oom-ai/tidb-hackathon-2021) - 
 - [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
 - [ZhengHe-MD/nerds-docs](https://github.com/ZhengHe-MD/nerds-docs) - 
@@ -2140,7 +2140,7 @@
 - [rhysd/github-complete.vim](https://github.com/rhysd/github-complete.vim) - Vim input completion for GitHub
 - [Shougo/vimproc.vim](https://github.com/Shougo/vimproc.vim) - Interactive command execution in Vim.
 - [chr4/nginx.vim](https://github.com/chr4/nginx.vim) - Improved nginx vim plugin (incl. syntax highlighting)
-- [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
+- [vim-polyglot/vim-polyglot](https://github.com/vim-polyglot/vim-polyglot) - A solid language pack for Vim.
 - [logico/typewriter](https://github.com/logico/typewriter) - An iA Writer inspired color scheme. It has support for vim, vim airline, vim lightline, tmux and urxvt/xterm.
 - [skywind3000/vim-keysound](https://github.com/skywind3000/vim-keysound) - :wine_glass: Play typewriter sound in Vim when you are typing a letter
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
