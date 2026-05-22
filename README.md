@@ -750,7 +750,7 @@
 - [streem/pbandk](https://github.com/streem/pbandk) - Kotlin Multiplatform Code Generator and Runtime for Protocol Buffers (Protobuf)
 - [Shinigami072/OpenTracing-Kotlin-Coroutine-Integration](https://github.com/Shinigami072/OpenTracing-Kotlin-Coroutine-Integration) - An Integration Between open Tracing Api and Kotlin Coroutines allowing the use of a Tracer in a trans Thread Context
 - [mjstrasser/ktor-features-zipkin](https://github.com/mjstrasser/ktor-features-zipkin) - A Ktor feature that handles Open Zipkin tracing IDs
-- [pinterest/ktlint](https://github.com/pinterest/ktlint) - An anti-bikeshedding Kotlin linter with built-in formatter
+- [ktlint/ktlint](https://github.com/ktlint/ktlint) - An anti-bikeshedding Kotlin linter with built-in formatter
 - [ktorio/ktor-samples](https://github.com/ktorio/ktor-samples) - Sample projects for Ktor
 - [square/okio](https://github.com/square/okio) - A modern I/O library for Android, Java, and Kotlin Multiplatform.
 - [rharter/ktor-moshi](https://github.com/rharter/ktor-moshi) - Ktor feature that adds Moshi JSON serialization support
@@ -1208,7 +1208,7 @@
 ## Rust 
 
 - [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
-- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
 - [agavra/tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings
 - [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler) - Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.
 - [leiysky/recall](https://github.com/leiysky/recall) - 
@@ -1453,7 +1453,7 @@
 - [greshake/i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
 - [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language
 - [awestlake87/pyo3-asyncio](https://github.com/awestlake87/pyo3-asyncio) - 
-- [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
+- [grpc/grpc-rust](https://github.com/grpc/grpc-rust) - A native gRPC client & server implementation with async/await support.
 - [fussybeaver/bollard](https://github.com/fussybeaver/bollard) - Docker daemon API in Rust
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
 - [sunfishcode/mustang](https://github.com/sunfishcode/mustang) - Rust programs written entirely in Rust
