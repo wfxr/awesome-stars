@@ -425,7 +425,7 @@
 - [google/go-jsonnet](https://github.com/google/go-jsonnet) - 
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
-- [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
+- [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - Algorithm Patterns — the most scientific way to practice, the fastest path to an offer. You deserve it~ 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [golang/go](https://github.com/golang/go) - The Go programming language
