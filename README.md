@@ -989,7 +989,6 @@
 - [RustStudy/rust_daily_news](https://github.com/RustStudy/rust_daily_news) - Rust每日新闻
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [jitpack/jitpack.io](https://github.com/jitpack/jitpack.io) - Documentation and issues of https://jitpack.io
-- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [rust-cli/team](https://github.com/rust-cli/team) - CLI working group
 - [ohmyarch/fontconfig-zh-cn](https://github.com/ohmyarch/fontconfig-zh-cn) - 
 - [Kotlin/coroutines-examples](https://github.com/Kotlin/coroutines-examples) - Examples for coroutines design in Kotlin
@@ -1117,6 +1116,7 @@
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
 - [aliyun/aliyun-log-cli](https://github.com/aliyun/aliyun-log-cli) - Command Line Interface for Aliyun Log Service
 - [wandergis/coordTransform_py](https://github.com/wandergis/coordTransform_py) - 提供百度坐标系(bd-09)、火星坐标系(国测局坐标系、gcj02)、WGS84坐标系直接的坐标互转，也提供了解析高德地址的方法的python版本
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [dstat-real/dstat](https://github.com/dstat-real/dstat) - Versatile resource statistics tool (the real one, not the Red Hat clone)
 - [kennethreitz/records](https://github.com/kennethreitz/records) - SQL for Humans™
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
