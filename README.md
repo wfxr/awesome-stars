@@ -545,6 +545,7 @@
 - [google/protobuf-gradle-plugin](https://github.com/google/protobuf-gradle-plugin) - Protobuf Plugin for Gradle
 - [gradle/gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all
 - [patrikerdes/gradle-use-latest-versions-plugin](https://github.com/patrikerdes/gradle-use-latest-versions-plugin) - 
+- [ben-manes/gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin) - Gradle plugin to discover dependency updates
 - [melix/jmh-gradle-plugin](https://github.com/melix/jmh-gradle-plugin) - Integrates the JMH benchmarking framework with Gradle
 
 ## HTML 
@@ -761,7 +762,6 @@
 - [bennyhuo/TieGuanYin](https://github.com/bennyhuo/TieGuanYin) - Activity Builder.
 - [bennyhuo/Apt-Tutorials](https://github.com/bennyhuo/Apt-Tutorials) - 注解处理器教程，使用 Kotlin 编写
 - [square/kotlinpoet](https://github.com/square/kotlinpoet) - A Kotlin API for generating .kt source files.
-- [ben-manes/gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin) - Gradle plugin to discover dependency updates
 - [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
 - [wfxr/elastic-tunnel](https://github.com/wfxr/elastic-tunnel) - Tools for downloading data from elasticsearch
 - [square/moshi](https://github.com/square/moshi) - A modern JSON library for Kotlin and Java.
@@ -1044,7 +1044,7 @@
 
 ## Python 
 
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agen
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, determi
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [SpaceTimee/Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) - JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono
 - [dalibo/pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring.
