@@ -756,7 +756,7 @@
 - [lysine-dev/okio](https://github.com/lysine-dev/okio) - A modern I/O library for Android, Java, and Kotlin Multiplatform.
 - [rharter/ktor-moshi](https://github.com/rharter/ktor-moshi) - Ktor feature that adds Moshi JSON serialization support
 - [kotlin-orm/ktorm](https://github.com/kotlin-orm/ktorm) - A lightweight ORM framework for Kotlin with strong-typed SQL DSL and sequence APIs.
-- [lysine-dev/sqldelight](https://github.com/lysine-dev/sqldelight) - SQLDelight - Generates typesafe Kotlin APIs from SQL
+- [sqldelight/sqldelight](https://github.com/sqldelight/sqldelight) - SQLDelight - Generates typesafe Kotlin APIs from SQL
 - [Kotlin/kotlinx-cli](https://github.com/Kotlin/kotlinx-cli) - Pure Kotlin implementation of a generic CLI parser.
 - [jnizet/gradle-kotlin-dsl-migration-guide](https://github.com/jnizet/gradle-kotlin-dsl-migration-guide) - The missing migration guide to the Gradle Kotlin DSL
 - [bennyhuo/TieGuanYin](https://github.com/bennyhuo/TieGuanYin) - Activity Builder.
