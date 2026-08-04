@@ -493,7 +493,6 @@
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [dinedal/textql](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV
 - [itchyny/bed](https://github.com/itchyny/bed) - Binary editor written in Go
-- [shawn1m/overture](https://github.com/shawn1m/overture) - A customized DNS relay server
 - [xjdrew/kone](https://github.com/xjdrew/kone) - Transparent proxy for home/enterprise network
 - [cjbassi/gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
