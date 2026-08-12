@@ -1133,7 +1133,7 @@
 - [autokey/autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
-- [dbcli/mycli](https://github.com/dbcli/mycli) - Rich Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
+- [dbcli/mycli](https://github.com/dbcli/mycli) - Rich Terminal Client for MySQL with AutoCompletion, Syntax Highlighting, and Dataframes
 - [felixonmars/ydcv](https://github.com/felixonmars/ydcv) - YouDao Console Version - Simple wrapper for Youdao online translate (Chinese &lt;-&gt; English) service API, as an alternative to the StarDict Console Version(sdcv).
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -1500,7 +1500,7 @@
 - [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [modelfoxdotdev/modelfox](https://github.com/modelfoxdotdev/modelfox) - ModelFox makes it easy to train, deploy, and monitor machine learning models.
-- [apognu/tuigreet](https://github.com/apognu/tuigreet) - Graphical console greeter for greetd
+- [tuigreet/tuigreet](https://github.com/tuigreet/tuigreet) - Graphical console greeter for greetd
 - [zesterer/ariadne](https://github.com/zesterer/ariadne) - [Ariadne has moved to Codeberg!] A fancy diagnostics & error reporting crate
 - [michaelb/sniprun](https://github.com/michaelb/sniprun) - A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
 - [rbakbashev/elfcat](https://github.com/rbakbashev/elfcat) - ELF visualizer. Generates HTML files from ELF binaries.
