@@ -7,7 +7,7 @@
 
 - [Astro](#astro)
 - [Awk](#awk)
-- [Brainfuck](#brainfuck)
+- [B](#b)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -74,7 +74,7 @@
 
 - [soimort/translate-shell](https://github.com/soimort/translate-shell) - :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 
-## Brainfuck 
+## B 
 
 - [demisto/dockerfiles](https://github.com/demisto/dockerfiles) - Demisto's Dockerfiles and Image Build Management
 
