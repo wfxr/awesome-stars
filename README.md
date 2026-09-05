@@ -1018,7 +1018,7 @@
 
 ## PHP 
 
-- [projectsend/projectsend](https://github.com/projectsend/projectsend) - ProjectSend is a free, open source software that lets you share files with your clients, focused on ease of use and privacy. It supports clients groups, system users roles, statistics, multiple langua
+- [projectsend/projectsend](https://github.com/projectsend/projectsend) - Share files with your clients, from your own server. Free, open source (GPLv2), self-hosted — or use ProjectSend Cloud, the official hosted version run by the same team.
 - [LycheeOrg/Lychee-v3](https://github.com/LycheeOrg/Lychee-v3) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 
