@@ -304,6 +304,7 @@
 
 ## Dart 
 
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 
@@ -345,7 +346,6 @@
 - [cloudwego/goref](https://github.com/cloudwego/goref) - Go heap object reference analysis tool
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 - [babarot/afx](https://github.com/babarot/afx) - An alternative, fast package manager for plugins and executable commands
 - [cespare/xxhash](https://github.com/cespare/xxhash) - A Go implementation of the 64-bit xxHash algorithm (XXH64)
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
@@ -1345,7 +1345,7 @@
 - [MordechaiHadad/bob](https://github.com/MordechaiHadad/bob) - A version manager for neovim
 - [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
-- [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn advanced Rust techniques by building an expression evaluation framework for a database system.
+- [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn advanced Rust by building a type-safe, auto-vectorized database expression engine
 - [transformrs/ata](https://github.com/transformrs/ata) - Ask the Terminal Anything (ATA): ChatGPT in the terminal
 - [Detegr/rust-ctrlc](https://github.com/Detegr/rust-ctrlc) - Easy Ctrl-C handler for Rust projects
 - [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) - A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
