@@ -171,7 +171,6 @@
 - [pingcap/tiflash](https://github.com/pingcap/tiflash) - The analytical engine for TiDB and TiDB Cloud. Try free: https://tidbcloud.com/free-trial
 - [4paradigm/OpenMLDB](https://github.com/4paradigm/OpenMLDB) - OpenMLDB is an open-source machine learning database that provides a feature platform computing consistent features for training and inference.
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
-- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
@@ -1213,7 +1212,7 @@
 - [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) - A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [godzie44/BugStalker](https://github.com/godzie44/BugStalker) - Rust debugger for Linux x86-64
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [BersisSe/feather](https://github.com/BersisSe/feather) - Feather🪶: A Rust web framework that does not use async
 - [axodotdev/cargo-dist](https://github.com/axodotdev/cargo-dist) - 📦 shippable application packaging
 - [bgreenwell/doxx](https://github.com/bgreenwell/doxx) - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!
@@ -1463,6 +1462,7 @@
 - [oom-ai/oomplay](https://github.com/oom-ai/oomplay) - 
 - [softprops/shiplift](https://github.com/softprops/shiplift) - 🐳 🦀 rust interface for maneuvering docker containers
 - [brunoczim/fslock](https://github.com/brunoczim/fslock) - File locking for Rust.
+- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 - [rusoto/rusoto](https://github.com/rusoto/rusoto) - AWS SDK for Rust
 - [withoutboats/heck](https://github.com/withoutboats/heck) - oh heck, a case conversion library
 - [dtolnay/seq-macro](https://github.com/dtolnay/seq-macro) - Macro to repeat sequentially indexed copies of a fragment of code
