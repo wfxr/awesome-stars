@@ -560,6 +560,7 @@
 - [hjson/hjson](https://github.com/hjson/hjson) - Hjson, a user interface for JSON
 - [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [digoal/blog](https://github.com/digoal/blog) - AI,Opensource,Database,Business,Finance,Minds. git clone --depth 1 https://github.com/digoal/blog
+- [graphql/graphql-spec](https://github.com/graphql/graphql-spec) - GraphQL is a query language and execution engine tied to any backend service.
 - [iwannarun/JavaWiki](https://github.com/iwannarun/JavaWiki) - 不定期收集与JAVA有关书籍或文章
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
 - [llimllib/bloomfilter-tutorial](https://github.com/llimllib/bloomfilter-tutorial) - A Bloom Filter Tutorial
@@ -684,7 +685,6 @@
 - [zhongyi-tong/electronic-wechat](https://github.com/zhongyi-tong/electronic-wechat) - :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
 - [apachecn/apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) - ApacheCN 数据结构与算法译文集
 - [ramsayleung/blog](https://github.com/ramsayleung/blog) - A clean, elegant blog built on Rust
-- [graphql/graphql-spec](https://github.com/graphql/graphql-spec) - GraphQL is a query language and execution engine tied to any backend service.
 - [stylish-userstyles/stylish-chrome](https://github.com/stylish-userstyles/stylish-chrome) - Stylish extension for Chrome and Chrome-like things
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [elasticsearch-dump/elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch & opensearch
@@ -883,6 +883,7 @@
 - [MagmaMcFry/Factorissimo2](https://github.com/MagmaMcFry/Factorissimo2) - Factorissimo2, a Factorio mod that adds factory buildings to the game
 - [wakatime/vim-wakatime](https://github.com/wakatime/vim-wakatime) - Vim plugin for automatic time tracking and metrics generated from your programming activity.
 - [clojure-vim/acid.nvim](https://github.com/clojure-vim/acid.nvim) - Asynchronous Clojure Interactive Development
+- [babarot/dotfiles](https://github.com/babarot/dotfiles) - A repository that gathered files starting with dot
 
 ## MDX 
 
@@ -1995,7 +1996,6 @@
 - [Fakerr/git-recall](https://github.com/Fakerr/git-recall) - An interactive way to peruse your git history from the terminal
 - [babarot/git-switch](https://github.com/babarot/git-switch) - 
 - [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
-- [babarot/dotfiles](https://github.com/babarot/dotfiles) - A repository that gathered files starting with dot
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
