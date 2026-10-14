@@ -461,7 +461,7 @@
 - [sclevine/yj](https://github.com/sclevine/yj) - CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order.
 - [vividvilla/csvtotable](https://github.com/vividvilla/csvtotable) - Simple command-line utility to convert CSV, TSV and Excel files into a single self-contained HTML page with search, filters, and sorting
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
-- [prest/prest](https://github.com/prest/prest) - Instant REST and MCP APIs for PostgreSQL and MySQL 8, on existing or new databases. CRUD, custom SQL routes, auth and ACL without writing a backend. Low-code, ⚡ realtime, high-performance. Native MySQ
+- [prest/prest](https://github.com/prest/prest) - Instant REST and MCP APIs for PostgreSQL and MySQL, on existing or new databases. CRUD, custom SQL routes, auth and ACL without writing a backend. Low-code, ⚡ realtime, high-performance. Native MySQL 
 - [ContainerSolutions/k8s-deployment-strategies](https://github.com/ContainerSolutions/k8s-deployment-strategies) - Kubernetes deployment strategies explained
 - [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm) - Aggregator for issues filed against kubeadm
 - [json-iterator/go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
