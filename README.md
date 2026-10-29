@@ -86,7 +86,7 @@
 - [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk) - ZMK Firmware Repository
 - [seleznevae/libfort](https://github.com/seleznevae/libfort) - C/C++ library to create formatted ASCII tables for console applications
 - [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_
-- [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
+- [meta/zstd](https://github.com/meta/zstd) - Zstandard - Fast real-time compression algorithm
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capture SSL/TLS plaintext with eBPF—no MITM proxy or custom CA installation. Supports Linux and Android on x86_64 and arm64.
 - [Rust-for-Linux/linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
@@ -161,7 +161,7 @@
 - [urob/zmk-config](https://github.com/urob/zmk-config) - Personal ZMK firmware configuration for various boards (34-keys, Glove80, Planck)
 - [p-ranav/tabulate](https://github.com/p-ranav/tabulate) - Table Maker for Modern C++
 - [SKeyerror/reading-source-code-of-leveldb-1.23](https://github.com/SKeyerror/reading-source-code-of-leveldb-1.23) - leveldb 源码阅读，分析 DB 运作流程与 WAL、SSTable 等文件格式与 Compaction 过程。
-- [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
+- [meta/rocksdb](https://github.com/meta/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [MaskRay/ccls](https://github.com/MaskRay/ccls) - C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting
 - [cmu-db/bustub](https://github.com/cmu-db/bustub) - The BusTub Relational Database Management System (Educational)
@@ -1358,7 +1358,7 @@
 - [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - learn database internals by building a storage engine in Rust
 - [rizsotto/Bear](https://github.com/rizsotto/Bear) - Generate compile_commands.json for any C or C++ build
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage.
-- [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
+- [meta/sapling](https://github.com/meta/sapling) - A Scalable, User-Friendly Source Control System.
 - [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust!
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
