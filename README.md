@@ -1426,7 +1426,7 @@
 - [databendlabs/databend](https://github.com/databendlabs/databend) - Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.
 - [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime
 - [console-rs/dialoguer](https://github.com/console-rs/dialoguer) - Rust utility library for nice command line prompts and similar things
-- [bodil/smartstring](https://github.com/bodil/smartstring) - Compact inlined strings for Rust.
+- [bodil/smartstring](https://github.com/bodil/smartstring) - This project has moved to Codeberg:
 - [rust-fuzz/afl.rs](https://github.com/rust-fuzz/afl.rs) - 🐇 Fuzzing Rust code with American Fuzzy Lop
 - [dtolnay/case-studies](https://github.com/dtolnay/case-studies) - Analysis of various tricky Rust code
 - [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow) - A modular implementation of timely dataflow in Rust
