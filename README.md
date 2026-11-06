@@ -228,7 +228,6 @@
 
 ## CMake 
 
-- [pingcap/kvproto](https://github.com/pingcap/kvproto) - Protocol buffer files for TiKV
 - [ruslo/hunter](https://github.com/ruslo/hunter) - 
 
 ## CSS 
@@ -353,6 +352,7 @@
 - [pseudomuto/protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc) - Documentation generator plugin for Google Protocol Buffers
 - [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
+- [pingcap/kvproto](https://github.com/pingcap/kvproto) - Protocol buffer files for TiKV
 - [lithammer/shortuuid](https://github.com/lithammer/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs
 - [go-lark/lark](https://github.com/go-lark/lark) - An easy-to-use SDK for Feishu and Lark Open Platform (Instant Messaging API only)
 - [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment for humans and agents
