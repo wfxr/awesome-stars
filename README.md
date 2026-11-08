@@ -526,7 +526,7 @@
 - [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [babarot/gomi](https://github.com/babarot/gomi) - 🗑️ Your UNIX rm command with a safety net!
-- [babarot/gist](https://github.com/babarot/gist) - :octocat: A simple gist editor for CLI
+- [babarot/gist](https://github.com/babarot/gist) - :octocat: Read and edit your GitHub Gists from the terminal
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
