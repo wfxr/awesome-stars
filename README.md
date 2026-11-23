@@ -1367,7 +1367,7 @@
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
 - [clitic/kdam](https://github.com/clitic/kdam) - A console progress bar library for Rust. (inspired by tqdm & rich.progress)
 - [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb) - rust wrapper for rocksdb
-- [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - media streaming framework and teleconferencing system written in rust
+- [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - Open source video conferencing platform and media streaming framework in Rust, over WebTransport (QUIC) and WebSocket
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [dcchut/async-recursion](https://github.com/dcchut/async-recursion) - Procedural macro for recursive async functions
 - [softprops/atty](https://github.com/softprops/atty) - are you or are you not a tty?
